@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1836442890396176582",
+    "created_at": "2024-09-18T16:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T17:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836442890396176582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1593582263295672320",
+          "start": 3,
+          "username": "MCA15203157"
+        },
+        {
+          "end": 25,
+          "id": "1533401546230181888",
+          "start": 17,
+          "username": "OFETYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836442890396176582",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836269643914502273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MCA15203157: @OFETYun 用 x 的都是大傻逼。到时候中美打仗，美国人远程摁个按钮，x 就在相亲相爱一家人里狂发男娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1836442890396176582",
+        "created_at": "2024-09-18T16:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T17:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836442890396176582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1593582263295672320",
+              "start": 3,
+              "username": "MCA15203157"
+            },
+            {
+              "end": 25,
+              "id": "1533401546230181888",
+              "start": 17,
+              "username": "OFETYun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836442890396176582",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836269643914502273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MCA15203157: @OFETYun 用 x 的都是大傻逼。到时候中美打仗，美国人远程摁个按钮，x 就在相亲相爱一家人里狂发男娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593582263295672320",
+        "conversation_id": "1836248118045605946",
+        "created_at": "2024-09-18T05:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T06:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836269643914502273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533401546230181888",
+              "start": 0,
+              "username": "OFETYun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836269643914502273",
+        "in_reply_to_user_id": "1533401546230181888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 35209,
+          "like_count": 541,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836248118045605946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OFETYun 用 x 的都是大傻逼。到时候中美打仗，美国人远程摁个按钮，x 就在相亲相爱一家人里狂发男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 134,
+          "like_count": 707,
+          "listed_count": 0,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T12:30:00.000Z",
+        "description": "",
+        "id": "1593582263295672320",
+        "location": "被放逐者之图书馆",
+        "name": "梅菲斯托菲勒斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593582650761293824/IU8wMdHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 1807,
+          "like_count": 7054,
+          "listed_count": 1,
+          "tweet_count": 2327
+        },
+        "username": "MCA15203157",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T10:53:20.000Z",
+        "description": "人心无定向，辄为寒暑移。\n岂知蹈汤火，涉世甘如饴。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12339.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.12339.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/WTa6b6TS1G"
+              }
+            ]
+          }
+        },
+        "id": "1533401546230181888",
+        "location": "平流层",
+        "name": "𝑷𝒆𝒓𝒔𝒊𝒄𝒂𝒓𝒊𝒂 𝒕𝒊𝒏𝒄𝒕𝒐𝒓𝒊𝒂☁",
+        "pinned_tweet_id": "1826145114223423643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834073776658804737/lJ6ug_Xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 380,
+          "like_count": 18887,
+          "listed_count": 4,
+          "tweet_count": 2794
+        },
+        "url": "https://t.co/WTa6b6TS1G",
+        "username": "OFETYun",
+        "verified": false
+      }
+    ]
+  }
+}

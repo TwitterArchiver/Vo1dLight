@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2048860871615746123",
+    "created_at": "2026-04-27T20:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T21:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048860871615746123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GHchangelog/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/GHchangelog/status/2048832067954196813",
+          "start": 4,
+          "url": "https://t.co/2Pt9WDEVkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048860871615746123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048832067954196813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发狂了 https://t.co/2Pt9WDEVkk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2048860871615746123",
+        "created_at": "2026-04-27T20:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T21:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048860871615746123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GHchangelog/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/GHchangelog/status/2048832067954196813",
+              "start": 4,
+              "url": "https://t.co/2Pt9WDEVkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048860871615746123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048832067954196813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发狂了 https://t.co/2Pt9WDEVkk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "988463677287301120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2048832067954196813",
+        "created_at": "2026-04-27T18:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048832067954196813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Starting today, in our Copilot Student plan, we are removing GPT-5.3-Codex from the model picker. It remains available through auto model selection. Auto model selection is built to match each…",
+              "display_url": "github.blog/changelog/2026…",
+              "end": 213,
+              "expanded_url": "https://github.blog/changelog/2026-04-27-copilot-student-gpt-5-3-codex-removal-from-model-picker",
+              "images": [
+                {
+                  "height": 629,
+                  "url": "https://pbs.twimg.com/news_img/2048832131732791296/ae5_maTd?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048832131732791296/ae5_maTd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 190,
+              "status": 200,
+              "title": "Copilot Student GPT-5.3-Codex removal from model picker - GitHub Changelog",
+              "unwound_url": "https://github.blog/changelog/2026-04-27-copilot-student-gpt-5-3-codex-removal-from-model-picker/",
+              "url": "https://t.co/admCkMjoob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048832067954196813",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 15367,
+          "like_count": 112,
+          "quote_count": 25,
+          "reply_count": 29,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-5.3-Codex is removed from the Copilot Student model picker but still accessible via auto model selection.\n\n• Auto model selection picks the best model per request to boost coding speed\n\nhttps://t.co/admCkMjoob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4125,
+          "following_count": 1705,
+          "like_count": 62444,
+          "listed_count": 12,
+          "media_count": 319,
+          "tweet_count": 3873
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-23T17:04:40.000Z",
+        "description": "The official GitHub Changelog feed. Your source for new releases, improvements, security updates, and fixes across GitHub products.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.blog/changelog/",
+                "end": 23,
+                "expanded_url": "https://github.blog/changelog/",
+                "start": 0,
+                "url": "https://t.co/ykOnVly2XW"
+              }
+            ]
+          }
+        },
+        "id": "988463677287301120",
+        "location": "GitHub",
+        "name": "GitHub Changelog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920951809037807616/S3Mj0R0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31842,
+          "following_count": 7,
+          "like_count": 4,
+          "listed_count": 334,
+          "media_count": 3,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/ykOnVly2XW",
+        "username": "GHchangelog",
+        "verified": true
+      }
+    ]
+  }
+}

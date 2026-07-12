@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960363196922908672"
+      ],
+      "media_source_tweet_id": [
+        "1960363231572119862"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1960364639239213409",
+    "created_at": "2025-08-26T15:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960364639239213409"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 16,
+          "tag": "暁山瑞希誕生祭2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "911092541990174721",
+          "start": 3,
+          "username": "Serien_AAA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZUUe87eseI",
+          "end": 52,
+          "expanded_url": "https://x.com/Serien_AAA/status/1960363231572119862/photo/1",
+          "media_key": "3_1960363196922908672",
+          "start": 29,
+          "url": "https://t.co/ZUUe87eseI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960364639239213409",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960363231572119862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Serien_AAA: #暁山瑞希誕生祭2025 https://t.co/ZUUe87eseI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4050,
+        "media_key": "3_1960363196922908672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSb8O9W0AAEnwI.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960363196922908672"
+          ],
+          "media_source_tweet_id": [
+            "1960363231572119862"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1960364639239213409",
+        "created_at": "2025-08-26T15:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960364639239213409"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "暁山瑞希誕生祭2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "911092541990174721",
+              "start": 3,
+              "username": "Serien_AAA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUUe87eseI",
+              "end": 52,
+              "expanded_url": "https://x.com/Serien_AAA/status/1960363231572119862/photo/1",
+              "media_key": "3_1960363196922908672",
+              "start": 29,
+              "url": "https://t.co/ZUUe87eseI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960364639239213409",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960363231572119862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Serien_AAA: #暁山瑞希誕生祭2025 https://t.co/ZUUe87eseI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960363196922908672"
+          ]
+        },
+        "author_id": "911092541990174721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1960363231572119862",
+        "created_at": "2025-08-26T15:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960363231572119862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "暁山瑞希誕生祭2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUUe87eseI",
+              "end": 36,
+              "expanded_url": "https://x.com/Serien_AAA/status/1960363231572119862/photo/1",
+              "media_key": "3_1960363196922908672",
+              "start": 13,
+              "url": "https://t.co/ZUUe87eseI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960363231572119862",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 380,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "#暁山瑞希誕生祭2025 https://t.co/ZUUe87eseI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3107,
+          "following_count": 1141,
+          "like_count": 24433,
+          "listed_count": 8,
+          "media_count": 199,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T04:59:24.000Z",
+        "description": "🇨🇳\nチ。@Serien_chi   || 94 @Serien_94              \n\n  👋Wavebox：https://t.co/kMZk23UxZ6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Serien_chi"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Serien_94"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/3c2fy6b1l…",
+                "end": 85,
+                "expanded_url": "https://wavebox.me/wave/3c2fy6b1lh9kvv34/",
+                "start": 62,
+                "url": "https://t.co/kMZk23UxZ6"
+              }
+            ]
+          }
+        },
+        "id": "911092541990174721",
+        "name": "Serien",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861505564511215616/Wz3Wen39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5413,
+          "following_count": 434,
+          "like_count": 17331,
+          "listed_count": 28,
+          "media_count": 123,
+          "tweet_count": 2936
+        },
+        "username": "Serien_AAA",
+        "verified": false
+      }
+    ]
+  }
+}

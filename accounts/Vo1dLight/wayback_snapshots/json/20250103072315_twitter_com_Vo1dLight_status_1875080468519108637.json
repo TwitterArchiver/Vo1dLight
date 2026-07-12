@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1875080468519108637",
+    "created_at": "2025-01-03T07:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T08:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875080468519108637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Vo1dLight/stat…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/Vo1dLight/status/1874872598837989602",
+          "start": 59,
+          "url": "https://t.co/bVAWqmlQvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875080468519108637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874872598837989602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已老实，以后再也不在选xx理论之前嗯上xx实验了🤡\n要是抽到强电实验真不如直接漏电电死我算了，三相电路这种事情不要啊 https://t.co/bVAWqmlQvX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1875080468519108637",
+        "created_at": "2025-01-03T07:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T08:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875080468519108637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vo1dLight/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Vo1dLight/status/1874872598837989602",
+              "start": 59,
+              "url": "https://t.co/bVAWqmlQvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875080468519108637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874872598837989602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已老实，以后再也不在选xx理论之前嗯上xx实验了🤡\n要是抽到强电实验真不如直接漏电电死我算了，三相电路这种事情不要啊 https://t.co/bVAWqmlQvX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1874872598837989602",
+        "created_at": "2025-01-02T17:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T18:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874872598837989602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874872598837989602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真他妈复习不完了，明天该热带风味启动了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but where&what is it? 🌠 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 🌠 bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 718,
+          "like_count": 5969,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      }
+    ]
+  }
+}

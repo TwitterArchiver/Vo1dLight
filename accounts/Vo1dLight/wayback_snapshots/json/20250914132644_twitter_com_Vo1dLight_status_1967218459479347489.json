@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1966912433924305141",
+    "created_at": "2025-09-14T13:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967218459479347489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642717433323745281",
+          "start": 0,
+          "username": "MozaikRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967218459479347489",
+    "in_reply_to_user_id": "1642717433323745281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966912433924305141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MozaikRR 烤匠好吃的, 不过怎么吃的不是麻辣味("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966912422255710208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vgbUja0AAANz_.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966912422264102912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vgbUla4AAZVBV.jpg",
+        "width": 945
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1966912422226378752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vgbUcbQAA9EB2.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966912422251556866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vgbUibcAIAPQg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1966912433924305141",
+        "created_at": "2025-09-14T13:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967218459479347489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642717433323745281",
+              "start": 0,
+              "username": "MozaikRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967218459479347489",
+        "in_reply_to_user_id": "1642717433323745281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966912433924305141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MozaikRR 烤匠好吃的, 不过怎么吃的不是麻辣味("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966912422255710208",
+            "3_1966912422264102912",
+            "3_1966912422226378752",
+            "3_1966912422251556866"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966912433924305141",
+        "created_at": "2025-09-13T17:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966912433924305141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pP5Si6HT1",
+              "end": 34,
+              "expanded_url": "https://x.com/MozaikRR/status/1966912433924305141/photo/1",
+              "media_key": "3_1966912422255710208",
+              "start": 11,
+              "url": "https://t.co/2pP5Si6HT1"
+            },
+            {
+              "display_url": "pic.x.com/2pP5Si6HT1",
+              "end": 34,
+              "expanded_url": "https://x.com/MozaikRR/status/1966912433924305141/photo/1",
+              "media_key": "3_1966912422264102912",
+              "start": 11,
+              "url": "https://t.co/2pP5Si6HT1"
+            },
+            {
+              "display_url": "pic.x.com/2pP5Si6HT1",
+              "end": 34,
+              "expanded_url": "https://x.com/MozaikRR/status/1966912433924305141/photo/1",
+              "media_key": "3_1966912422226378752",
+              "start": 11,
+              "url": "https://t.co/2pP5Si6HT1"
+            },
+            {
+              "display_url": "pic.x.com/2pP5Si6HT1",
+              "end": 34,
+              "expanded_url": "https://x.com/MozaikRR/status/1966912433924305141/photo/1",
+              "media_key": "3_1966912422251556866",
+              "start": 11,
+              "url": "https://t.co/2pP5Si6HT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966912433924305141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 955,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不吃火锅就吃烤匠🥰🥰 https://t.co/2pP5Si6HT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3229,
+          "following_count": 1209,
+          "like_count": 26792,
+          "listed_count": 10,
+          "media_count": 206,
+          "tweet_count": 1632
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "舞萌舞萌舞萌舞萌舞萌 中二中二中二中二中二 音击音击音击音击音击 烤烤烤烤烤 d5jd5jd5jd5jd5j",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952306352854097920/WMElfmq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 294,
+          "like_count": 127,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 183
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

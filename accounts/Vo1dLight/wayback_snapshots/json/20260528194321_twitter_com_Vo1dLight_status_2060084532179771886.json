@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2060079872077443121",
+    "created_at": "2026-05-28T19:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060084532179771886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "_Genshin_Ganyu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060084532179771886",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060079872077443121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Genshin_Ganyu_ 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060078300165447680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbeTJraIAAzkvK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060079865349754880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbfuQcbUAAXo1y.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2060079872077443121",
+        "created_at": "2026-05-28T19:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060084532179771886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "_Genshin_Ganyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060084532179771886",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060079872077443121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Genshin_Ganyu_ 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060078300165447680",
+            "3_2060079865349754880"
+          ]
+        },
+        "author_id": "1511574513967722505",
+        "conversation_id": "2060079872077443121",
+        "created_at": "2026-05-28T19:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:18:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060078308314996823",
+          "2060079872077443121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyA9D7KUf7",
+              "end": 40,
+              "expanded_url": "https://x.com/_Genshin_Ganyu_/status/2060079872077443121/photo/1",
+              "media_key": "3_2060078300165447680",
+              "start": 17,
+              "url": "https://t.co/PyA9D7KUf7"
+            },
+            {
+              "display_url": "pic.x.com/PyA9D7KUf7",
+              "end": 40,
+              "expanded_url": "https://x.com/_Genshin_Ganyu_/status/2060079872077443121/photo/1",
+              "media_key": "3_2060079865349754880",
+              "start": 17,
+              "url": "https://t.co/PyA9D7KUf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060079872077443121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "衣柜里终于多了件可爱点的衣服…… https://t.co/PyA9D7KUf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 1738,
+          "like_count": 65201,
+          "listed_count": 12,
+          "media_count": 329,
+          "tweet_count": 4101
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "日常推、技术推\n椰羊老师 | BD7PVQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "研究员王小美🥥🐑",
+        "pinned_tweet_id": "2041811802737238261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3895,
+          "following_count": 1116,
+          "like_count": 3165,
+          "listed_count": 8,
+          "media_count": 353,
+          "tweet_count": 2462
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": true
+      }
+    ]
+  }
+}

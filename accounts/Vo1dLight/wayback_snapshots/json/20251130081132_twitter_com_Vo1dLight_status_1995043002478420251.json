@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994978715957432323"
+      ],
+      "media_source_tweet_id": [
+        "1994978981582704655"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1995043002478420251",
+    "created_at": "2025-11-30T08:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T09:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995043002478420251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GANjzBywVQ",
+          "end": 45,
+          "expanded_url": "https://x.com/Alice__486/status/1994978981582704655/photo/1",
+          "media_key": "3_1994978715957432323",
+          "start": 22,
+          "url": "https://t.co/GANjzBywVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995043002478420251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994978981582704655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 连身袜手套 https://t.co/GANjzBywVQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1994978715957432323",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-WkoMbkAMbJ59.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994978715957432323"
+          ],
+          "media_source_tweet_id": [
+            "1994978981582704655"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1995043002478420251",
+        "created_at": "2025-11-30T08:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995043002478420251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090136700741812224",
+              "start": 3,
+              "username": "Alice__486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GANjzBywVQ",
+              "end": 45,
+              "expanded_url": "https://x.com/Alice__486/status/1994978981582704655/photo/1",
+              "media_key": "3_1994978715957432323",
+              "start": 22,
+              "url": "https://t.co/GANjzBywVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995043002478420251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994978981582704655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alice__486: 连身袜手套 https://t.co/GANjzBywVQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994978715957432323"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "1994978981582704655",
+        "created_at": "2025-11-30T03:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994978981582704655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GANjzBywVQ",
+              "end": 29,
+              "expanded_url": "https://x.com/Alice__486/status/1994978981582704655/photo/1",
+              "media_key": "3_1994978715957432323",
+              "start": 6,
+              "url": "https://t.co/GANjzBywVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994978981582704655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3790,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "连身袜手套 https://t.co/GANjzBywVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3581,
+          "following_count": 1338,
+          "like_count": 32762,
+          "listed_count": 11,
+          "media_count": 244,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "1878774496057836005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27213,
+          "following_count": 1700,
+          "like_count": 52321,
+          "listed_count": 90,
+          "media_count": 900,
+          "tweet_count": 15403
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

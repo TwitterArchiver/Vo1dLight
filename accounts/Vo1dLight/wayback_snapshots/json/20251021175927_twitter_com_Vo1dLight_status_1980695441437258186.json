@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1980587904612331896",
+    "created_at": "2025-10-21T17:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T18:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980695441437258186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967825721021304833",
+          "start": 0,
+          "username": "SugarMelu741"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980695441437258186",
+    "in_reply_to_user_id": "1967825721021304833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980587904612331896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SugarMelu741 好看捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980587896299003904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3x2MrVXIAA0ORK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1980587904612331896",
+        "created_at": "2025-10-21T17:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980695441437258186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967825721021304833",
+              "start": 0,
+              "username": "SugarMelu741"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980695441437258186",
+        "in_reply_to_user_id": "1967825721021304833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980587904612331896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SugarMelu741 好看捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980587896299003904"
+          ]
+        },
+        "author_id": "1967825721021304833",
+        "conversation_id": "1980587904612331896",
+        "created_at": "2025-10-21T10:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980587904612331896"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "男娘"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "女裝男子"
+            },
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "可愛的男孩子"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "cd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/byZLSBdRMG",
+              "end": 82,
+              "expanded_url": "https://x.com/SugarMelu741/status/1980587904612331896/photo/1",
+              "media_key": "3_1980587896299003904",
+              "start": 59,
+              "url": "https://t.co/byZLSBdRMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980587904612331896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5018,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "放一張沒加工過的w\n每次都覺得臥蠶畫很重了\n但拍照出來又是另外一回事ㄌ\n\n#男娘 #女裝男子 #可愛的男孩子 #cd https://t.co/byZLSBdRMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3548,
+          "following_count": 1274,
+          "like_count": 29456,
+          "listed_count": 11,
+          "media_count": 226,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T05:40:02.000Z",
+        "description": "一個菜菜的小南梁🩹  \n大家可以叫我咩嚕就好🖤\n平常是個都玩遊戲 看動畫ㄉ宅宅\n 立志當一個漂亮的男孩子(?  \n不約 如果只是想要約的請別私訊\n\n#男娘 #可爱的男孩子 #Femboy #伪娘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "男娘"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "可爱的男孩子"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "Femboy"
+              },
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "伪娘"
+              }
+            ]
+          }
+        },
+        "id": "1967825721021304833",
+        "location": "台灣",
+        "name": "黒糖メル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968235941849710592/ismz33Yj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 81,
+          "like_count": 199,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 130
+        },
+        "username": "SugarMelu741",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005938232920530945"
+      ],
+      "media_source_tweet_id": [
+        "2005938237768917072"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2009866902676615396",
+    "created_at": "2026-01-10T05:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T06:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009866902676615396"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812363069487742976",
+          "start": 3,
+          "username": "mingji_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cnh8VBhdF5",
+          "end": 62,
+          "expanded_url": "https://x.com/mingji_A/status/2005938237768917072/photo/1",
+          "media_key": "3_2005938232920530945",
+          "start": 39,
+          "url": "https://t.co/cnh8VBhdF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009866902676615396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005938237768917072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingji_A: 后天的努力真的很重要所以今天和明天休息😋\n#男娘 https://t.co/cnh8VBhdF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2005938232920530945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9aGMeaaYAEM0iD.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005938232920530945"
+          ],
+          "media_source_tweet_id": [
+            "2005938237768917072"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2009866902676615396",
+        "created_at": "2026-01-10T05:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T06:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009866902676615396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812363069487742976",
+              "start": 3,
+              "username": "mingji_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnh8VBhdF5",
+              "end": 62,
+              "expanded_url": "https://x.com/mingji_A/status/2005938237768917072/photo/1",
+              "media_key": "3_2005938232920530945",
+              "start": 39,
+              "url": "https://t.co/cnh8VBhdF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009866902676615396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005938237768917072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingji_A: 后天的努力真的很重要所以今天和明天休息😋\n#男娘 https://t.co/cnh8VBhdF5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005938232920530945"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2005938237768917072",
+        "created_at": "2025-12-30T09:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005938237768917072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnh8VBhdF5",
+              "end": 48,
+              "expanded_url": "https://x.com/mingji_A/status/2005938237768917072/photo/1",
+              "media_key": "3_2005938232920530945",
+              "start": 25,
+              "url": "https://t.co/cnh8VBhdF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005938237768917072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3969,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "后天的努力真的很重要所以今天和明天休息😋\n#男娘 https://t.co/cnh8VBhdF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3822,
+          "following_count": 1481,
+          "like_count": 43556,
+          "listed_count": 11,
+          "media_count": 269,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 1493,
+          "like_count": 67441,
+          "listed_count": 8,
+          "media_count": 98,
+          "tweet_count": 12788
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

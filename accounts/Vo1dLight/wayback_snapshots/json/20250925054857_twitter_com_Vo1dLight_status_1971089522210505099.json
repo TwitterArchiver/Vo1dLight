@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1970956657804091662",
+    "created_at": "2025-09-25T05:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T06:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971089522210505099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "851753956652990464",
+          "start": 0,
+          "username": "Aletheia_li"
+        },
+        {
+          "end": 22,
+          "id": "1499442786453663745",
+          "start": 13,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971089522210505099",
+    "in_reply_to_user_id": "851753956652990464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971088606069653746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aletheia_li @Ted_yeet 吃吃🍐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1970956657804091662",
+        "created_at": "2025-09-25T05:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T06:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971089522210505099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "851753956652990464",
+              "start": 0,
+              "username": "Aletheia_li"
+            },
+            {
+              "end": 22,
+              "id": "1499442786453663745",
+              "start": 13,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971089522210505099",
+        "in_reply_to_user_id": "851753956652990464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971088606069653746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aletheia_li @Ted_yeet 吃吃🍐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "851753956652990464",
+        "conversation_id": "1970956657804091662",
+        "created_at": "2025-09-25T05:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T06:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971088606069653746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971088606069653746",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971084472172020034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 我不好吃不要吃我😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3363,
+          "following_count": 1247,
+          "like_count": 27634,
+          "listed_count": 10,
+          "media_count": 212,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-11T11:09:02.000Z",
+        "description": "男的。/多喝热水 喜欢就买 不行就分 重启试试",
+        "id": "851753956652990464",
+        "location": "Tol Eressëa",
+        "name": "Αλήθεια🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735719300412084224/TwcBm8qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6724,
+          "following_count": 1316,
+          "like_count": 16478,
+          "listed_count": 13,
+          "media_count": 233,
+          "tweet_count": 3651
+        },
+        "username": "Aletheia_li",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "MtF🏳️‍⚧️/Trans-les/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥/超业余贝斯手/域ℍ上的非交换同构 @Ted_noncommute /持有@MeowCatherina作为家养猫/↓在这里找到我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Ted_noncommute"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "MeowCatherina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+MUyD9Gjm0yU5Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+MUyD9Gjm0yU5ZGJk",
+                "start": 0,
+                "url": "https://t.co/zbsLzEK5y8"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "(0,0,0,0)∈ℝ⁴",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 1272,
+          "like_count": 27296,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 5450
+        },
+        "url": "https://t.co/zbsLzEK5y8",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

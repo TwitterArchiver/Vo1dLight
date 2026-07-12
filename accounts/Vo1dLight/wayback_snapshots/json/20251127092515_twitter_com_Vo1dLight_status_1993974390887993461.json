@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993926939594350592",
+        "3_1993926939594412032",
+        "3_1993926939598536704",
+        "3_1993926939585998848"
+      ],
+      "media_source_tweet_id": [
+        "1993926968061120572",
+        "1993926968061120572",
+        "1993926968061120572",
+        "1993926968061120572"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1993974390887993461",
+    "created_at": "2025-11-27T09:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993974390887993461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1633809558513778694",
+          "start": 3,
+          "username": "xuxuna333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UPZ8mh0224",
+          "end": 124,
+          "expanded_url": "https://x.com/xuxuna333/status/1993926968061120572/photo/1",
+          "media_key": "3_1993926939594350592",
+          "start": 101,
+          "url": "https://t.co/UPZ8mh0224"
+        },
+        {
+          "display_url": "pic.x.com/UPZ8mh0224",
+          "end": 124,
+          "expanded_url": "https://x.com/xuxuna333/status/1993926968061120572/photo/1",
+          "media_key": "3_1993926939594412032",
+          "start": 101,
+          "url": "https://t.co/UPZ8mh0224"
+        },
+        {
+          "display_url": "pic.x.com/UPZ8mh0224",
+          "end": 124,
+          "expanded_url": "https://x.com/xuxuna333/status/1993926968061120572/photo/1",
+          "media_key": "3_1993926939598536704",
+          "start": 101,
+          "url": "https://t.co/UPZ8mh0224"
+        },
+        {
+          "display_url": "pic.x.com/UPZ8mh0224",
+          "end": 124,
+          "expanded_url": "https://x.com/xuxuna333/status/1993926968061120572/photo/1",
+          "media_key": "3_1993926939585998848",
+          "start": 101,
+          "url": "https://t.co/UPZ8mh0224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993974390887993461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993926968061120572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuxuna333: 叫我晓晓就好  男生  希望被当作女生\n被夸夸会很开心  谢谢你的喜欢\n欢迎镁铝xnn饱饱贴贴扩列ww \nqq同好群：767188754（有审核推特没内容非xnn不通过） https://t.co/UPZ8mh0224"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993974390887993461].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993974390887993461",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993974390887993461"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993926939594350592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vZ_L6aYAAajBC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993926939594412032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vZ_L6bUAAloie.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993926939598536704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vZ_L7aQAA1BBV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993926939585998848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vZ_L4a8AANrZ_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993926939594350592",
+            "3_1993926939594412032",
+            "3_1993926939598536704",
+            "3_1993926939585998848"
+          ]
+        },
+        "author_id": "1633809558513778694",
+        "conversation_id": "1993926968061120572",
+        "created_at": "2025-11-27T06:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993926968061120572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPZ8mh0224",
+              "end": 109,
+              "expanded_url": "https://x.com/xuxuna333/status/1993926968061120572/photo/1",
+              "media_key": "3_1993926939594350592",
+              "start": 86,
+              "url": "https://t.co/UPZ8mh0224"
+            },
+            {
+              "display_url": "pic.x.com/UPZ8mh0224",
+              "end": 109,
+              "expanded_url": "https://x.com/xuxuna333/status/1993926968061120572/photo/1",
+              "media_key": "3_1993926939594412032",
+              "start": 86,
+              "url": "https://t.co/UPZ8mh0224"
+            },
+            {
+              "display_url": "pic.x.com/UPZ8mh0224",
+              "end": 109,
+              "expanded_url": "https://x.com/xuxuna333/status/1993926968061120572/photo/1",
+              "media_key": "3_1993926939598536704",
+              "start": 86,
+              "url": "https://t.co/UPZ8mh0224"
+            },
+            {
+              "display_url": "pic.x.com/UPZ8mh0224",
+              "end": 109,
+              "expanded_url": "https://x.com/xuxuna333/status/1993926968061120572/photo/1",
+              "media_key": "3_1993926939585998848",
+              "start": 86,
+              "url": "https://t.co/UPZ8mh0224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993926968061120572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1885,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "叫我晓晓就好  男生  希望被当作女生\n被夸夸会很开心  谢谢你的喜欢\n欢迎镁铝xnn饱饱贴贴扩列ww \nqq同好群：767188754（有审核推特没内容非xnn不通过） https://t.co/UPZ8mh0224"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 1328,
+          "like_count": 32303,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T12:38:59.000Z",
+        "description": "性别♂ 坐标浙江 电子宠物 多人设 喜欢看番打游戏 过🚪88接lol/瓦陪玩 线下 推特唯一小号搞抽象擦边@mianovo3 抖音灌注四小丸子！私信评论都会看 欢迎同好宝宝贴贴w互fo扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "mianovo3"
+              }
+            ]
+          }
+        },
+        "id": "1633809558513778694",
+        "name": "缘晓晓",
+        "pinned_tweet_id": "1993926968061120572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835919528875941888/nLrH0SN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46723,
+          "following_count": 703,
+          "like_count": 10069,
+          "listed_count": 184,
+          "media_count": 501,
+          "tweet_count": 6087
+        },
+        "username": "xuxuna333",
+        "verified": false
+      }
+    ]
+  }
+}

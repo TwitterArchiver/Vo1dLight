@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1995454476098953377",
+    "created_at": "2025-12-01T19:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T20:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995581492324683886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1513464808112156675",
+          "start": 0,
+          "username": "tapioka_desuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995581492324683886",
+    "in_reply_to_user_id": "1513464808112156675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995454476098953377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tapioka_desuuu 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1995454466968141824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FHQ-0aQAAhpbG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1995454476098953377",
+        "created_at": "2025-12-01T19:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995581492324683886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1513464808112156675",
+              "start": 0,
+              "username": "tapioka_desuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995581492324683886",
+        "in_reply_to_user_id": "1513464808112156675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995454476098953377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tapioka_desuuu 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995454466968141824"
+          ]
+        },
+        "author_id": "1513464808112156675",
+        "conversation_id": "1995454476098953377",
+        "created_at": "2025-12-01T11:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995454476098953377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B29B5aV8mc",
+              "end": 51,
+              "expanded_url": "https://x.com/tapioka_desuuu/status/1995454476098953377/photo/1",
+              "media_key": "3_1995454466968141824",
+              "start": 28,
+              "url": "https://t.co/B29B5aV8mc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995454476098953377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2446,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還是放個腿腿好了⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄\n#男娘 https://t.co/B29B5aV8mc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3589,
+          "following_count": 1350,
+          "like_count": 33131,
+          "listed_count": 11,
+          "media_count": 245,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T10:31:58.000Z",
+        "description": "負面人｜內耗人｜#地雷系 #地雷系女子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "地雷系"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "地雷系女子"
+              }
+            ]
+          }
+        },
+        "id": "1513464808112156675",
+        "name": "粉圓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995479911025573888/DHnWmQP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 206,
+          "like_count": 1011,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 260
+        },
+        "username": "tapioka_desuuu",
+        "verified": false
+      }
+    ]
+  }
+}

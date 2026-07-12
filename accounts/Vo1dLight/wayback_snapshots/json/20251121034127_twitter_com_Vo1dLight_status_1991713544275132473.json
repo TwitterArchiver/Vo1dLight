@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1991707719267676497",
+    "created_at": "2025-11-21T03:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T04:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991713544275132473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1568748618760482816",
+          "start": 0,
+          "username": "excapton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991713544275132473",
+    "in_reply_to_user_id": "1568748618760482816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991707719267676497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@excapton 但可以熬到有早餐的时候再睡觉（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1991707719267676497",
+        "created_at": "2025-11-21T03:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991713544275132473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1568748618760482816",
+              "start": 0,
+              "username": "excapton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991713544275132473",
+        "in_reply_to_user_id": "1568748618760482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991707719267676497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@excapton 但可以熬到有早餐的时候再睡觉（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568748618760482816",
+        "conversation_id": "1991707719267676497",
+        "created_at": "2025-11-21T03:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991707719267676497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991707719267676497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难在麦当劳有早餐的时候醒来，我买了早餐卡好亏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 1300,
+          "like_count": 31479,
+          "listed_count": 10,
+          "media_count": 234,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T23:50:00.000Z",
+        "description": "看看我",
+        "id": "1568748618760482816",
+        "name": "离子芥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987094516650942474/b11mwfSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 458,
+          "like_count": 51026,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 3879
+        },
+        "username": "excapton",
+        "verified": false
+      }
+    ]
+  }
+}

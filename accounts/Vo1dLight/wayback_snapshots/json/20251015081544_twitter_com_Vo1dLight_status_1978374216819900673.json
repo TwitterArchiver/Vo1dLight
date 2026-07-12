@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1978364281319018963",
+    "created_at": "2025-10-15T08:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T09:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978374216819900673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580545728602333185",
+          "start": 0,
+          "username": "JINGZHI__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978374216819900673",
+    "in_reply_to_user_id": "1580545728602333185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978364281319018963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINGZHI__ 今晚要不要吃萨莉亚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_1978364241162928128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SPy6baAAALBhE.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1978364281319018963",
+        "created_at": "2025-10-15T08:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978374216819900673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580545728602333185",
+              "start": 0,
+              "username": "JINGZHI__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978374216819900673",
+        "in_reply_to_user_id": "1580545728602333185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978364281319018963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINGZHI__ 今晚要不要吃萨莉亚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978364241162928128"
+          ]
+        },
+        "author_id": "1580545728602333185",
+        "conversation_id": "1978364281319018963",
+        "created_at": "2025-10-15T07:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978364281319018963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEVd3ZFJbT",
+              "end": 102,
+              "expanded_url": "https://x.com/JINGZHI__/status/1978364281319018963/photo/1",
+              "media_key": "3_1978364241162928128",
+              "start": 79,
+              "url": "https://t.co/hEVd3ZFJbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978364281319018963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才下课，旁边的同学都在讨论历史人类学，跨学科，研究视角，从马来西亚华人族裔到微观史，从民族到田野调查\n\n但我却在和我的舍友讨论今晚要不要吃萨莉亚,,,,, https://t.co/hEVd3ZFJbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 1269,
+          "like_count": 28934,
+          "listed_count": 10,
+          "media_count": 224,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T13:07:32.000Z",
+        "description": "历史系在读/主攻日本近世史、江户幕府政治史/ Galgame重度爱好者/白学家/雪菜党/ 朽木冬子/寒蝉痴/東方Project/日语苦手 ,N1已过/ 社会自由主义/雀魂豪一(已淡)\n@JINGZHI_2\n＜(´vﾟ)ビシィ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "JINGZHI_2"
+              }
+            ]
+          }
+        },
+        "id": "1580545728602333185",
+        "location": "京都二条城",
+        "name": "静志",
+        "pinned_tweet_id": "1899733643033284747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930453091222204417/PP-pYp0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 393,
+          "like_count": 9262,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2950
+        },
+        "username": "JINGZHI__",
+        "verified": false
+      }
+    ]
+  }
+}

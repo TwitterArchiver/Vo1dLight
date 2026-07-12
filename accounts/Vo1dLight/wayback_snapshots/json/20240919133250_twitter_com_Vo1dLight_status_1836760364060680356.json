@@ -1,0 +1,100 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1836760364060680356",
+    "created_at": "2024-09-19T13:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T14:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836760364060680356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1836760364060680356",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沟槽的暑期科研实习...现在要结题了写结题报告怎么写，写我期间共看了动漫三部炫了奶茶四杯吗🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1836760364060680356",
+        "created_at": "2024-09-19T13:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T14:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836760364060680356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836760364060680356",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沟槽的暑期科研实习...现在要结题了写结题报告怎么写，写我期间共看了动漫三部炫了奶茶四杯吗🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 136,
+          "like_count": 738,
+          "listed_count": 0,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      }
+    ]
+  }
+}

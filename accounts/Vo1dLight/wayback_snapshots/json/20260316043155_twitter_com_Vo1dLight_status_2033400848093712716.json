@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2033367951089246358",
+    "created_at": "2026-03-16T04:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033400848093712716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1628369872081104898",
+          "start": 0,
+          "username": "asaka_fumizuki"
+        },
+        {
+          "end": 31,
+          "id": "1700547797026476032",
+          "start": 16,
+          "username": "haitao_li24917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033400848093712716",
+    "in_reply_to_user_id": "1628369872081104898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033398294056153330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asaka_fumizuki @haitao_li24917 我觉得nano真的挺好用的，在一些极轻量编辑环境下，没有vim那么极端（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2033367951089246358",
+        "created_at": "2026-03-16T04:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033400848093712716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1628369872081104898",
+              "start": 0,
+              "username": "asaka_fumizuki"
+            },
+            {
+              "end": 31,
+              "id": "1700547797026476032",
+              "start": 16,
+              "username": "haitao_li24917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033400848093712716",
+        "in_reply_to_user_id": "1628369872081104898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033398294056153330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asaka_fumizuki @haitao_li24917 我觉得nano真的挺好用的，在一些极轻量编辑环境下，没有vim那么极端（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628369872081104898",
+        "conversation_id": "2033367951089246358",
+        "created_at": "2026-03-16T04:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033398294056153330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700547797026476032",
+              "start": 0,
+              "username": "haitao_li24917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033398294056153330",
+        "in_reply_to_user_id": "1700547797026476032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033367951089246358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haitao_li24917 感觉很多场景nano也足够应付（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3950,
+          "following_count": 1612,
+          "like_count": 55122,
+          "listed_count": 11,
+          "media_count": 294,
+          "tweet_count": 3344
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T12:23:35.000Z",
+        "description": "安積 文月 | 💻 | OwO",
+        "id": "1628369872081104898",
+        "location": "now here",
+        "name": "0xDF4D4223🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862511215815401477/zd7ZKUUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 2770,
+          "like_count": 57578,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1308
+        },
+        "username": "asaka_fumizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T16:32:54.000Z",
+        "description": "斯....今天吃啥？",
+        "id": "1700547797026476032",
+        "location": "Hamilton, Ontario",
+        "name": "坂面OvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997510214426189824/I1BQ9C0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 256,
+          "like_count": 3447,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1188
+        },
+        "username": "haitao_li24917",
+        "verified": false
+      }
+    ]
+  }
+}

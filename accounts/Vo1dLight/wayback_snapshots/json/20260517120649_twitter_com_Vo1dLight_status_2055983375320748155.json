@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2055966562126041148",
+    "created_at": "2026-05-17T12:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055983375320748155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055983375320748155",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055966562126041148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan wetware（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2055680175808172032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc-Onrb0AAMrJz.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2055966562126041148",
+        "created_at": "2026-05-17T12:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055983375320748155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055983375320748155",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055966562126041148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan wetware（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055680175808172032"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2055966562126041148",
+        "created_at": "2026-05-17T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055966562126041148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebUycVNOfD",
+              "end": 181,
+              "expanded_url": "https://x.com/JanboMikan/status/2055966562126041148/photo/1",
+              "media_key": "3_2055680175808172032",
+              "start": 158,
+              "url": "https://t.co/ebUycVNOfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055966562126041148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 568,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在北京南锣鼓巷凑热闹看黄仁勋，人真多。\n被挤得太厉害，后面肌肉一下失守，◯珠一下顺着腿肚滑了出来，砸在地砖上。\n不偏不倚，正好滚到了刚买完炸酱面转身来的老黄脚边。\n众目睽睽之下，\n他低下头看了眼地上湿漉漉的铁球又看看我，\n迟疑地用纯正的英文问了句：\n「Did you drop your... hardware?」 https://t.co/ebUycVNOfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 1725,
+          "like_count": 63611,
+          "listed_count": 11,
+          "media_count": 328,
+          "tweet_count": 4038
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12997,
+          "following_count": 498,
+          "like_count": 17681,
+          "listed_count": 44,
+          "media_count": 274,
+          "tweet_count": 9152
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

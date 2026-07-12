@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2050447731550999022",
+    "created_at": "2026-05-02T05:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050447731550999022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050447731550999022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049081202007519324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 现在会议软件的AI总结太厉害了。\n刚开完会忘关了，直接锁了门躺在床上玩小玩具。\n半小时后切回电脑想看一下会议纪要。\n看到文档里密密麻麻全是标点符号和语气词。\n侧边栏的AI小助手还在尽职尽责地总结：\n「参会人员出现严重的呼吸急促，多次表示『太深了』…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2047279451554320384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGll0HHaEAA0jU_.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2050447731550999022",
+        "created_at": "2026-05-02T05:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050447731550999022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050447731550999022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049081202007519324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 现在会议软件的AI总结太厉害了。\n刚开完会忘关了，直接锁了门躺在床上玩小玩具。\n半小时后切回电脑想看一下会议纪要。\n看到文档里密密麻麻全是标点符号和语气词。\n侧边栏的AI小助手还在尽职尽责地总结：\n「参会人员出现严重的呼吸急促，多次表示『太深了』…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047279451554320384"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2049081202007519324",
+        "created_at": "2026-04-28T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049081202007519324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nx86BKGesy",
+              "end": 156,
+              "expanded_url": "https://x.com/JanboMikan/status/2049081202007519324/photo/1",
+              "media_key": "3_2047279451554320384",
+              "start": 133,
+              "url": "https://t.co/Nx86BKGesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049081202007519324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9369,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在会议软件的AI总结太厉害了。\n刚开完会忘关了，直接锁了门躺在床上玩小玩具。\n半小时后切回电脑想看一下会议纪要。\n看到文档里密密麻麻全是标点符号和语气词。\n侧边栏的AI小助手还在尽职尽责地总结：\n「参会人员出现严重的呼吸急促，多次表示『太深了』并请求停止操作。」 https://t.co/Nx86BKGesy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4154,
+          "following_count": 1706,
+          "like_count": 62578,
+          "listed_count": 12,
+          "media_count": 321,
+          "tweet_count": 3905
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12361,
+          "following_count": 489,
+          "like_count": 16781,
+          "listed_count": 43,
+          "media_count": 247,
+          "tweet_count": 8542
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1962483576055971960",
+    "created_at": "2025-09-01T14:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962519823075959265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1418453972277370885",
+          "start": 0,
+          "username": "Zemlupus000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962519823075959265",
+    "in_reply_to_user_id": "1418453972277370885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962503707872080318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zemlupus000 有点压抑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1962483576055971960",
+        "created_at": "2025-09-01T14:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962519823075959265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1418453972277370885",
+              "start": 0,
+              "username": "Zemlupus000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962519823075959265",
+        "in_reply_to_user_id": "1418453972277370885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962503707872080318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zemlupus000 有点压抑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418453972277370885",
+        "conversation_id": "1962483576055971960",
+        "created_at": "2025-09-01T13:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962503707872080318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962503707872080318",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962483576055971960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 什么时候回来踩我，快点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "梦想是成为会写代码的可爱男娘 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3145,
+          "following_count": 1162,
+          "like_count": 25103,
+          "listed_count": 9,
+          "media_count": 202,
+          "tweet_count": 1541
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-23T06:12:45.000Z",
+        "description": "上海/男/研/我只是来涩涩的/足控/M/想被女生和楠娘踩",
+        "id": "1418453972277370885",
+        "location": "shadow boarder",
+        "name": "Coriolis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770715446104465408/BfXkLz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 2143,
+          "like_count": 5488,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1781
+        },
+        "username": "Zemlupus000",
+        "verified": false
+      }
+    ]
+  }
+}

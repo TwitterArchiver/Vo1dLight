@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2069588300701315362",
+    "created_at": "2026-06-24T02:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069610380536828119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311608169269923841",
+          "start": 0,
+          "username": "g60Yts1kvzO4g8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069610380536828119",
+    "in_reply_to_user_id": "1311608169269923841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069588300701315362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g60Yts1kvzO4g8q 宿舍里不好打奶泡吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2069588300701315362",
+        "created_at": "2026-06-24T02:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069610380536828119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311608169269923841",
+              "start": 0,
+              "username": "g60Yts1kvzO4g8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069610380536828119",
+        "in_reply_to_user_id": "1311608169269923841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069588300701315362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g60Yts1kvzO4g8q 宿舍里不好打奶泡吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311608169269923841",
+        "conversation_id": "2069588300701315362",
+        "created_at": "2026-06-24T01:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069588300701315362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069588300701315362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直好奇为什么在宿舍不能做出和外面店里面拿铁接近的味道 无论是用冻干咖啡还是挂耳咖啡 到底是牛奶还是咖啡的问题呢）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 1823,
+          "like_count": 69058,
+          "listed_count": 13,
+          "media_count": 340,
+          "tweet_count": 4339
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T10:05:45.000Z",
+        "description": "怜悯我此生的不幸 不紧要 约到明年来生~",
+        "id": "1311608169269923841",
+        "location": "Taiwan",
+        "name": "素桐桐桐",
+        "pinned_tweet_id": "2046500844645048431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050591608375300096/rN9OcqFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 517,
+          "like_count": 266,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "g60Yts1kvzO4g8q",
+        "verified": false
+      }
+    ]
+  }
+}

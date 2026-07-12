@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032422107209216000"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2032430725035921606",
+    "created_at": "2026-03-13T12:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T13:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032430725035921606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b1zcQEl9Iw",
+          "end": 138,
+          "expanded_url": "https://x.com/Vo1dLight/status/2032430725035921606/photo/1",
+          "media_key": "3_2032422107209216000",
+          "start": 115,
+          "url": "https://t.co/b1zcQEl9Iw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032430725035921606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近趁着zed给穷苦大学生送zed pro的契机，试用了一下zed，感觉确实比vscode要快和趁手不少啊嗯。\n在现在这个拥有独立交互界面的coding agent大行其道的环境下，或许编辑器又将重回轻量化，做好它最本职的工作？ https://t.co/b1zcQEl9Iw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_2032422107209216000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSdI2XbMAA7EXY.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032422107209216000"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2032430725035921606",
+        "created_at": "2026-03-13T12:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032430725035921606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1zcQEl9Iw",
+              "end": 138,
+              "expanded_url": "https://x.com/Vo1dLight/status/2032430725035921606/photo/1",
+              "media_key": "3_2032422107209216000",
+              "start": 115,
+              "url": "https://t.co/b1zcQEl9Iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032430725035921606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近趁着zed给穷苦大学生送zed pro的契机，试用了一下zed，感觉确实比vscode要快和趁手不少啊嗯。\n在现在这个拥有独立交互界面的coding agent大行其道的环境下，或许编辑器又将重回轻量化，做好它最本职的工作？ https://t.co/b1zcQEl9Iw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3875,
+          "following_count": 1598,
+          "like_count": 54399,
+          "listed_count": 11,
+          "media_count": 293,
+          "tweet_count": 3289
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      }
+    ]
+  }
+}

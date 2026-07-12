@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2073380418351767853",
+    "created_at": "2026-07-05T18:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073831785214128327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896770865150476288",
+          "start": 0,
+          "username": "chenkinako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073831785214128327",
+    "in_reply_to_user_id": "1896770865150476288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073737992733446217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenkinako 并非，实际上我是坚定的服务器蛀虫😶‍🌫️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2073380418351767853",
+        "created_at": "2026-07-05T18:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073831785214128327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896770865150476288",
+              "start": 0,
+              "username": "chenkinako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073831785214128327",
+        "in_reply_to_user_id": "1896770865150476288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073737992733446217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenkinako 并非，实际上我是坚定的服务器蛀虫😶‍🌫️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896770865150476288",
+        "conversation_id": "2073380418351767853",
+        "created_at": "2026-07-05T11:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073737992733446217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073737992733446217",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073380418351767853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 慷慨且富有（额，存疑），我说终末地有你这样的玩家，我真是享福了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4417,
+          "following_count": 1847,
+          "like_count": 70439,
+          "listed_count": 13,
+          "media_count": 344,
+          "tweet_count": 4433
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T03:53:28.000Z",
+        "description": "",
+        "id": "1896770865150476288",
+        "name": "小琛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028748966532366336/01N_6N5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 447,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "chenkinako",
+        "verified": false
+      }
+    ]
+  }
+}

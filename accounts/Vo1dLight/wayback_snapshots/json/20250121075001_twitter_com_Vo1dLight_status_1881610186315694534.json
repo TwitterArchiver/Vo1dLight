@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1881345889786294289",
+    "created_at": "2025-01-21T07:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T08:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881610186315694534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554123423151837189",
+          "start": 0,
+          "username": "Rosetta_sc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881610186315694534",
+    "in_reply_to_user_id": "1554123423151837189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881606587233808621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rosetta_sc 真是欧欧又喷喷啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1881606587233808621].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1881606587233808621",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1881606587233808621"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1881345889786294289",
+        "created_at": "2025-01-21T07:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T08:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881610186315694534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554123423151837189",
+              "start": 0,
+              "username": "Rosetta_sc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881610186315694534",
+        "in_reply_to_user_id": "1554123423151837189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881606587233808621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rosetta_sc 真是欧欧又喷喷啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but where&what is it? 🌠 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 🌠 bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 790,
+          "like_count": 6780,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T15:14:47.000Z",
+        "description": "不成功编程人\n🥺😣😖😫😩",
+        "id": "1554123423151837189",
+        "location": "Floptropica",
+        "name": "你放屁！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597105010319708160/rrRyNw3k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 1697,
+          "like_count": 2632,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 382
+        },
+        "username": "Rosetta_sc",
+        "verified": false
+      }
+    ]
+  }
+}

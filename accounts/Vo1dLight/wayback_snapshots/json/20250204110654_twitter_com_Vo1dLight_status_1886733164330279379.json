@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1886722117955153936",
+    "created_at": "2025-02-04T11:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T12:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886733164330279379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580545728602333185",
+          "start": 0,
+          "username": "JINGZHI__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886733164330279379",
+    "in_reply_to_user_id": "1580545728602333185",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886722117955153936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINGZHI__ 🤡🪞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1886722117955153936",
+        "created_at": "2025-02-04T11:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T12:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886733164330279379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580545728602333185",
+              "start": 0,
+              "username": "JINGZHI__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886733164330279379",
+        "in_reply_to_user_id": "1580545728602333185",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886722117955153936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINGZHI__ 🤡🪞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886719937781358592"
+          ]
+        },
+        "author_id": "1580545728602333185",
+        "conversation_id": "1886722117955153936",
+        "created_at": "2025-02-04T10:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886722117955153936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOoRpN1P0Y",
+              "end": 137,
+              "expanded_url": "https://x.com/JINGZHI__/status/1886722117955153936/photo/1",
+              "media_key": "3_1886719937781358592",
+              "start": 114,
+              "url": "https://t.co/KOoRpN1P0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886722117955153936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我自己气笑了，写了一下午论文，就憋出来279个字，其中一半还是注释。感觉现在的自己太堕落了，回家玩了一个月后感觉毫无学习动力，之前最猛的时候能一天写一两千字，没想到现在的自己已经堕落到这种程度了，再这样下去恐怕要完蛋了😢😢😢 https://t.co/KOoRpN1P0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 850,
+          "like_count": 7934,
+          "listed_count": 6,
+          "media_count": 106,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T13:07:32.000Z",
+        "description": "历史系在读/主攻日本近世史、江户幕府政治史/ Galgame重度爱好者/白学家/雪菜党/ 朽木冬子/寒蝉痴/東方Project/日语苦手 ,N1已过/ 社会自由主义/雀魂豪一(已淡)\n@JINGZHI_2\n＜(´vﾟ)ビシィ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "JINGZHI_2"
+              }
+            ]
+          }
+        },
+        "id": "1580545728602333185",
+        "location": "京都二条城",
+        "name": "静志",
+        "pinned_tweet_id": "1779350260412010603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580548768289927168/ArxF40Gu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 363,
+          "like_count": 7038,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1932
+        },
+        "username": "JINGZHI__",
+        "verified": false
+      }
+    ]
+  }
+}

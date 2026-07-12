@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1832154164580745398",
+    "created_at": "2024-09-06T20:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T21:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832154164580745398"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "AlphaProteo",
+          "probability": 0.8989,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4783690002",
+          "start": 3,
+          "username": "GoogleDeepMind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832154164580745398",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 713
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831710991475777823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GoogleDeepMind: We’re presenting AlphaProteo: an AI system for designing novel proteins that bind more successfully to target molecules…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1832154164580745398",
+        "created_at": "2024-09-06T20:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T21:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832154164580745398"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "AlphaProteo",
+              "probability": 0.8989,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4783690002",
+              "start": 3,
+              "username": "GoogleDeepMind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832154164580745398",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 713
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831710991475777823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GoogleDeepMind: We’re presenting AlphaProteo: an AI system for designing novel proteins that bind more successfully to target molecules…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1831709812385562625"
+          ]
+        },
+        "author_id": "4783690002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1831710991475777823",
+        "created_at": "2024-09-05T15:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T16:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831710991475777823"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "AlphaProteo",
+              "probability": 0.8991,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "AI",
+              "probability": 0.4418,
+              "start": 33,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Every biological process in the body, from cell growth to immune responses, depends on interactions between molecules called proteins. Like a key to a lock, one protein can bind to another, helping regulate critical cellular processes. Protein structure prediction tools like AlphaFold have already given us tremendous insight into how proteins interact with each other to perform their functions, but these tools cannot create new proteins to directly manipulate those interactions. Scientists, however, can",
+              "display_url": "dpmd.ai/3XuMqbX",
+              "end": 278,
+              "expanded_url": "https://dpmd.ai/3XuMqbX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1831709643262869505/K3MinNk8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1831709643262869505/K3MinNk8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 255,
+              "status": 200,
+              "title": "AlphaProteo generates novel proteins for biology and health research",
+              "unwound_url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/?utm_source=x&utm_medium=&utm_campaign=gdm&utm_content=",
+              "url": "https://t.co/lx35RvplFr"
+            },
+            {
+              "display_url": "pic.x.com/dkm1q9zp6t",
+              "end": 302,
+              "expanded_url": "https://twitter.com/GoogleDeepMind/status/1831710991475777823/photo/1",
+              "media_key": "16_1831709812385562625",
+              "start": 279,
+              "url": "https://t.co/DKm1q9ZP6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831710991475777823",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 541,
+          "impression_count": 604349,
+          "like_count": 2486,
+          "quote_count": 161,
+          "reply_count": 62,
+          "retweet_count": 713
+        },
+        "reply_settings": "everyone",
+        "text": "We’re presenting AlphaProteo: an AI system for designing novel proteins that bind more successfully to target molecules. 🧬\n\nIt could help scientists better understand how biological systems function, save time in research, advance drug design and more. 🧵 https://t.co/lx35RvplFr https://t.co/DKm1q9ZP6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 224,
+          "listed_count": 0,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-19T13:46:08.000Z",
+        "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepmind.google",
+                "end": 23,
+                "expanded_url": "http://deepmind.google",
+                "start": 0,
+                "url": "https://t.co/uR24kkW95X"
+              }
+            ]
+          }
+        },
+        "id": "4783690002",
+        "location": "London, UK",
+        "name": "Google DeepMind",
+        "pinned_tweet_id": "1831710991475777823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994256,
+          "following_count": 275,
+          "like_count": 2161,
+          "listed_count": 11249,
+          "tweet_count": 3332
+        },
+        "url": "https://t.co/uR24kkW95X",
+        "username": "GoogleDeepMind",
+        "verified": true
+      }
+    ]
+  }
+}

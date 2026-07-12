@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971970525984706560"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1971606225147363602",
+    "created_at": "2025-09-27T16:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T17:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971970537439244336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943699809933963264",
+          "start": 0,
+          "username": "SetsuGlow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nI29UvIIyq",
+          "end": 66,
+          "expanded_url": "https://x.com/Vo1dLight/status/1971970537439244336/photo/1",
+          "media_key": "3_1971970525984706560",
+          "start": 43,
+          "url": "https://t.co/nI29UvIIyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971970537439244336",
+    "in_reply_to_user_id": "1943699809933963264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971789555599863948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SetsuGlow 没用过，不过单独的word，ppt等的app好像是不需要的捏（ https://t.co/nI29UvIIyq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1971970525984706560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13YvtTb0AAzt8D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971970525984706560"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1971606225147363602",
+        "created_at": "2025-09-27T16:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T17:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971970537439244336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943699809933963264",
+              "start": 0,
+              "username": "SetsuGlow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nI29UvIIyq",
+              "end": 66,
+              "expanded_url": "https://x.com/Vo1dLight/status/1971970537439244336/photo/1",
+              "media_key": "3_1971970525984706560",
+              "start": 43,
+              "url": "https://t.co/nI29UvIIyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971970537439244336",
+        "in_reply_to_user_id": "1943699809933963264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971789555599863948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SetsuGlow 没用过，不过单独的word，ppt等的app好像是不需要的捏（ https://t.co/nI29UvIIyq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943699809933963264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "1971606225147363602",
+        "created_at": "2025-09-27T04:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971789555599863948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971789555599863948",
+        "in_reply_to_user_id": "1943699809933963264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971606225147363602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呱！为什么ipad上面用Microsoft office需要订阅m365才行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 1251,
+          "like_count": 27808,
+          "listed_count": 10,
+          "media_count": 217,
+          "tweet_count": 1739
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:52:13.000Z",
+        "description": "|cosplay / JK•LO / 碎碎念 / 清水日更 /♂️|                         \n描绘有限之梦，谢谢你的喜欢和关注 / 老二刺螈 /\n错峰单休社畜 / 逞强i人 / 害怕孤单 / 喜欢朋友们 / \n我有错请你告诉我qwq /\n不约 / 骗子勿扰 / 非同 / 拒键政 /",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/setsuglow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/setsuglow",
+                "start": 0,
+                "url": "https://t.co/dA1WZ1mzq6"
+              }
+            ]
+          }
+        },
+        "id": "1943699809933963264",
+        "location": "“白日梦”",
+        "name": "雪灯",
+        "pinned_tweet_id": "1968971801687363980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968861885132050432/puesYqW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 391,
+          "like_count": 6187,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/dA1WZ1mzq6",
+        "username": "SetsuGlow",
+        "verified": true
+      }
+    ]
+  }
+}

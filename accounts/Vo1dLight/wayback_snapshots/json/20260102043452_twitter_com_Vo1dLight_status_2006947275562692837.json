@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2006919033774600216",
+    "created_at": "2026-01-02T04:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T05:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006947275562692837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        },
+        {
+          "end": 28,
+          "id": "709787332254117888",
+          "start": 14,
+          "username": "howie_serious"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006947275562692837",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006928320039162039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 @howie_serious 那或许我还该比较庆幸我开始玩电子产品的时候还没有这么发达的社交媒体...不过我到现在也没注册抖音就是，虽然现在短视频哪个平台都能刷就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2006919033774600216",
+        "created_at": "2026-01-02T04:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006947275562692837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 28,
+              "id": "709787332254117888",
+              "start": 14,
+              "username": "howie_serious"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006947275562692837",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006928320039162039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 @howie_serious 那或许我还该比较庆幸我开始玩电子产品的时候还没有这么发达的社交媒体...不过我到现在也没注册抖音就是，虽然现在短视频哪个平台都能刷就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2006919033774600216",
+        "created_at": "2026-01-02T03:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006928320039162039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "709787332254117888",
+              "start": 0,
+              "username": "howie_serious"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006928320039162039",
+        "in_reply_to_user_id": "709787332254117888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006919033774600216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@howie_serious 想起来我就是九岁左右有的手机，一直到六年级天天都是刷抖音刷到睡着。初中后莫名其妙就戒掉了...真的很可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 1457,
+          "like_count": 41080,
+          "listed_count": 11,
+          "media_count": 262,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "可能是个开发者 | 性别男 | 无意义发癫警告 ⚠ | 内网更常用名: Roitium | 赛博精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98S2km"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884576882760486912/fau5N8x2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 436,
+          "like_count": 4570,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 3395
+        },
+        "url": "https://t.co/z8BZ98S2km",
+        "username": "yoshino_2333",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-15T17:04:22.000Z",
+        "description": "purity of thought. be exactly who you are : just a serious man. 思想纯净，做好自己：严肃对待自己的兴趣，不要浮皮潦草。\n\n公众号：howie和小能熊\nyoutube：https://t.co/J1aSMKnUFo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@howieserious",
+                "end": 138,
+                "expanded_url": "https://www.youtube.com/@howieserious",
+                "start": 115,
+                "url": "https://t.co/J1aSMKnUFo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gpt.candobear.com",
+                "end": 23,
+                "expanded_url": "https://gpt.candobear.com",
+                "start": 0,
+                "url": "https://t.co/CpwBqd0mg1"
+              }
+            ]
+          }
+        },
+        "id": "709787332254117888",
+        "location": "beijing",
+        "name": "howie.serious",
+        "pinned_tweet_id": "2006178706386223158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/738174666309652480/UgeKnQOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51334,
+          "following_count": 336,
+          "like_count": 4467,
+          "listed_count": 637,
+          "media_count": 2262,
+          "tweet_count": 7100
+        },
+        "url": "https://t.co/CpwBqd0mg1",
+        "username": "howie_serious",
+        "verified": true
+      }
+    ]
+  }
+}

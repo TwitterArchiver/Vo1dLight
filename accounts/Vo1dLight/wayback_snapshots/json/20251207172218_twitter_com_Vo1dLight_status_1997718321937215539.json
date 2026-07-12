@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997653598478696448"
+      ],
+      "media_source_tweet_id": [
+        "1997653943053099334"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1997718321937215539",
+    "created_at": "2025-12-07T17:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T18:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997718321937215539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581308931346833414",
+          "start": 3,
+          "username": "240mmAP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ahBIzzGiMB",
+          "end": 36,
+          "expanded_url": "https://x.com/240mmAP/status/1997653943053099334/video/1",
+          "media_key": "13_1997653598478696448",
+          "start": 13,
+          "url": "https://t.co/ahBIzzGiMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997718321937215539",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997653943053099334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @240mmAP: https://t.co/ahBIzzGiMB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997718321937215539].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997718321937215539",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997718321937215539"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11999,
+        "height": 2062,
+        "media_key": "13_1997653598478696448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997653598478696448/img/DnuGfxRQ8y6xsINT.jpg",
+        "public_metrics": {
+          "view_count": 1755
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997653598478696448/vid/avc1/320x610/_Dbb8-sABfMhaAjt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997653598478696448/vid/avc1/480x916/q9Mk59pLCgmXJxnr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997653598478696448/vid/avc1/720x1374/RJ0Uoworsg4ByajV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997653598478696448/pl/02_Ian8K3_I7TaJS.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997653598478696448"
+          ]
+        },
+        "author_id": "1581308931346833414",
+        "conversation_id": "1997653943053099334",
+        "created_at": "2025-12-07T13:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997653943053099334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahBIzzGiMB",
+              "end": 23,
+              "expanded_url": "https://x.com/240mmAP/status/1997653943053099334/video/1",
+              "media_key": "13_1997653598478696448",
+              "start": 0,
+              "url": "https://t.co/ahBIzzGiMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997653943053099334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 3571,
+          "like_count": 352,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ahBIzzGiMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 1355,
+          "like_count": 33690,
+          "listed_count": 10,
+          "media_count": 247,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T15:40:22.000Z",
+        "description": "一条巡洋舰 爱好是收集黄色手办 非常感谢你的关注！             https://t.co/Cljc79GBa0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65407801",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/65407801",
+                "start": 38,
+                "url": "https://t.co/Cljc79GBa0"
+              }
+            ]
+          }
+        },
+        "id": "1581308931346833414",
+        "name": "孔代Condé",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872656072089206784/lLJ8aSq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20223,
+          "following_count": 118,
+          "like_count": 1727,
+          "listed_count": 107,
+          "media_count": 75,
+          "tweet_count": 175
+        },
+        "username": "240mmAP",
+        "verified": false
+      }
+    ]
+  }
+}

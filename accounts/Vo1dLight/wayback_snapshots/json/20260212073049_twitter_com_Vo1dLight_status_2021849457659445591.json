@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2021794177861005588",
+    "created_at": "2026-02-12T07:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021849457659445591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1473151337034846212",
+          "start": 0,
+          "username": "skmc99599"
+        },
+        {
+          "end": 23,
+          "id": "188330055",
+          "start": 11,
+          "username": "cherylnatsu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "745B parameters. 44B active. Built for agentic intelligence, advanced reasoning, and frontier-level performance.",
+          "display_url": "glm5.net",
+          "end": 47,
+          "expanded_url": "http://glm5.net",
+          "start": 24,
+          "status": 200,
+          "title": "GLM-5 | Zhipu AI's Next-Generation Large Language Model",
+          "unwound_url": "https://glm5.net/",
+          "url": "https://t.co/Sq8cO68EG5"
+        },
+        {
+          "description": "GLM-image是我们面向「认知型生成」技术范式的一次重要探索， 这是首个开源的工业表现级离散自回归图像生成模型。 GLM-Image 引入了「自回归+扩散解码器」混合架构，融合了 9B 的自回归模型与 7B 的 DiT 扩散解码器。前者利用其语言模型的底座优势，专注于提升对指令的语义理解和画面的全局构图；后者配合 Glyph Encoder 的文本编码器，专注于还原图像的高频细节和文字笔画，以此改善模型“提笔忘字”的现象。 general pipeline decoder formulation 基于上述架构创新，GLM-Image在文字渲染的权威榜单中达到开源 SOTA水平。 CVTG-2K（复杂视觉文字生成） 榜单核心考察模型在图像中同时生成多处文字的准确性。在多区域文字生成准确率上，GLM-Image 凭借 0.9116 的 Word Accuracy（文字准确率）成绩，位列开源模型前列。在NED（归一化编辑距离）指标上，GLM-Image 同样以 0.9557 胜出，表明其生 成的文字与目标文字高度一致，错字、漏字情况更少。 LongText-Bench（长文本渲染） 榜单考察模型渲染长文本、多",
+          "display_url": "docs.bigmodel.cn/cn/guide/model…",
+          "end": 174,
+          "expanded_url": "https://docs.bigmodel.cn/cn/guide/models/image-generation/glm-image",
+          "start": 151,
+          "status": 200,
+          "title": "GLM-Image - 智谱AI开放文档",
+          "unwound_url": "https://docs.bigmodel.cn/cn/guide/models/image-generation/glm-image",
+          "url": "https://t.co/MGoQkGCyD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021849457659445591",
+    "in_reply_to_user_id": "1473151337034846212",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021814990697894057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skmc99599 @cherylnatsu https://t.co/Sq8cO68EG5并不是智谱的官网，我翻了footer提供的四个参考资料也没有参考资料提到了glm5是在华为卡上训练的，有一篇提到了一月份发布的glm-image是在华为卡上训练的（这个是事实，官方在自己的api文档里也这么说https://t.co/MGoQkGCyD4）但似乎这个模型没有引发太多强烈反响"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021814982569340931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7uA72bsAMDuFb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2021794177861005588",
+        "created_at": "2026-02-12T07:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021849457659445591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1473151337034846212",
+              "start": 0,
+              "username": "skmc99599"
+            },
+            {
+              "end": 23,
+              "id": "188330055",
+              "start": 11,
+              "username": "cherylnatsu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "745B parameters. 44B active. Built for agentic intelligence, advanced reasoning, and frontier-level performance.",
+              "display_url": "glm5.net",
+              "end": 47,
+              "expanded_url": "http://glm5.net",
+              "start": 24,
+              "status": 200,
+              "title": "GLM-5 | Zhipu AI's Next-Generation Large Language Model",
+              "unwound_url": "https://glm5.net/",
+              "url": "https://t.co/Sq8cO68EG5"
+            },
+            {
+              "description": "GLM-image是我们面向「认知型生成」技术范式的一次重要探索， 这是首个开源的工业表现级离散自回归图像生成模型。 GLM-Image 引入了「自回归+扩散解码器」混合架构，融合了 9B 的自回归模型与 7B 的 DiT 扩散解码器。前者利用其语言模型的底座优势，专注于提升对指令的语义理解和画面的全局构图；后者配合 Glyph Encoder 的文本编码器，专注于还原图像的高频细节和文字笔画，以此改善模型“提笔忘字”的现象。 general pipeline decoder formulation 基于上述架构创新，GLM-Image在文字渲染的权威榜单中达到开源 SOTA水平。 CVTG-2K（复杂视觉文字生成） 榜单核心考察模型在图像中同时生成多处文字的准确性。在多区域文字生成准确率上，GLM-Image 凭借 0.9116 的 Word Accuracy（文字准确率）成绩，位列开源模型前列。在NED（归一化编辑距离）指标上，GLM-Image 同样以 0.9557 胜出，表明其生 成的文字与目标文字高度一致，错字、漏字情况更少。 LongText-Bench（长文本渲染） 榜单考察模型渲染长文本、多",
+              "display_url": "docs.bigmodel.cn/cn/guide/model…",
+              "end": 174,
+              "expanded_url": "https://docs.bigmodel.cn/cn/guide/models/image-generation/glm-image",
+              "start": 151,
+              "status": 200,
+              "title": "GLM-Image - 智谱AI开放文档",
+              "unwound_url": "https://docs.bigmodel.cn/cn/guide/models/image-generation/glm-image",
+              "url": "https://t.co/MGoQkGCyD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021849457659445591",
+        "in_reply_to_user_id": "1473151337034846212",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021814990697894057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skmc99599 @cherylnatsu https://t.co/Sq8cO68EG5并不是智谱的官网，我翻了footer提供的四个参考资料也没有参考资料提到了glm5是在华为卡上训练的，有一篇提到了一月份发布的glm-image是在华为卡上训练的（这个是事实，官方在自己的api文档里也这么说https://t.co/MGoQkGCyD4）但似乎这个模型没有引发太多强烈反响"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021814982569340931"
+          ]
+        },
+        "author_id": "1473151337034846212",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2021794177861005588",
+        "created_at": "2026-02-12T05:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021814990697894057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "188330055",
+              "start": 0,
+              "username": "cherylnatsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VF37ROtGsk",
+              "end": 128,
+              "expanded_url": "https://x.com/skmc99599/status/2021814990697894057/photo/1",
+              "media_key": "3_2021814982569340931",
+              "start": 105,
+              "url": "https://t.co/VF37ROtGsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021814990697894057",
+        "in_reply_to_user_id": "188330055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021794177861005588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cherylnatsu 智谱官网反正是这么写的…\n\n华为现在低调了，搞各种东西都喜欢把自己摘出来\n\n比如搞得unified bus，还有欧拉系统什么的都以行业协会的形式在推动\n\n认识一部分他们的人，情况属实 https://t.co/VF37ROtGsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3864,
+          "following_count": 1550,
+          "like_count": 48183,
+          "listed_count": 11,
+          "media_count": 281,
+          "tweet_count": 2964
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T04:40:36.000Z",
+        "description": "14年科技媒体从业者 | 关注并学着用AI 🤖 被Vibe coding拯救的菜鸡码农 🐒 好奇心｜浅见 | 冷知识 | 趣味 🌏",
+        "id": "1473151337034846212",
+        "name": "Bob76",
+        "pinned_tweet_id": "2020322197148168531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012884551203229696/rg4zINcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 545,
+          "like_count": 315,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 2289
+        },
+        "username": "skmc99599",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-08T13:43:45.000Z",
+        "description": "苹果产品相关话题优秀X友（前身为推友）",
+        "id": "188330055",
+        "name": "夏雨婷",
+        "pinned_tweet_id": "1853041525141217601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909990228821250049/60ODW_Qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16210,
+          "following_count": 3786,
+          "like_count": 8135,
+          "listed_count": 135,
+          "media_count": 950,
+          "tweet_count": 51431
+        },
+        "username": "cherylnatsu",
+        "verified": false
+      }
+    ]
+  }
+}

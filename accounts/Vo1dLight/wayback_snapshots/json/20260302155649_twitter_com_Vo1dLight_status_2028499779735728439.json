@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737218426191879",
+          "name": "Bytedance"
+        }
+      }
+    ],
+    "conversation_id": "2028379852538310801",
+    "created_at": "2026-03-02T15:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028499779735728439"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "bytedance",
+          "probability": 0.8194,
+          "start": 43,
+          "type": "Other"
+        },
+        {
+          "end": 75,
+          "normalized_text": "tiktok",
+          "probability": 0.9537,
+          "start": 70,
+          "type": "Other"
+        },
+        {
+          "end": 192,
+          "normalized_text": "Dola",
+          "probability": 0.6526,
+          "start": 189,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1233093780368171008",
+          "start": 0,
+          "username": "iamkylebalmer"
+        },
+        {
+          "end": 20,
+          "id": "786375418685165568",
+          "start": 15,
+          "username": "theo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028499779735728439",
+    "in_reply_to_user_id": "1233093780368171008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028408950983368921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamkylebalmer @theo It's the chatbot from bytedance (the corp behind tiktok)\nI can't imagine an icon for an ai app worse than those a**hole style ones like claude or gpt...... until I saw Dola's......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028408942913560576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZbL8WWoAA_NZV.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737218426191879",
+              "name": "Bytedance"
+            }
+          }
+        ],
+        "conversation_id": "2028379852538310801",
+        "created_at": "2026-03-02T15:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028499779735728439"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "bytedance",
+              "probability": 0.8194,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "tiktok",
+              "probability": 0.9537,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 192,
+              "normalized_text": "Dola",
+              "probability": 0.6526,
+              "start": 189,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1233093780368171008",
+              "start": 0,
+              "username": "iamkylebalmer"
+            },
+            {
+              "end": 20,
+              "id": "786375418685165568",
+              "start": 15,
+              "username": "theo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028499779735728439",
+        "in_reply_to_user_id": "1233093780368171008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028408950983368921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamkylebalmer @theo It's the chatbot from bytedance (the corp behind tiktok)\nI can't imagine an icon for an ai app worse than those a**hole style ones like claude or gpt...... until I saw Dola's......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028408942913560576"
+          ]
+        },
+        "author_id": "1233093780368171008",
+        "conversation_id": "2028379852538310801",
+        "created_at": "2026-03-02T09:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028408950983368921"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "UK",
+              "probability": 0.9787,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Dola",
+              "probability": 0.5627,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "786375418685165568",
+              "start": 0,
+              "username": "theo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/49qyhUX686",
+              "end": 54,
+              "expanded_url": "https://x.com/iamkylebalmer/status/2028408950983368921/photo/1",
+              "media_key": "3_2028408942913560576",
+              "start": 31,
+              "url": "https://t.co/49qyhUX686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028408950983368921",
+        "in_reply_to_user_id": "786375418685165568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5361,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028379852538310801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theo here’s UK \n\ntf is Dola…? https://t.co/49qyhUX686"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3900,
+          "following_count": 1597,
+          "like_count": 51245,
+          "listed_count": 11,
+          "media_count": 287,
+          "tweet_count": 3158
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T18:17:32.000Z",
+        "description": "🟣 AI business & entrepreneurship || International workshops || 50k newsletter readers || 8x Amazon best sellers || 150k on Tiktok || Great eyebrows",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiwithkyle.com",
+                "end": 23,
+                "expanded_url": "https://www.aiwithkyle.com/",
+                "start": 0,
+                "url": "https://t.co/uGHVGskV3X"
+              }
+            ]
+          }
+        },
+        "id": "1233093780368171008",
+        "location": "Start/grow business with AI ",
+        "name": "Kyle Balmer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981339890521403392/kSQGr25d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22498,
+          "following_count": 1181,
+          "like_count": 23416,
+          "listed_count": 193,
+          "media_count": 4624,
+          "tweet_count": 25256
+        },
+        "url": "https://t.co/uGHVGskV3X",
+        "username": "iamkylebalmer",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-13T01:18:04.000Z",
+        "description": "Full time CEO @t3dotchat. Part time YouTuber, investor, and developer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "t3dotchat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t3.gg",
+                "end": 23,
+                "expanded_url": "https://t3.gg",
+                "start": 0,
+                "url": "https://t.co/RIvNYtJWVz"
+              }
+            ]
+          }
+        },
+        "id": "786375418685165568",
+        "location": "San Francisco, CA",
+        "name": "Theo - t3.gg",
+        "pinned_tweet_id": "2027712526818152828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298842,
+          "following_count": 4024,
+          "like_count": 341260,
+          "listed_count": 1948,
+          "media_count": 8067,
+          "tweet_count": 59117
+        },
+        "url": "https://t.co/RIvNYtJWVz",
+        "username": "theo",
+        "verified": true
+      }
+    ]
+  }
+}

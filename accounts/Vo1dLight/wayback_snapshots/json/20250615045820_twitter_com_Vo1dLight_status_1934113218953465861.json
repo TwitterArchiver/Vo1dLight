@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1934107189679157447",
+    "created_at": "2025-06-15T04:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T05:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934113218953465861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794131217463615488",
+          "start": 0,
+          "username": "satsushou_sonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934113218953465861",
+    "in_reply_to_user_id": "1794131217463615488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934107189679157447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsushou_sonn 为什么我感觉效果没这么明显（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1934107189679157447",
+        "created_at": "2025-06-15T04:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T05:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934113218953465861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794131217463615488",
+              "start": 0,
+              "username": "satsushou_sonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934113218953465861",
+        "in_reply_to_user_id": "1794131217463615488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934107189679157447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsushou_sonn 为什么我感觉效果没这么明显（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794131217463615488",
+        "conversation_id": "1934107189679157447",
+        "created_at": "2025-06-15T04:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T05:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934107189679157447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934107189679157447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服用舍曲林之后会感觉到平静，不悲伤了，全世界都平静了，没有感情了，晚上一个人去卫生间连恐惧也没有了，但后来一点药效没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 1043,
+          "like_count": 17817,
+          "listed_count": 8,
+          "media_count": 166,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜头像画师：@yangyan88596853｜中国からの友情，ご清聴ありがとうございました，私は日本語が話せませんが、英語または通訳を通してコミュニケーションを取ることができます。皆様のご無事をお祈り申し上げます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "yangyan88596853"
+              }
+            ]
+          }
+        },
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "1933490646494687408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 3907,
+          "like_count": 1869,
+          "listed_count": 9,
+          "media_count": 249,
+          "tweet_count": 4993
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      }
+    ]
+  }
+}

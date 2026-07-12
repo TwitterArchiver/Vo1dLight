@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2032430725035921606",
+    "created_at": "2026-03-14T05:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032688491902153145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757245330641633280",
+          "start": 0,
+          "username": "rinnodoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032688491902153145",
+    "in_reply_to_user_id": "1757245330641633280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032687071362691185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinnodoka 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2032430725035921606",
+        "created_at": "2026-03-14T05:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032688491902153145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757245330641633280",
+              "start": 0,
+              "username": "rinnodoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032688491902153145",
+        "in_reply_to_user_id": "1757245330641633280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032687071362691185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinnodoka 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757245330641633280",
+        "conversation_id": "2032430725035921606",
+        "created_at": "2026-03-14T05:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032687071362691185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032687071362691185",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032430725035921606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 看起来背景是全季酒店？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3903,
+          "following_count": 1602,
+          "like_count": 54550,
+          "listed_count": 11,
+          "media_count": 293,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T03:28:39.000Z",
+        "description": "早安，午安，晚安｜🍥She｜适度远离政治｜遇到困难睡大觉｜本体是猫，喜欢发猫｜🐟 @shizo_nana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "shizo_nana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nodoka.world",
+                "end": 23,
+                "expanded_url": "https://nodoka.world",
+                "start": 0,
+                "url": "https://t.co/jsK1fmf0GE"
+              }
+            ]
+          }
+        },
+        "id": "1757245330641633280",
+        "location": "猫猫窝",
+        "name": "ノドか",
+        "pinned_tweet_id": "2016516400265961728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005857943758213120/34Npy49J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 282,
+          "like_count": 15061,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 2489
+        },
+        "url": "https://t.co/jsK1fmf0GE",
+        "username": "rinnodoka",
+        "verified": false
+      }
+    ]
+  }
+}

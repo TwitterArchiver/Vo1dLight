@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1992128160872431618",
+    "created_at": "2025-11-22T07:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992128160872431618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600811336010674176",
+          "start": 3,
+          "username": "Chu9w0ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992128160872431618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992050423486906569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chu9w0ww: 邸晓兰：是男是女，不需要纠结这个问题，如果感觉女装能开心的话，那自己开心就最好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1992128160872431618",
+        "created_at": "2025-11-22T07:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992128160872431618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600811336010674176",
+              "start": 3,
+              "username": "Chu9w0ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992128160872431618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992050423486906569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chu9w0ww: 邸晓兰：是男是女，不需要纠结这个问题，如果感觉女装能开心的话，那自己开心就最好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600811336010674176",
+        "conversation_id": "1992050423486906569",
+        "created_at": "2025-11-22T02:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992050423486906569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992050423486906569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5872,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "邸晓兰：是男是女，不需要纠结这个问题，如果感觉女装能开心的话，那自己开心就最好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 1305,
+          "like_count": 31583,
+          "listed_count": 10,
+          "media_count": 237,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T11:15:53.000Z",
+        "description": "",
+        "id": "1600811336010674176",
+        "name": "Chu9w0ww",
+        "pinned_tweet_id": "1951923527482790305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653423862753935360/WRP832Lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3744,
+          "following_count": 29,
+          "like_count": 6174,
+          "listed_count": 12,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "username": "Chu9w0ww",
+        "verified": false
+      }
+    ]
+  }
+}

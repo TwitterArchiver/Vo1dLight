@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066512942791839744"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066453105009742083",
+    "created_at": "2026-06-15T13:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066512979861078417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uHuOhPv4Ek",
+          "end": 47,
+          "expanded_url": "https://x.com/Vo1dLight/status/2066512979861078417/photo/1",
+          "media_key": "3_2066512942791839744",
+          "start": 24,
+          "url": "https://t.co/uHuOhPv4Ek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066512979861078417",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066453105009742083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ 这里放不下这么多屏幕 https://t.co/uHuOhPv4Ek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2066512942791839744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK26kpba0AAVgUB.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066453097434828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2EJMGb0AACa24.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066512942791839744"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066453105009742083",
+        "created_at": "2026-06-15T13:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066512979861078417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHuOhPv4Ek",
+              "end": 47,
+              "expanded_url": "https://x.com/Vo1dLight/status/2066512979861078417/photo/1",
+              "media_key": "3_2066512942791839744",
+              "start": 24,
+              "url": "https://t.co/uHuOhPv4Ek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066512979861078417",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066453105009742083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ 这里放不下这么多屏幕 https://t.co/uHuOhPv4Ek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066453097434828800"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "conversation_id": "2066453105009742083",
+        "created_at": "2026-06-15T09:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066453105009742083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iarak3NF3l",
+              "end": 42,
+              "expanded_url": "https://x.com/kujirarara_/status/2066453105009742083/photo/1",
+              "media_key": "3_2066453097434828800",
+              "start": 19,
+              "url": "https://t.co/iarak3NF3l"
+            },
+            {
+              "display_url": "x.com/kujirarara_/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/kujirarara_/status/2066438645285048368",
+              "start": 43,
+              "url": "https://t.co/uiRdwp6BtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066453105009742083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1251,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066438645285048368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "调整了一下弄了这么一个神人散热方案🤔 https://t.co/iarak3NF3l https://t.co/uiRdwp6BtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4333,
+          "following_count": 1814,
+          "like_count": 68219,
+          "listed_count": 13,
+          "media_count": 339,
+          "tweet_count": 4298
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 轨道交通/城市规划/历史研究/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053860270225895424/t-qcmhuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 584,
+          "like_count": 110440,
+          "listed_count": 20,
+          "media_count": 1428,
+          "tweet_count": 7175
+        },
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

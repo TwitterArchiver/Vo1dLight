@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2021619818856845476",
+    "created_at": "2026-02-12T06:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021833456133562745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        },
+        {
+          "end": 21,
+          "id": "1618909954156679168",
+          "start": 15,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021833456133562745",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021829868061962647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf @afdtb 这个确实好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2021619818856845476",
+        "created_at": "2026-02-12T06:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021833456133562745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            },
+            {
+              "end": 21,
+              "id": "1618909954156679168",
+              "start": 15,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021833456133562745",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829868061962647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf @afdtb 这个确实好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692126794055647232",
+        "conversation_id": "2021619818856845476",
+        "created_at": "2026-02-12T06:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021829868061962647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021829868061962647",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021619818856845476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afdtb 用 uv（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3865,
+          "following_count": 1549,
+          "like_count": 48162,
+          "listed_count": 11,
+          "media_count": 281,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl  |  🌌Know you will wake,on winds rise again | 💝I'll always be with you.",
+        "id": "1692126794055647232",
+        "location": "東京 渋谷区",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 370,
+          "like_count": 23556,
+          "listed_count": 8,
+          "media_count": 464,
+          "tweet_count": 6207
+        },
+        "username": "QuantumTransf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "MtF/退役OIer/舞萌W2/m/健全逼/日子人\n猪：@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃奶猪",
+        "pinned_tweet_id": "2015747504030310765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998668524831780864/zz8CBL0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3948,
+          "following_count": 943,
+          "like_count": 12335,
+          "listed_count": 14,
+          "media_count": 1498,
+          "tweet_count": 7930
+        },
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}

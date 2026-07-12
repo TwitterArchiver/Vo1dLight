@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1992944030003650933",
+    "created_at": "2025-11-24T13:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992951555159699619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934213219725520896",
+          "start": 0,
+          "username": "7Lumine7"
+        },
+        {
+          "end": 24,
+          "id": "1164421439572680704",
+          "start": 10,
+          "username": "tenkinoko2019"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992951555159699619",
+    "in_reply_to_user_id": "1934213219725520896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992944705605411290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7Lumine7 @tenkinoko2019 @grok 看看你的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1992944030003650933",
+        "created_at": "2025-11-24T13:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992951555159699619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934213219725520896",
+              "start": 0,
+              "username": "7Lumine7"
+            },
+            {
+              "end": 24,
+              "id": "1164421439572680704",
+              "start": 10,
+              "username": "tenkinoko2019"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992951555159699619",
+        "in_reply_to_user_id": "1934213219725520896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992944705605411290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7Lumine7 @tenkinoko2019 @grok 看看你的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934213219725520896",
+        "conversation_id": "1992944030003650933",
+        "created_at": "2025-11-24T13:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992944705605411290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164421439572680704",
+              "start": 0,
+              "username": "tenkinoko2019"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992944705605411290",
+        "in_reply_to_user_id": "1164421439572680704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992944030003650933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenkinoko2019 @grok 是懂大家想看什么的😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3589,
+          "following_count": 1322,
+          "like_count": 31959,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T11:35:56.000Z",
+        "description": "Master's degree candidate | Majoring in Cyber  Security | LLM Security | Crossdresser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.snowflake.zone",
+                "end": 23,
+                "expanded_url": "https://blog.snowflake.zone/",
+                "start": 0,
+                "url": "https://t.co/Jw985dijrg"
+              }
+            ]
+          }
+        },
+        "id": "1934213219725520896",
+        "location": "China",
+        "name": "Lumine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958952476662702080/7090m13o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 138,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/Jw985dijrg",
+        "username": "7Lumine7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T06:18:08.000Z",
+        "description": "SJTU | INTJ-T | 友跨 | 轻度涩涩 | 过期 OIer | CTFer | WinUI 开发（稀有物种）| 大概是二次元 | 欢迎线下来贴贴~ （看到同类基本都会 fo）（乱骂人说脏话的直接 block）",
+        "id": "1164421439572680704",
+        "location": "上海",
+        "name": "Acouela",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714095547290882048/hyM3MpHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 1724,
+          "like_count": 7926,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 161
+        },
+        "username": "tenkinoko2019",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6683526,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5372,
+          "media_count": 2745048,
+          "tweet_count": 68924661
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

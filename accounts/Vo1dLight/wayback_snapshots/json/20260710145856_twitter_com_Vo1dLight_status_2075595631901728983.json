@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2075584531080597895",
+    "created_at": "2026-07-10T14:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075595631901728983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496714588918026242",
+          "start": 0,
+          "username": "using_YueCheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075595631901728983",
+    "in_reply_to_user_id": "1496714588918026242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075584531080597895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@using_YueCheng 妈妈妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075584528173903873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM31IacaMAE6q7T.jpg",
+        "width": 1362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2075584531080597895",
+        "created_at": "2026-07-10T14:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075595631901728983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496714588918026242",
+              "start": 0,
+              "username": "using_YueCheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075595631901728983",
+        "in_reply_to_user_id": "1496714588918026242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075584531080597895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@using_YueCheng 妈妈妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075584528173903873"
+          ]
+        },
+        "author_id": "1496714588918026242",
+        "conversation_id": "2075584531080597895",
+        "created_at": "2026-07-10T14:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075584531080597895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1N4BmqYIUe",
+              "end": 66,
+              "expanded_url": "https://x.com/using_YueCheng/status/2075584531080597895/photo/1",
+              "media_key": "3_2075584528173903873",
+              "start": 43,
+              "url": "https://t.co/1N4BmqYIUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075584531080597895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 167,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶诶，上海的马猴烧酒们有收到消息吗？魔女之夜巴威即将登陆上海了，有一起组队去刷的吗？ https://t.co/1N4BmqYIUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4951,
+          "following_count": 1875,
+          "like_count": 70746,
+          "listed_count": 16,
+          "media_count": 347,
+          "tweet_count": 4518
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T05:12:38.000Z",
+        "description": "笨蛋楠娘后端程序员兼职VUP绝赞营业中",
+        "id": "1496714588918026242",
+        "location": "死信队列",
+        "name": "梓沫zimo",
+        "pinned_tweet_id": "2071449178312704285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063145493048467456/Gpi3RmDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 824,
+          "like_count": 12745,
+          "listed_count": 7,
+          "media_count": 492,
+          "tweet_count": 4805
+        },
+        "url": "",
+        "username": "using_YueCheng",
+        "verified": false
+      }
+    ]
+  }
+}

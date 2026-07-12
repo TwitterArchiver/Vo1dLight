@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1830609076776243471",
+    "created_at": "2024-09-02T15:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T16:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830635939175252452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "761013871209353218",
+          "start": 0,
+          "username": "ChiyukiRuon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830635939175252452",
+    "in_reply_to_user_id": "761013871209353218",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830609076776243471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiyukiRuon 好可爱！😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1830609076776243471",
+        "created_at": "2024-09-02T15:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T16:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830635939175252452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "761013871209353218",
+              "start": 0,
+              "username": "ChiyukiRuon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830635939175252452",
+        "in_reply_to_user_id": "761013871209353218",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830609076776243471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiyukiRuon 好可爱！😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830609065707524097"
+          ]
+        },
+        "author_id": "761013871209353218",
+        "conversation_id": "1830609076776243471",
+        "created_at": "2024-09-02T14:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T15:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830609076776243471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "男の娘"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "伪娘"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "女装"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpqrit1ugd",
+              "end": 59,
+              "expanded_url": "https://twitter.com/ChiyukiRuon/status/1830609076776243471/photo/1",
+              "media_key": "3_1830609065707524097",
+              "start": 36,
+              "url": "https://t.co/dpqrit1ugD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830609076776243471",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "被指到的人都变成白净软糯的小男娘！\n\n#男の娘 #伪娘 #女装 #黑丝 https://t.co/dpqrit1ugD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 78,
+          "like_count": 112,
+          "listed_count": 0,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T01:40:20.000Z",
+        "description": "#伪娘 女装是爱好/最喜欢水手服/不键政/百合控/爱看番打游戏/超级社恐/不涩涩/会写代码/无情的点赞机器/INFJ-T",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "伪娘"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyukiruon.com",
+                "end": 23,
+                "expanded_url": "https://chiyukiruon.com",
+                "start": 0,
+                "url": "https://t.co/08vPRkGKjJ"
+              }
+            ]
+          }
+        },
+        "id": "761013871209353218",
+        "location": "二次元",
+        "name": "ちゆき琉音",
+        "pinned_tweet_id": "1671893600328904704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715258541194588160/8LxTLkJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 1569,
+          "like_count": 28083,
+          "listed_count": 11,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/08vPRkGKjJ",
+        "username": "ChiyukiRuon",
+        "verified": false
+      }
+    ]
+  }
+}

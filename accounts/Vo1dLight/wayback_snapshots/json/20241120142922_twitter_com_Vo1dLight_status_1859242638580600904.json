@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859242627578880000"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      }
+    ],
+    "conversation_id": "1859242638580600904",
+    "created_at": "2024-11-20T14:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T15:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859242638580600904"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "男娘"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "黑丝"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "jk"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "伪娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OIR4hxnuv0",
+          "end": 85,
+          "expanded_url": "https://x.com/Vo1dLight/status/1859242638580600904/photo/1",
+          "media_key": "3_1859242627578880000",
+          "start": 62,
+          "url": "https://t.co/OIR4hxnuv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859242638580600904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "800fo感谢😖😖\n今天数理方法给主包考蚌了🤓，可以快进到学不下去破防退学下海卖屁股了😫😫\n#男娘 #黑丝 #jk #伪娘 https://t.co/OIR4hxnuv0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1859242627578880000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc1bUbAaYAAtx_S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859242627578880000"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "1859242638580600904",
+        "created_at": "2024-11-20T14:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T15:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859242638580600904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "男娘"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "黑丝"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "jk"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OIR4hxnuv0",
+              "end": 85,
+              "expanded_url": "https://x.com/Vo1dLight/status/1859242638580600904/photo/1",
+              "media_key": "3_1859242627578880000",
+              "start": 62,
+              "url": "https://t.co/OIR4hxnuv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859242638580600904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "800fo感谢😖😖\n今天数理方法给主包考蚌了🤓，可以快进到学不下去破防退学下海卖屁股了😫😫\n#男娘 #黑丝 #jk #伪娘 https://t.co/OIR4hxnuv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 无聊的理工男，视穿小裙子为解压与逃避😖 | 183/63 我好羡慕天赋党哇😭 | 小号@Vo1dL1ght\nAn average nerd and a crossdresser, trying to live the life I love, but where is it?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 502,
+          "like_count": 3507,
+          "listed_count": 3,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      }
+    ]
+  }
+}

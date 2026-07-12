@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2031376259293524109",
+    "created_at": "2026-03-11T09:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T10:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031657478904336693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "735087459231358976",
+          "start": 0,
+          "username": "CitronaTeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031657478904336693",
+    "in_reply_to_user_id": "735087459231358976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031376259293524109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CitronaTeo 但每个模型会有一个multiplier，比如你问一次haiku消耗的是0.33次request，而问一次opus消耗的是3次request"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2031376259293524109",
+        "created_at": "2026-03-11T09:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031657478904336693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "735087459231358976",
+              "start": 0,
+              "username": "CitronaTeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031657478904336693",
+        "in_reply_to_user_id": "735087459231358976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031376259293524109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CitronaTeo 但每个模型会有一个multiplier，比如你问一次haiku消耗的是0.33次request，而问一次opus消耗的是3次request"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "735087459231358976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2031376259293524109",
+        "created_at": "2026-03-10T14:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031376259293524109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/citronateo/sta…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/citronateo/status/2031016910922584564",
+              "start": 94,
+              "url": "https://t.co/2CYthO9k83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031376259293524109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3097,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031016910922584564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才發現，原來GitHub Copilot 是按 requests 算額度的，我感覺我之前更蠢了，用低階模型對話兩三次才能講清楚的事情用高階模型可能一次性就講清楚了，消耗的額度是一樣多的😭 https://t.co/2CYthO9k83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3894,
+          "following_count": 1602,
+          "like_count": 53882,
+          "listed_count": 11,
+          "media_count": 292,
+          "tweet_count": 3266
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-24T12:38:02.000Z",
+        "description": "百合中毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hee.ink",
+                "end": 23,
+                "expanded_url": "http://hee.ink",
+                "start": 0,
+                "url": "https://t.co/CUQWfxAmuN"
+              }
+            ]
+          }
+        },
+        "id": "735087459231358976",
+        "location": "澳門",
+        "name": "⁣凍檸茶走冰走檸走茶走甜唔該",
+        "pinned_tweet_id": "1919783155479019689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816950309064704/k3DhGroa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10927,
+          "following_count": 812,
+          "like_count": 80636,
+          "listed_count": 50,
+          "media_count": 712,
+          "tweet_count": 15048
+        },
+        "url": "https://t.co/CUQWfxAmuN",
+        "username": "CitronaTeo",
+        "verified": true
+      }
+    ]
+  }
+}

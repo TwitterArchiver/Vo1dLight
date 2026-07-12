@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2007390207721779441",
+    "created_at": "2026-01-03T10:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T11:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007392713927463324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557653726047109121",
+          "start": 0,
+          "username": "_cosine_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007392713927463324",
+    "in_reply_to_user_id": "1557653726047109121",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007392535065571512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_cosine_x 😵‍💫😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2007390207721779441",
+        "created_at": "2026-01-03T10:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007392713927463324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557653726047109121",
+              "start": 0,
+              "username": "_cosine_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007392713927463324",
+        "in_reply_to_user_id": "1557653726047109121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007392535065571512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_cosine_x 😵‍💫😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557653726047109121",
+        "conversation_id": "2007390207721779441",
+        "created_at": "2026-01-03T10:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007392535065571512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007392535065571512",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007392211244286137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 发呆呆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3739,
+          "following_count": 1461,
+          "like_count": 41461,
+          "listed_count": 11,
+          "media_count": 263,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T09:02:54.000Z",
+        "description": "FE / ACG / 手工 / 深色模式强迫症 / INFP /\n兴趣广泛养两只猫的老宅女 / remote / 热爱生活\n前端频道：https://t.co/PEiLLQKZUO\n博客：https://t.co/pE7NncQAMR\n周刊：https://t.co/XaLFNL65ZT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/cosine_front_e…",
+                "end": 90,
+                "expanded_url": "http://t.me/cosine_front_end",
+                "start": 67,
+                "url": "https://t.co/PEiLLQKZUO"
+              },
+              {
+                "display_url": "blog.cosine.ren/about",
+                "end": 117,
+                "expanded_url": "http://blog.cosine.ren/about",
+                "start": 94,
+                "url": "https://t.co/pE7NncQAMR"
+              },
+              {
+                "display_url": "blog.cosine.ren/weekly",
+                "end": 144,
+                "expanded_url": "http://blog.cosine.ren/weekly",
+                "start": 121,
+                "url": "https://t.co/XaLFNL65ZT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cosine.ren/about",
+                "end": 23,
+                "expanded_url": "http://blog.cosine.ren/about",
+                "start": 0,
+                "url": "https://t.co/pE7NncQAMR"
+              }
+            ]
+          }
+        },
+        "id": "1557653726047109121",
+        "name": "cosine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999505468876816392/YqH-W91F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 1937,
+          "like_count": 17359,
+          "listed_count": 14,
+          "media_count": 370,
+          "tweet_count": 2391
+        },
+        "url": "https://t.co/pE7NncQAMR",
+        "username": "_cosine_x",
+        "verified": false
+      }
+    ]
+  }
+}

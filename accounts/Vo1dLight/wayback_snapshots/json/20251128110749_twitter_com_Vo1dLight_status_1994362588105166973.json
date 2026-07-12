@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1994308171117285481",
+    "created_at": "2025-11-28T11:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994362588105166973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        },
+        {
+          "end": 30,
+          "id": "1880243174272282624",
+          "start": 14,
+          "username": "fck_my_life_987"
+        },
+        {
+          "end": 42,
+          "id": "1389256821773279234",
+          "start": 31,
+          "username": "neko_65536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994362588105166973",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994362445083918574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage @fck_my_life_987 @neko_65536 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1994308171117285481",
+        "created_at": "2025-11-28T11:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994362588105166973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            },
+            {
+              "end": 30,
+              "id": "1880243174272282624",
+              "start": 14,
+              "username": "fck_my_life_987"
+            },
+            {
+              "end": 42,
+              "id": "1389256821773279234",
+              "start": 31,
+              "username": "neko_65536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994362588105166973",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994362445083918574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage @fck_my_life_987 @neko_65536 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1089936552694693889",
+        "conversation_id": "1994308171117285481",
+        "created_at": "2025-11-28T11:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994362445083918574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 27,
+              "id": "1880243174272282624",
+              "start": 11,
+              "username": "fck_my_life_987"
+            },
+            {
+              "end": 39,
+              "id": "1389256821773279234",
+              "start": 28,
+              "username": "neko_65536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994362445083918574",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994360885763359139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight @fck_my_life_987 @neko_65536 最近班味太重了安排的很满 估计得等明年了ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3587,
+          "following_count": 1335,
+          "like_count": 32558,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "neko🐱: @Neko_65536 | 00后沪漂trash can主理人＆drudgery操盘手 | 🧀就是力量，法国就是🥓 | 最耀眼的战绩:在床上和两只🦈搏斗并取胜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽 くらげ （snoozing💤）（30/42复活中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978787829577891840/LHYVPwuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 349,
+          "like_count": 15591,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 3868
+        },
+        "username": "KaguraKurage",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T13:18:20.000Z",
+        "description": "mtx / 175-58 / w 💊 / wo 🍥:)",
+        "id": "1880243174272282624",
+        "location": "海",
+        "name": "α",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992836891251761152/_sjOjPAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 318,
+          "like_count": 1623,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 362
+        },
+        "username": "fck_my_life_987",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T16:33:41.000Z",
+        "description": "TJU大三软工在读，随缘更新生活碎片\n❤️@Arti_grok / @KaguraKurage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "Arti_grok"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "KaguraKurage"
+              }
+            ]
+          }
+        },
+        "id": "1389256821773279234",
+        "location": "中国 上海",
+        "name": "Neko_65536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1389258020882898952/Cwr7A_k8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 772,
+          "like_count": 2447,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 91
+        },
+        "username": "neko_65536",
+        "verified": false
+      }
+    ]
+  }
+}

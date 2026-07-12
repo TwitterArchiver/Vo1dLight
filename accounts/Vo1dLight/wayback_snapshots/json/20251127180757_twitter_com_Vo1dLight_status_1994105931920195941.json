@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1993987873364955441",
+    "created_at": "2025-11-27T18:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994105931920195941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934213219725520896",
+          "start": 0,
+          "username": "7Lumine7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994105931920195941",
+    "in_reply_to_user_id": "1934213219725520896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993987873364955441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7Lumine7 所以我从来都不问🙃不然自找打击了🙂‍↔️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_1993987870542188544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wRZ1Ya0AAAQqR.jpg",
+        "width": 647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1993987873364955441",
+        "created_at": "2025-11-27T18:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994105931920195941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934213219725520896",
+              "start": 0,
+              "username": "7Lumine7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994105931920195941",
+        "in_reply_to_user_id": "1934213219725520896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993987873364955441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7Lumine7 所以我从来都不问🙃不然自找打击了🙂‍↔️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993987870542188544"
+          ]
+        },
+        "author_id": "1934213219725520896",
+        "conversation_id": "1993987873364955441",
+        "created_at": "2025-11-27T10:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993987873364955441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EcvBkxZeYV",
+              "end": 29,
+              "expanded_url": "https://x.com/7Lumine7/status/1993987873364955441/photo/1",
+              "media_key": "3_1993987870542188544",
+              "start": 6,
+              "url": "https://t.co/EcvBkxZeYV"
+            },
+            {
+              "display_url": "x.com/7Lumine7/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/7Lumine7/status/1993947931142209562",
+              "start": 30,
+              "url": "https://t.co/GqKkZOAzSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993987873364955441",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993947931142209562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭😭😭 https://t.co/EcvBkxZeYV https://t.co/GqKkZOAzSg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 1333,
+          "like_count": 32400,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T11:35:56.000Z",
+        "description": "Master's degree candidate | Majoring in Cyber  Security | LLM Security | Crossdresser",
+        "id": "1934213219725520896",
+        "location": "China",
+        "name": "Lumine",
+        "pinned_tweet_id": "1992794911905837097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958952476662702080/7090m13o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 177,
+          "like_count": 1401,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 323
+        },
+        "username": "7Lumine7",
+        "verified": false
+      }
+    ]
+  }
+}

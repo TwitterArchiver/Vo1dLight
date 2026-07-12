@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933593479340568578"
+      ],
+      "media_source_tweet_id": [
+        "1933736906921292257"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1936688401492918360",
+    "created_at": "2025-06-22T07:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T08:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936688401492918360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1641646069422657536",
+          "start": 3,
+          "username": "biechaolemiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sxxg3TrMMT",
+          "end": 56,
+          "expanded_url": "https://x.com/biechaolemiao/status/1933736906921292257/photo/1",
+          "media_key": "3_1933593479340568578",
+          "start": 33,
+          "url": "https://t.co/sxxg3TrMMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936688401492918360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933736906921292257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biechaolemiao: 优等生的裙长\n下面是什么捏 https://t.co/sxxg3TrMMT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1933593479340568578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtWBBlwbMAIiJCl.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933593479340568578"
+          ],
+          "media_source_tweet_id": [
+            "1933736906921292257"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1936688401492918360",
+        "created_at": "2025-06-22T07:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T08:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936688401492918360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1641646069422657536",
+              "start": 3,
+              "username": "biechaolemiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxxg3TrMMT",
+              "end": 56,
+              "expanded_url": "https://x.com/biechaolemiao/status/1933736906921292257/photo/1",
+              "media_key": "3_1933593479340568578",
+              "start": 33,
+              "url": "https://t.co/sxxg3TrMMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936688401492918360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933736906921292257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biechaolemiao: 优等生的裙长\n下面是什么捏 https://t.co/sxxg3TrMMT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933593479340568578"
+          ]
+        },
+        "author_id": "1641646069422657536",
+        "conversation_id": "1933736906921292257",
+        "created_at": "2025-06-14T04:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T05:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933736906921292257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxxg3TrMMT",
+              "end": 37,
+              "expanded_url": "https://x.com/biechaolemiao/status/1933736906921292257/photo/1",
+              "media_key": "3_1933593479340568578",
+              "start": 14,
+              "url": "https://t.co/sxxg3TrMMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933736906921292257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 60486,
+          "like_count": 1559,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "优等生的裙长\n下面是什么捏 https://t.co/sxxg3TrMMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 1059,
+          "like_count": 19825,
+          "listed_count": 8,
+          "media_count": 170,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T03:38:23.000Z",
+        "description": "清水猫猫女仆 小红点suki\n可爱宝宝快来扩列\n不约不线下",
+        "id": "1641646069422657536",
+        "location": "0871",
+        "name": "麥麥",
+        "pinned_tweet_id": "1935383256591212811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839860857106432/dYS_NEor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 191,
+          "like_count": 3807,
+          "listed_count": 13,
+          "media_count": 181,
+          "tweet_count": 686
+        },
+        "username": "biechaolemiao",
+        "verified": false
+      }
+    ]
+  }
+}

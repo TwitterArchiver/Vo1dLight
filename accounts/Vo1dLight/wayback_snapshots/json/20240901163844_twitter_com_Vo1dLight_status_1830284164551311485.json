@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830191667514916865"
+      ],
+      "media_source_tweet_id": [
+        "1830191674259054750"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1830284164551311485",
+    "created_at": "2024-09-01T16:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T17:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830284164551311485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1265898163807772677",
+          "start": 3,
+          "username": "Rize_Ilustrator"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cdyj1zp4er",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Rize_Ilustrator/status/1830191674259054750/photo/1",
+          "media_key": "3_1830191667514916865",
+          "start": 36,
+          "url": "https://t.co/cDyj1zP4Er"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830284164551311485",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 535
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830191674259054750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rize_Ilustrator: 不思議の国のアリス風男の娘♂ https://t.co/cDyj1zP4Er"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1830191667514916865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWYln_UbQAEGKRi.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830191667514916865"
+          ],
+          "media_source_tweet_id": [
+            "1830191674259054750"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1830284164551311485",
+        "created_at": "2024-09-01T16:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T17:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830284164551311485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1265898163807772677",
+              "start": 3,
+              "username": "Rize_Ilustrator"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdyj1zp4er",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Rize_Ilustrator/status/1830191674259054750/photo/1",
+              "media_key": "3_1830191667514916865",
+              "start": 36,
+              "url": "https://t.co/cDyj1zP4Er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830284164551311485",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 535
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830191674259054750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rize_Ilustrator: 不思議の国のアリス風男の娘♂ https://t.co/cDyj1zP4Er"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830191667514916865"
+          ]
+        },
+        "author_id": "1265898163807772677",
+        "conversation_id": "1830191674259054750",
+        "created_at": "2024-09-01T10:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T11:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830191674259054750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdyj1zp4er",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Rize_Ilustrator/status/1830191674259054750/photo/1",
+              "media_key": "3_1830191667514916865",
+              "start": 15,
+              "url": "https://t.co/cDyj1zP4Er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830191674259054750",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 31065,
+          "like_count": 2875,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 535
+        },
+        "reply_settings": "everyone",
+        "text": "不思議の国のアリス風男の娘♂ https://t.co/cDyj1zP4Er"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 68,
+          "like_count": 73,
+          "listed_count": 0,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T06:50:23.000Z",
+        "description": "好きなものをのんびり描きます。おしゃれな女装男子がすき。イラストの更新は19〜20時頃🕖お仕事のご連絡はDMへ✉️ファンボックス▶️https://t.co/GGtyvsHIH2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yurakun.fanbox.cc",
+                "end": 89,
+                "expanded_url": "https://yurakun.fanbox.cc",
+                "start": 66,
+                "url": "https://t.co/GGtyvsHIH2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/26811762",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/26811762",
+                "start": 0,
+                "url": "https://t.co/NTDwGkxVDF"
+              }
+            ]
+          }
+        },
+        "id": "1265898163807772677",
+        "location": "リクエスト◎→",
+        "name": "りぜ🌟",
+        "pinned_tweet_id": "1796153906189201481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773811112980721664/ruk1A6vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88090,
+          "following_count": 819,
+          "like_count": 3406,
+          "listed_count": 572,
+          "tweet_count": 3481
+        },
+        "url": "https://t.co/NTDwGkxVDF",
+        "username": "Rize_Ilustrator",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2065962474940289462",
+    "created_at": "2026-06-14T12:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066137234991104451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1386539491054088198",
+          "start": 0,
+          "username": "yoooyoyooy"
+        },
+        {
+          "end": 21,
+          "id": "1860360757789229062",
+          "start": 12,
+          "username": "wyxl1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066137234991104451",
+    "in_reply_to_user_id": "1386539491054088198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066129138973364540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoooyoyooy @wyxl1119 唉经典变人机药🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2065962474940289462",
+        "created_at": "2026-06-14T12:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066137234991104451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1386539491054088198",
+              "start": 0,
+              "username": "yoooyoyooy"
+            },
+            {
+              "end": 21,
+              "id": "1860360757789229062",
+              "start": 12,
+              "username": "wyxl1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066137234991104451",
+        "in_reply_to_user_id": "1386539491054088198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066129138973364540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoooyoyooy @wyxl1119 唉经典变人机药🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386539491054088198",
+        "conversation_id": "2065962474940289462",
+        "created_at": "2026-06-14T12:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066129138973364540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1860360757789229062",
+              "start": 0,
+              "username": "wyxl1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066129138973364540",
+        "in_reply_to_user_id": "1860360757789229062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065962474940289462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyxl1119 前一周都会这样的qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 1809,
+          "like_count": 67971,
+          "listed_count": 13,
+          "media_count": 338,
+          "tweet_count": 4286
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜CN/EN/JP｜请在置顶查看自我介绍 ｜可爱小女友🥰@LannchanOwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "LannchanOwo"
+              }
+            ]
+          }
+        },
+        "id": "1386539491054088198",
+        "name": "佑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 959,
+          "like_count": 250766,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 5439
+        },
+        "username": "yoooyoyooy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-23T16:32:34.000Z",
+        "description": "🍥 出柜已爆柜 不od不硌手",
+        "id": "1860360757789229062",
+        "location": "China",
+        "name": "兰枝予花🍥 ~喵⁦⁦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987334953659736064/KwBcabdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 157,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 914
+        },
+        "username": "wyxl1119",
+        "verified": false
+      }
+    ]
+  }
+}

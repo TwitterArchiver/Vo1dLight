@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1856627569845494245",
+    "created_at": "2024-11-13T18:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T19:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856766999994798566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487651724810723332",
+          "start": 0,
+          "username": "kage_papuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856766999994798566",
+    "in_reply_to_user_id": "1487651724810723332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856627569845494245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kage_papuki 我是win11+ubuntu2410 电脑白痴不敢搞鼓电脑，能用就行了🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1856627569845494245",
+        "created_at": "2024-11-13T18:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T19:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856766999994798566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487651724810723332",
+              "start": 0,
+              "username": "kage_papuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856766999994798566",
+        "in_reply_to_user_id": "1487651724810723332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856627569845494245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kage_papuki 我是win11+ubuntu2410 电脑白痴不敢搞鼓电脑，能用就行了🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1856627564795633664"
+          ]
+        },
+        "author_id": "1487651724810723332",
+        "conversation_id": "1856627569845494245",
+        "created_at": "2024-11-13T09:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T10:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856627569845494245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856627569845494245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想装双系统了，\n已经有了个win11，\nubuntu好用但太冗余了，\n目前在考虑是Debian还是Arch。\n打算直接禁掉nv独显用核显算了，\n那Arch应该就没那么容易滚炸了吧？（那arch还有什么优势？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 无聊的理工男，视穿小裙子为解压与逃避😖 | 183/63 我好羡慕天赋党哇😭 | 小号@Vo1dL1ght\nAn average nerd and a crossdresser, trying to live the life I love, but where is it?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 462,
+          "like_count": 3100,
+          "listed_count": 2,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T04:59:55.000Z",
+        "description": "Hi~这里是Papuki的表推/友跨🍥友同🌈/社恐(不擅长聊天抱歉🥺)/逃避社交/无性恋/酷儿/大一/神道教⛩️/很少键政/互fo私信哦/应该也没什么好写了的吧",
+        "id": "1487651724810723332",
+        "location": "🌏    🚀    🌕",
+        "name": "Papuki🍜⛩️🦊🌕😇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813495486697082881/h_tsmK8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 750,
+          "like_count": 19601,
+          "listed_count": 2,
+          "tweet_count": 2139
+        },
+        "username": "kage_papuki",
+        "verified": false
+      }
+    ]
+  }
+}

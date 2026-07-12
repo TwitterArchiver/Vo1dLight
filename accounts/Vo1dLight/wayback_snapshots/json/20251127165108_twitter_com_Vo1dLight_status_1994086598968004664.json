@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1994073994677682574",
+    "created_at": "2025-11-27T16:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994086598968004664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521755163551145985",
+          "start": 0,
+          "username": "xiaolianqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994086598968004664",
+    "in_reply_to_user_id": "1521755163551145985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994073994677682574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaolianqwq 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1994073986058375168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xfuarbUAAaTMP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1994073994677682574",
+        "created_at": "2025-11-27T16:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994086598968004664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521755163551145985",
+              "start": 0,
+              "username": "xiaolianqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994086598968004664",
+        "in_reply_to_user_id": "1521755163551145985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994073994677682574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaolianqwq 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994073986058375168"
+          ]
+        },
+        "author_id": "1521755163551145985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1994073994677682574",
+        "created_at": "2025-11-27T16:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994073994677682574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "BlueArchive",
+              "probability": 0.6333,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "小鸟游星野"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "小鳥遊ホシノ"
+            },
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LsmfkbGPOF",
+              "end": 60,
+              "expanded_url": "https://x.com/xiaolianqwq/status/1994073994677682574/photo/1",
+              "media_key": "3_1994073986058375168",
+              "start": 37,
+              "url": "https://t.co/LsmfkbGPOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994073994677682574",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 157,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "persona！\n#小鸟游星野 #小鳥遊ホシノ #BlueArchive https://t.co/LsmfkbGPOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 1332,
+          "like_count": 32365,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T07:34:54.000Z",
+        "description": "无人在意  是个涩涩糕手🚪50（好友位或者支援）\n@xiaolianawa  小号 推广请自主辨别喵x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "xiaolianawa"
+              }
+            ]
+          }
+        },
+        "id": "1521755163551145985",
+        "name": "连酱ฅฅ*",
+        "pinned_tweet_id": "1731036364777603288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905431100035661825/9nnkUrFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5890,
+          "following_count": 1191,
+          "like_count": 6185,
+          "listed_count": 28,
+          "media_count": 254,
+          "tweet_count": 2685
+        },
+        "username": "xiaolianqwq",
+        "verified": false
+      }
+    ]
+  }
+}

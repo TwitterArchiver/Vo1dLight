@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1981695417294209198",
+    "created_at": "2025-10-24T19:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T20:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981810052777611549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2922785091",
+          "start": 0,
+          "username": "fuyusakaiori_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981810052777611549",
+    "in_reply_to_user_id": "2922785091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981703305140306034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuyusakaiori_ 我好像一年多前下过pycharm, 但当时的社区版好像还不支持打开.ipynb, 所以就一直用的vsc来着("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1981695417294209198",
+        "created_at": "2025-10-24T19:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T20:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981810052777611549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2922785091",
+              "start": 0,
+              "username": "fuyusakaiori_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981810052777611549",
+        "in_reply_to_user_id": "2922785091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981703305140306034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuyusakaiori_ 我好像一年多前下过pycharm, 但当时的社区版好像还不支持打开.ipynb, 所以就一直用的vsc来着("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2922785091",
+        "conversation_id": "1981695417294209198",
+        "created_at": "2025-10-24T12:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981703305140306034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981703305140306034",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981695417294209198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 用pycharm吧，各种编辑器用过后还是回到jb全家桶了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3548,
+          "following_count": 1276,
+          "like_count": 29889,
+          "listed_count": 11,
+          "media_count": 227,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-15T12:42:07.000Z",
+        "description": "物语厨︱吹吹人︱情绪垃圾桶︱涩图点赞bot",
+        "id": "2922785091",
+        "location": "现实和意识的夹缝",
+        "name": "ふゆさかいおり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977794045679427584/xkFU-9DE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 893,
+          "like_count": 71067,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 1932
+        },
+        "username": "fuyusakaiori_",
+        "verified": false
+      }
+    ]
+  }
+}

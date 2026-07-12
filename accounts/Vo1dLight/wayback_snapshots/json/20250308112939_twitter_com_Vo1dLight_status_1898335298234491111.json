@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1897981756332032085",
+    "created_at": "2025-03-08T11:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T12:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898335298234491111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756228033558843392",
+          "start": 0,
+          "username": "han_zi53015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898335298234491111",
+    "in_reply_to_user_id": "1756228033558843392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897987375969783928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@han_zi53015 😉"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1897987375969783928].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1897987375969783928",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1897987375969783928"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1897981756332032085",
+        "created_at": "2025-03-08T11:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898335298234491111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756228033558843392",
+              "start": 0,
+              "username": "han_zi53015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898335298234491111",
+        "in_reply_to_user_id": "1756228033558843392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897987375969783928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@han_zi53015 😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 904,
+          "like_count": 9087,
+          "listed_count": 7,
+          "media_count": 113,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T08:06:25.000Z",
+        "description": "阴暗b罢了（）",
+        "id": "1756228033558843392",
+        "name": "星语",
+        "pinned_tweet_id": "1857289377023774871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760543342449004544/faw3yf31_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 455,
+          "like_count": 25033,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 5680
+        },
+        "username": "han_zi53015",
+        "verified": false
+      }
+    ]
+  }
+}

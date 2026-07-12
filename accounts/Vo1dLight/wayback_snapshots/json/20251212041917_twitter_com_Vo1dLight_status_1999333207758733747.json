@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1999333207758733747",
+    "created_at": "2025-12-12T04:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T05:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999333207758733747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AKEndfieldJP/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/AKEndfieldJP/status/1999327231089537207",
+          "start": 4,
+          "url": "https://t.co/z7MCmGJvzD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999333207758733747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999327231089537207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道说 https://t.co/z7MCmGJvzD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1999323696121720832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78GTwpbMAAASyK.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1999333207758733747",
+        "created_at": "2025-12-12T04:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999333207758733747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AKEndfieldJP/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/AKEndfieldJP/status/1999327231089537207",
+              "start": 4,
+              "url": "https://t.co/z7MCmGJvzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999333207758733747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999327231089537207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道说 https://t.co/z7MCmGJvzD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999323696121720832"
+          ]
+        },
+        "author_id": "1501137618150760448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1999327231089537207",
+        "created_at": "2025-12-12T03:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999327231089537207"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "アークナイツ：エンドフィールド",
+              "probability": 0.3683,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 99,
+              "tag": "アークナイツエンドフィールド"
+            },
+            {
+              "end": 124,
+              "start": 115,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "akendfield.gryphline.com/d27t/qcm37h8b",
+              "end": 97,
+              "expanded_url": "http://akendfield.gryphline.com/d27t/qcm37h8b",
+              "start": 74,
+              "status": 403,
+              "unwound_url": "http://akendfield.gryphline.com/d27t/qcm37h8b",
+              "url": "https://t.co/ZyogUYJ3gK"
+            },
+            {
+              "display_url": "pic.x.com/KPnOsAHxj4",
+              "end": 148,
+              "expanded_url": "https://x.com/AKEndfieldJP/status/1999327231089537207/photo/1",
+              "media_key": "3_1999323696121720832",
+              "start": 125,
+              "url": "https://t.co/KPnOsAHxj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999327231089537207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 71959,
+          "like_count": 3972,
+          "quote_count": 191,
+          "reply_count": 12,
+          "retweet_count": 2575
+        },
+        "reply_settings": "everyone",
+        "text": "辺境を越えて、前線に至る。\n\n『アークナイツ：エンドフィールド』2026年1月22日 全世界同時リリース\n\n▼各プラットフォームにて事前登録受付中\nhttps://t.co/ZyogUYJ3gK\n\n#アークナイツエンドフィールド\n#エンドフィールド https://t.co/KPnOsAHxj4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998590742915330049/bN6dR0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3581,
+          "following_count": 1369,
+          "like_count": 34898,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 2190
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T10:07:58.000Z",
+        "description": "GRYPHLINEが贈る3Dリアルタイム戦略RPG「#アークナイツエンドフィールド」の公式アカウント。\n全プラットフォーム（PS5/iOS/Android/PC）にて事前登録受付中：https://t.co/89IfXzlDUE  \n#エンドフィールド",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 26,
+                "tag": "アークナイツエンドフィールド"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "tag": "エンドフィールド"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "akendfield.gryphline.com/d27t/qcm37h8b",
+                "end": 114,
+                "expanded_url": "https://akendfield.gryphline.com/d27t/qcm37h8b",
+                "start": 91,
+                "url": "https://t.co/89IfXzlDUE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@arknightsendf…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@arknightsendfieldJP",
+                "start": 0,
+                "url": "https://t.co/UYlZXgv0po"
+              }
+            ]
+          }
+        },
+        "id": "1501137618150760448",
+        "name": "アークナイツ：エンドフィールド",
+        "pinned_tweet_id": "1999323194088653265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984223053996507136/cqoXlK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241748,
+          "following_count": 5,
+          "like_count": 15,
+          "listed_count": 1177,
+          "media_count": 241,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/UYlZXgv0po",
+        "username": "AKEndfieldJP",
+        "verified": true
+      }
+    ]
+  }
+}

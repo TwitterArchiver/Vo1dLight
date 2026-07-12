@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943299221492568064",
+        "3_1943299238240358400"
+      ],
+      "media_source_tweet_id": [
+        "1943299242216558612",
+        "1943299242216558612"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1943312930206110050",
+    "created_at": "2025-07-10T14:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T15:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943312930206110050"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "男娘"
+        },
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1317809375512195073",
+          "start": 3,
+          "username": "hmm0543"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gAcX1uIZz4",
+          "end": 51,
+          "expanded_url": "https://x.com/hmm0543/status/1943299242216558612/photo/1",
+          "media_key": "3_1943299221492568064",
+          "start": 28,
+          "url": "https://t.co/gAcX1uIZz4"
+        },
+        {
+          "display_url": "pic.x.com/gAcX1uIZz4",
+          "end": 51,
+          "expanded_url": "https://x.com/hmm0543/status/1943299242216558612/photo/1",
+          "media_key": "3_1943299238240358400",
+          "start": 28,
+          "url": "https://t.co/gAcX1uIZz4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943312930206110050",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943299242216558612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hmm0543: 🥺\n\n#男娘 #可爱的男孩子 https://t.co/gAcX1uIZz4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943299221492568064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvf8WI1bkAAaLVW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943299238240358400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvf8XHOakAAn74z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943299221492568064",
+            "3_1943299238240358400"
+          ],
+          "media_source_tweet_id": [
+            "1943299242216558612",
+            "1943299242216558612"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1943312930206110050",
+        "created_at": "2025-07-10T14:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943312930206110050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1317809375512195073",
+              "start": 3,
+              "username": "hmm0543"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAcX1uIZz4",
+              "end": 51,
+              "expanded_url": "https://x.com/hmm0543/status/1943299242216558612/photo/1",
+              "media_key": "3_1943299221492568064",
+              "start": 28,
+              "url": "https://t.co/gAcX1uIZz4"
+            },
+            {
+              "display_url": "pic.x.com/gAcX1uIZz4",
+              "end": 51,
+              "expanded_url": "https://x.com/hmm0543/status/1943299242216558612/photo/1",
+              "media_key": "3_1943299238240358400",
+              "start": 28,
+              "url": "https://t.co/gAcX1uIZz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943312930206110050",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943299242216558612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hmm0543: 🥺\n\n#男娘 #可爱的男孩子 https://t.co/gAcX1uIZz4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943299221492568064",
+            "3_1943299238240358400"
+          ]
+        },
+        "author_id": "1317809375512195073",
+        "conversation_id": "1943299242216558612",
+        "created_at": "2025-07-10T13:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943299242216558612"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "男娘"
+            },
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAcX1uIZz4",
+              "end": 38,
+              "expanded_url": "https://x.com/hmm0543/status/1943299242216558612/photo/1",
+              "media_key": "3_1943299221492568064",
+              "start": 15,
+              "url": "https://t.co/gAcX1uIZz4"
+            },
+            {
+              "display_url": "pic.x.com/gAcX1uIZz4",
+              "end": 38,
+              "expanded_url": "https://x.com/hmm0543/status/1943299242216558612/photo/1",
+              "media_key": "3_1943299238240358400",
+              "start": 15,
+              "url": "https://t.co/gAcX1uIZz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943299242216558612",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🥺\n\n#男娘 #可爱的男孩子 https://t.co/gAcX1uIZz4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 1084,
+          "like_count": 22450,
+          "listed_count": 8,
+          "media_count": 180,
+          "tweet_count": 1323
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T12:47:04.000Z",
+        "description": "随便什么都好啦～\n在沪，欢迎同类小可爱找我玩哦！",
+        "id": "1317809375512195073",
+        "name": "hmm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747130567769104384/vlaG_P91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 302,
+          "like_count": 103,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 70
+        },
+        "username": "hmm0543",
+        "verified": false
+      }
+    ]
+  }
+}

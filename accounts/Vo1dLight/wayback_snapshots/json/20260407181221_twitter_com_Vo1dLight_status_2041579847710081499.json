@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2041573909255090541",
+    "created_at": "2026-04-07T18:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041579847710081499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041579847710081499",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041573909255090541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf 似乎这类概览条ui在这之前只在google ai studio里见到过？不知道为什么其他的平台不跟进（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2041572650846449664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUfglza8AAEfFz.jpg",
+        "width": 2769
+      },
+      {
+        "height": 1510,
+        "media_key": "3_2041572734426345476",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUfldKa8AQIUKd.jpg",
+        "width": 2137
+      },
+      {
+        "height": 510,
+        "media_key": "3_2041572814713700352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUfqIQawAA6hqm.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2041573909255090541",
+        "created_at": "2026-04-07T18:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041579847710081499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041579847710081499",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041573909255090541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf 似乎这类概览条ui在这之前只在google ai studio里见到过？不知道为什么其他的平台不跟进（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041572650846449664",
+            "3_2041572734426345476",
+            "3_2041572814713700352"
+          ]
+        },
+        "author_id": "1692126794055647232",
+        "conversation_id": "2041573909255090541",
+        "created_at": "2026-04-07T17:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041573909255090541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuUHMB3q70",
+              "end": 195,
+              "expanded_url": "https://x.com/QuantumTransf/status/2041573909255090541/photo/1",
+              "media_key": "3_2041572650846449664",
+              "start": 172,
+              "url": "https://t.co/JuUHMB3q70"
+            },
+            {
+              "display_url": "pic.x.com/JuUHMB3q70",
+              "end": 195,
+              "expanded_url": "https://x.com/QuantumTransf/status/2041573909255090541/photo/1",
+              "media_key": "3_2041572734426345476",
+              "start": 172,
+              "url": "https://t.co/JuUHMB3q70"
+            },
+            {
+              "display_url": "pic.x.com/JuUHMB3q70",
+              "end": 195,
+              "expanded_url": "https://x.com/QuantumTransf/status/2041573909255090541/photo/1",
+              "media_key": "3_2041572814713700352",
+              "start": 172,
+              "url": "https://t.co/JuUHMB3q70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041573909255090541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "deepseek 灰度新模型，上下文 1M\n生成速度大幅提升，再也不需要等 deepseek 一个一个吐字了，甚至比 claude 都快\n刚好最近 claude chat 收紧限额赶 toC 用户走\n测试了一些长文档理解方面的东西，感觉上比 gemini 的上下文处理好太多了\n\n最后想夸的是新前端，右侧这个概览条\n真的解决了找不到对话的痛点 https://t.co/JuUHMB3q70"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4018,
+          "following_count": 1669,
+          "like_count": 60700,
+          "listed_count": 12,
+          "media_count": 308,
+          "tweet_count": 3681
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl  |  🌌Know you will wake,on winds rise again | 💝I'll always be with you.",
+        "id": "1692126794055647232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 392,
+          "like_count": 25745,
+          "listed_count": 10,
+          "media_count": 537,
+          "tweet_count": 6881
+        },
+        "username": "QuantumTransf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2066512336953995624",
+    "created_at": "2026-06-16T06:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066764575954075742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        },
+        {
+          "end": 31,
+          "id": "1909562414162755584",
+          "start": 16,
+          "username": "ThirteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066764575954075742",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066719285607874809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka @ThirteenYizuka xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2066512336953995624",
+        "created_at": "2026-06-16T06:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066764575954075742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 31,
+              "id": "1909562414162755584",
+              "start": 16,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066764575954075742",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066719285607874809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka @ThirteenYizuka xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831363594556211200",
+        "conversation_id": "2066512336953995624",
+        "created_at": "2026-06-16T03:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066719285607874809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909562414162755584",
+              "start": 0,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066719285607874809",
+        "in_reply_to_user_id": "1909562414162755584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066512336953995624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThirteenYizuka 😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4335,
+          "following_count": 1816,
+          "like_count": 68322,
+          "listed_count": 13,
+          "media_count": 338,
+          "tweet_count": 4302
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」| 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 1334,
+          "like_count": 43711,
+          "listed_count": 8,
+          "media_count": 1753,
+          "tweet_count": 27575
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\nBuilding https://t.co/LNSexePWro. Dedicated to making AI affordable for everyone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 76,
+                "expanded_url": "http://tokenflux.dev",
+                "start": 53,
+                "url": "https://t.co/LNSexePWro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yErtG"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "location": "クローゼットの中",
+        "name": "芒果刀🥭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613894328885248/-OwVPnjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 283,
+          "like_count": 7680,
+          "listed_count": 9,
+          "media_count": 173,
+          "tweet_count": 1595
+        },
+        "url": "https://t.co/f9cf7yErtG",
+        "username": "ThirteenYizuka",
+        "verified": true
+      }
+    ]
+  }
+}

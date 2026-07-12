@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989675432732684288",
+        "3_1989675432745246720"
+      ],
+      "media_source_tweet_id": [
+        "1989675443721834652",
+        "1989675443721834652"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1990016320843464951",
+    "created_at": "2025-11-16T11:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T12:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990016320843464951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1956567270739828736",
+          "start": 3,
+          "username": "Truffaut897456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wuijw1uZj3",
+          "end": 63,
+          "expanded_url": "https://x.com/Truffaut897456/status/1989675443721834652/photo/1",
+          "media_key": "3_1989675432732684288",
+          "start": 40,
+          "url": "https://t.co/Wuijw1uZj3"
+        },
+        {
+          "display_url": "pic.x.com/Wuijw1uZj3",
+          "end": 63,
+          "expanded_url": "https://x.com/Truffaut897456/status/1989675443721834652/photo/1",
+          "media_key": "3_1989675432745246720",
+          "start": 40,
+          "url": "https://t.co/Wuijw1uZj3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990016320843464951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989675443721834652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Truffaut897456: 假发没到只能这样了\n裙子我直接给剪开的 https://t.co/Wuijw1uZj3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_1989675432732684288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y_Q6pacAA1-_E.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1186,
+        "media_key": "3_1989675432745246720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y_Q6saIAAvEeS.jpg",
+        "width": 791
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989675432732684288",
+            "3_1989675432745246720"
+          ],
+          "media_source_tweet_id": [
+            "1989675443721834652",
+            "1989675443721834652"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1990016320843464951",
+        "created_at": "2025-11-16T11:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990016320843464951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1956567270739828736",
+              "start": 3,
+              "username": "Truffaut897456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wuijw1uZj3",
+              "end": 63,
+              "expanded_url": "https://x.com/Truffaut897456/status/1989675443721834652/photo/1",
+              "media_key": "3_1989675432732684288",
+              "start": 40,
+              "url": "https://t.co/Wuijw1uZj3"
+            },
+            {
+              "display_url": "pic.x.com/Wuijw1uZj3",
+              "end": 63,
+              "expanded_url": "https://x.com/Truffaut897456/status/1989675443721834652/photo/1",
+              "media_key": "3_1989675432745246720",
+              "start": 40,
+              "url": "https://t.co/Wuijw1uZj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990016320843464951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989675443721834652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Truffaut897456: 假发没到只能这样了\n裙子我直接给剪开的 https://t.co/Wuijw1uZj3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989675432732684288",
+            "3_1989675432745246720"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "1989675443721834652",
+        "created_at": "2025-11-15T12:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989675443721834652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wuijw1uZj3",
+              "end": 43,
+              "expanded_url": "https://x.com/Truffaut897456/status/1989675443721834652/photo/1",
+              "media_key": "3_1989675432732684288",
+              "start": 20,
+              "url": "https://t.co/Wuijw1uZj3"
+            },
+            {
+              "display_url": "pic.x.com/Wuijw1uZj3",
+              "end": 43,
+              "expanded_url": "https://x.com/Truffaut897456/status/1989675443721834652/photo/1",
+              "media_key": "3_1989675432745246720",
+              "start": 20,
+              "url": "https://t.co/Wuijw1uZj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989675443721834652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 43851,
+          "like_count": 574,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "假发没到只能这样了\n裙子我直接给剪开的 https://t.co/Wuijw1uZj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 1286,
+          "like_count": 30932,
+          "listed_count": 10,
+          "media_count": 234,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生（⚠️）喜欢电影🎦 不限类型 不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），问豆包（低质的内容风格制作历史讨论），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆 二次元马娘少女乐队特摄车万古早动画都涉猎/喜欢拍cos和女装，纯高p，实际丑蛆🐛/",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1984477957231128693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969769601384022016/D7d4y2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8700,
+          "following_count": 1004,
+          "like_count": 4049,
+          "listed_count": 26,
+          "media_count": 73,
+          "tweet_count": 1902
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

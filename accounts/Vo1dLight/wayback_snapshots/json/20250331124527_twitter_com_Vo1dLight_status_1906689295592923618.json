@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906661832691204096",
+        "3_1906661888630620160"
+      ],
+      "media_source_tweet_id": [
+        "1906662316424479194",
+        "1906662316424479194"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1906689295592923618",
+    "created_at": "2025-03-31T12:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T13:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906689295592923618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VqIOuhOvwL",
+          "end": 42,
+          "expanded_url": "https://x.com/Alice__486/status/1906662316424479194/photo/1",
+          "media_key": "3_1906661832691204096",
+          "start": 19,
+          "url": "https://t.co/VqIOuhOvwL"
+        },
+        {
+          "display_url": "pic.x.com/VqIOuhOvwL",
+          "end": 42,
+          "expanded_url": "https://x.com/Alice__486/status/1906662316424479194/photo/1",
+          "media_key": "3_1906661888630620160",
+          "start": 19,
+          "url": "https://t.co/VqIOuhOvwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906689295592923618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906662316424479194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 贴贴 https://t.co/VqIOuhOvwL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906689295592923618].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906689295592923618",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906689295592923618"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2597,
+        "media_key": "3_1906661832691204096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXS1bxawAA6qNC.jpg",
+        "width": 2072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1906661888630620160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXS4sKagAA0pyQ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906661832691204096",
+            "3_1906661888630620160"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "1906662316424479194",
+        "created_at": "2025-03-31T10:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T11:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906662316424479194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VqIOuhOvwL",
+              "end": 26,
+              "expanded_url": "https://x.com/Alice__486/status/1906662316424479194/photo/1",
+              "media_key": "3_1906661832691204096",
+              "start": 3,
+              "url": "https://t.co/VqIOuhOvwL"
+            },
+            {
+              "display_url": "pic.x.com/VqIOuhOvwL",
+              "end": 26,
+              "expanded_url": "https://x.com/Alice__486/status/1906662316424479194/photo/1",
+              "media_key": "3_1906661888630620160",
+              "start": 3,
+              "url": "https://t.co/VqIOuhOvwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906662316424479194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 486,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴 https://t.co/VqIOuhOvwL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、虚拟现实与脑机接口推崇者、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 107,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 953,
+          "like_count": 10888,
+          "listed_count": 7,
+          "media_count": 123,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "1878774496057836005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20840,
+          "following_count": 1661,
+          "like_count": 53521,
+          "listed_count": 69,
+          "media_count": 786,
+          "tweet_count": 15290
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

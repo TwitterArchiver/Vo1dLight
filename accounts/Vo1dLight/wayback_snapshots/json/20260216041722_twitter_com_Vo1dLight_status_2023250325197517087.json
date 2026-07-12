@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2023227179077648708",
+    "created_at": "2026-02-16T04:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023250325197517087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1678058596339433472",
+          "start": 0,
+          "username": "Ruo_Haruka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023250325197517087",
+    "in_reply_to_user_id": "1678058596339433472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023227179077648708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruo_Haruka 除夕快乐汐宝🥳"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2023227179077648708].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2023227179077648708",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2023227179077648708"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2023227179077648708",
+        "created_at": "2026-02-16T04:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023250325197517087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1678058596339433472",
+              "start": 0,
+              "username": "Ruo_Haruka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023250325197517087",
+        "in_reply_to_user_id": "1678058596339433472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023227179077648708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruo_Haruka 除夕快乐汐宝🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3903,
+          "following_count": 1563,
+          "like_count": 48704,
+          "listed_count": 11,
+          "media_count": 285,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T15:08:54.000Z",
+        "description": "萌物suki/是个高p怪线下查无此人",
+        "id": "1678058596339433472",
+        "name": "布丁汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020528203891376128/JuiqyVJh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 494,
+          "like_count": 40907,
+          "listed_count": 6,
+          "media_count": 972,
+          "tweet_count": 2382
+        },
+        "username": "Ruo_Haruka",
+        "verified": false
+      }
+    ]
+  }
+}

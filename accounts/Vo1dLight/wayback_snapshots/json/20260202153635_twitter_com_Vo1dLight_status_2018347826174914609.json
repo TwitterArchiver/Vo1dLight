@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2018091610450612533",
+    "created_at": "2026-02-02T15:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T16:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018347826174914609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "868887840230330368",
+          "start": 0,
+          "username": "momoGZ0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018347826174914609",
+    "in_reply_to_user_id": "868887840230330368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018091610450612533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoGZ0412 为什么很少见推特国区挂community notes，这不是挺好的功能"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11311,
+        "height": 1588,
+        "media_key": "13_2018091541387255809",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018091541387255809/img/UF_3NFlC6OypqXvS.jpg",
+        "public_metrics": {
+          "view_count": 561489
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018091541387255809/vid/avc1/320x572/E6pco0jL1fkaEvEO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018091541387255809/vid/avc1/888x1588/CxHwe04uy5ZP1mmC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018091541387255809/vid/avc1/720x1286/4CC_T9-MF1WkWz99.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018091541387255809/vid/avc1/480x858/uAoZztkDyY3T4mQ4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018091541387255809/pl/drH1NQbSC8eozmAF.m3u8?v=cfc"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2018091610450612533",
+        "created_at": "2026-02-02T15:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018347826174914609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "868887840230330368",
+              "start": 0,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018347826174914609",
+        "in_reply_to_user_id": "868887840230330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018091610450612533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoGZ0412 为什么很少见推特国区挂community notes，这不是挺好的功能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018091541387255809"
+          ]
+        },
+        "author_id": "868887840230330368",
+        "conversation_id": "2018091610450612533",
+        "created_at": "2026-02-01T22:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T23:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018091610450612533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7RV8YFuZ4",
+              "end": 107,
+              "expanded_url": "https://x.com/momoGZ0412/status/2018091610450612533/video/1",
+              "media_key": "13_2018091541387255809",
+              "start": 84,
+              "url": "https://t.co/g7RV8YFuZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018091610450612533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 396,
+          "impression_count": 1022944,
+          "like_count": 2312,
+          "quote_count": 38,
+          "reply_count": 203,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "2026年2月1日下午广西南宁青秀区航洋购物中心一男子男扮女装去女厕所，被一女coser发现了，然后男的就拿刀把女coser捅了。据目击者说被捅的女生已经一动不动了。 https://t.co/g7RV8YFuZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 1531,
+          "like_count": 46793,
+          "listed_count": 11,
+          "media_count": 280,
+          "tweet_count": 2879
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T17:52:59.000Z",
+        "description": "别人都假装正经，我只有假装不正经。",
+        "id": "868887840230330368",
+        "location": "Paris, France",
+        "name": "默默",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996847012906717184/fVYoKJaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61443,
+          "following_count": 4854,
+          "like_count": 148483,
+          "listed_count": 191,
+          "media_count": 6664,
+          "tweet_count": 19802
+        },
+        "username": "momoGZ0412",
+        "verified": true
+      }
+    ]
+  }
+}

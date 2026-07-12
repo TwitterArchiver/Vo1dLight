@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2075285123881390434",
+    "created_at": "2026-07-10T01:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075388221740154885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "756779273155858432",
+          "start": 0,
+          "username": "ScarletKc_"
+        },
+        {
+          "end": 22,
+          "id": "1211984209058779136",
+          "start": 12,
+          "username": "ichralpha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075388221740154885",
+    "in_reply_to_user_id": "756779273155858432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075385352324628814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletKc_ @ichralpha 确实，我也看到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2075285123881390434",
+        "created_at": "2026-07-10T01:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075388221740154885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc_"
+            },
+            {
+              "end": 22,
+              "id": "1211984209058779136",
+              "start": 12,
+              "username": "ichralpha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075388221740154885",
+        "in_reply_to_user_id": "756779273155858432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075385352324628814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc_ @ichralpha 确实，我也看到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "conversation_id": "2075285123881390434",
+        "created_at": "2026-07-10T01:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075385352324628814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 21,
+              "id": "1211984209058779136",
+              "start": 11,
+              "username": "ichralpha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075385352324628814",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075383970926387393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight @ichralpha 上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4921,
+          "following_count": 1873,
+          "like_count": 70724,
+          "listed_count": 16,
+          "media_count": 347,
+          "tweet_count": 4512
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "All in AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPj9oL"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "name": "KC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 1024,
+          "like_count": 77890,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 6968
+        },
+        "url": "https://t.co/YTKXMPj9oL",
+        "username": "ScarletKc_",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-31T12:16:17.000Z",
+        "description": "📢https://t.co/0wpiMl5BLR  📷https://t.co/9aytWWx0fI | interest shifts often",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ChrAlphaChannel",
+                "end": 24,
+                "expanded_url": "https://t.me/ChrAlphaChannel",
+                "start": 1,
+                "url": "https://t.co/0wpiMl5BLR"
+              },
+              {
+                "display_url": "t.me/ChrZeta",
+                "end": 50,
+                "expanded_url": "https://t.me/ChrZeta",
+                "start": 27,
+                "url": "https://t.co/9aytWWx0fI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ichr.me",
+                "end": 23,
+                "expanded_url": "https://ichr.me",
+                "start": 0,
+                "url": "https://t.co/I1IDQBcAEV"
+              }
+            ]
+          }
+        },
+        "id": "1211984209058779136",
+        "location": "Neverland",
+        "name": "Chrys🌕",
+        "pinned_tweet_id": "2061737641725632762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765573039004233728/1_vo49--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 129,
+          "like_count": 254,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/I1IDQBcAEV",
+        "username": "ichralpha",
+        "verified": true
+      }
+    ]
+  }
+}

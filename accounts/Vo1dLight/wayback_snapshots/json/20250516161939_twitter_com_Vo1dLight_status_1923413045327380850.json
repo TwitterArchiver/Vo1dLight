@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1923413045327380850",
+    "created_at": "2025-05-16T16:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T17:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923413045327380850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Vo1dLight/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Vo1dLight/status/1899793639133327530",
+          "start": 19,
+          "url": "https://t.co/YvXZsv1JvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923413045327380850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899793639133327530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉评价是建议这位还是尽快找个班上吧( https://t.co/YvXZsv1JvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_1899792722900459520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl1rantaoAA3kd9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1923413045327380850",
+        "created_at": "2025-05-16T16:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T17:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923413045327380850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vo1dLight/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Vo1dLight/status/1899793639133327530",
+              "start": 19,
+              "url": "https://t.co/YvXZsv1JvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923413045327380850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899793639133327530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉评价是建议这位还是尽快找个班上吧( https://t.co/YvXZsv1JvZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899792722900459520"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1899793639133327530",
+        "created_at": "2025-03-12T12:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T13:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899793639133327530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7p5tQuRg2",
+              "end": 102,
+              "expanded_url": "https://x.com/Vo1dLight/status/1899793639133327530/photo/1",
+              "media_key": "3_1899792722900459520",
+              "start": 79,
+              "url": "https://t.co/B7p5tQuRg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899793639133327530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7267,
+          "like_count": 133,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一个我很喜欢看的游戏主播今天不堪打灰重负，辞职了。yysy作为他的同校学弟，看着还是颇为感慨，可能也不是说共情主播，更多是在共情未来某个节点同样迷茫的自己吧 https://t.co/B7p5tQuRg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、虚拟现实与脑机接口推崇者、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 107,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 998,
+          "like_count": 14850,
+          "listed_count": 8,
+          "media_count": 150,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      }
+    ]
+  }
+}

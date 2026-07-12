@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1864559786429435948",
+    "created_at": "2024-12-05T09:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T10:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864602135633252480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721288623654658048",
+          "start": 0,
+          "username": "cv41__midway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864602135633252480",
+    "in_reply_to_user_id": "1721288623654658048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864559786429435948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cv41__midway 可爱😭😍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1864559786429435948].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1864559786429435948",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1864559786429435948"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1864559786429435948",
+        "created_at": "2024-12-05T09:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T10:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864602135633252480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721288623654658048",
+              "start": 0,
+              "username": "cv41__midway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864602135633252480",
+        "in_reply_to_user_id": "1721288623654658048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864559786429435948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cv41__midway 可爱😭😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 无聊的理工男，视穿小裙子为解压与逃避😖 | 183/63 我好羡慕天赋党哇😭 | 小号@Vo1dL1ght\nAn average nerd and a crossdresser, trying to live the life I love, but where is it?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 586,
+          "like_count": 3885,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T22:09:35.000Z",
+        "description": "mtx|Midway-class No. 1 ship |  CPHO|want to be cute~|Computational fluid dynamics|Please feel free to use personal pronouns QAQ|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/midway_channel",
+                "end": 23,
+                "expanded_url": "https://t.me/midway_channel",
+                "start": 0,
+                "url": "https://t.co/FF1lx06EJS"
+              }
+            ]
+          }
+        },
+        "id": "1721288623654658048",
+        "location": "Amsterdam, The Netherlands",
+        "name": "米德伟",
+        "pinned_tweet_id": "1851986184744112319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777195227951820800/Ye9qu7qF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 877,
+          "like_count": 11766,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 5453
+        },
+        "url": "https://t.co/FF1lx06EJS",
+        "username": "cv41__midway",
+        "verified": false
+      }
+    ]
+  }
+}

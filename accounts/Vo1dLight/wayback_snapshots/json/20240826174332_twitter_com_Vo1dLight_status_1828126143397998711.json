@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1827094289203261731",
+    "created_at": "2024-08-26T17:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T18:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828126143397998711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795415871869026305",
+          "start": 0,
+          "username": "KYBSparkle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828126143397998711",
+    "in_reply_to_user_id": "1795415871869026305",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828124914701783517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KYBSparkle 嗯呢🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1827094289203261731",
+        "created_at": "2024-08-26T17:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T18:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828126143397998711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795415871869026305",
+              "start": 0,
+              "username": "KYBSparkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828126143397998711",
+        "in_reply_to_user_id": "1795415871869026305",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828124914701783517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KYBSparkle 嗯呢🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795415871869026305",
+        "conversation_id": "1827094289203261731",
+        "created_at": "2024-08-26T17:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T18:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828124914701783517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828124914701783517",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828123981355851948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 还是会多想的话，睡前可以喝一口红酒，睡觉会舒服的多哦，热牛奶也可以。还可以想办法把焦虑的根源消除哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无的光💫 | 欢迎互fo😉 | 实际上是一个很符合刻板印象的理工男🤓穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 53,
+          "like_count": 18,
+          "listed_count": 0,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T11:46:42.000Z",
+        "description": "",
+        "id": "1795415871869026305",
+        "name": "Sparkley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828116544498671616/JxHSKQU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 189,
+          "like_count": 59,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "KYBSparkle",
+        "verified": false
+      }
+    ]
+  }
+}

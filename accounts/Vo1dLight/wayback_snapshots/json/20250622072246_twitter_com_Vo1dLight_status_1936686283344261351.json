@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936677907776110592",
+        "3_1936677910749892608"
+      ],
+      "media_source_tweet_id": [
+        "1936677914164301888",
+        "1936677914164301888"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1936686283344261351",
+    "created_at": "2025-06-22T07:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T08:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936686283344261351"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "伪娘"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "男娘"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "药娘"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "雌堕"
+        },
+        {
+          "end": 52,
+          "start": 46,
+          "tag": "sissy"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "cd"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "ts"
+        },
+        {
+          "end": 68,
+          "start": 61,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "男の娘"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "4i"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "长筒袜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833828191750041600",
+          "start": 3,
+          "username": "muumuujiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VLhft49DrY",
+          "end": 118,
+          "expanded_url": "https://x.com/muumuujiang/status/1936677914164301888/photo/1",
+          "media_key": "3_1936677907776110592",
+          "start": 95,
+          "url": "https://t.co/VLhft49DrY"
+        },
+        {
+          "display_url": "pic.x.com/VLhft49DrY",
+          "end": 118,
+          "expanded_url": "https://x.com/muumuujiang/status/1936677914164301888/photo/1",
+          "media_key": "3_1936677910749892608",
+          "start": 95,
+          "url": "https://t.co/VLhft49DrY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936686283344261351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936677914164301888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @muumuujiang: 编程能力+13％的长筒袜\n#伪娘 #男娘 #药娘 #雌堕 #sissy #cd #ts #可爱的男孩子 #男の娘 #4i #长筒袜\n大家想看我穿哪一种呢？ https://t.co/VLhft49DrY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936686283344261351].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936686283344261351",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936686283344261351"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_1936677907776110592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuB2S9FXgAAmaX-.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936677910749892608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuB2TIKX0AAy-R1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936677907776110592",
+            "3_1936677910749892608"
+          ]
+        },
+        "author_id": "1833828191750041600",
+        "conversation_id": "1936677914164301888",
+        "created_at": "2025-06-22T06:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936677914164301888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "伪娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "药娘"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "雌堕"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "sissy"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "cd"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "ts"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "男の娘"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "4i"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "长筒袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLhft49DrY",
+              "end": 101,
+              "expanded_url": "https://x.com/muumuujiang/status/1936677914164301888/photo/1",
+              "media_key": "3_1936677907776110592",
+              "start": 78,
+              "url": "https://t.co/VLhft49DrY"
+            },
+            {
+              "display_url": "pic.x.com/VLhft49DrY",
+              "end": 101,
+              "expanded_url": "https://x.com/muumuujiang/status/1936677914164301888/photo/1",
+              "media_key": "3_1936677910749892608",
+              "start": 78,
+              "url": "https://t.co/VLhft49DrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936677914164301888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "编程能力+13％的长筒袜\n#伪娘 #男娘 #药娘 #雌堕 #sissy #cd #ts #可爱的男孩子 #男の娘 #4i #长筒袜\n大家想看我穿哪一种呢？ https://t.co/VLhft49DrY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 1058,
+          "like_count": 19816,
+          "listed_count": 8,
+          "media_count": 170,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T11:21:32.000Z",
+        "description": "原1wfo🆔『瑾喵🐱@xiiiiiinmiao』被盗😡这一世，我要找回属于我的荣耀😡｜🚪35r🉑加Q➕赠自选涩涩视频（顶部有赞赏码）｜魔都在校学生一枚｜高p｜欢迎同好互fo互推｜艰难所以下海｜私信可能看的不及时但都会回复嘟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "xiiiiiinmiao"
+              }
+            ]
+          }
+        },
+        "id": "1833828191750041600",
+        "location": "Shanghai",
+        "name": "木木浆",
+        "pinned_tweet_id": "1936677914164301888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837454819268923392/vi48N9l5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 102,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "muumuujiang",
+        "verified": false
+      }
+    ]
+  }
+}

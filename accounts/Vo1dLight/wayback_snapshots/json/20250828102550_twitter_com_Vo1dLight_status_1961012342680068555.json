@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1961005248975368312",
+    "created_at": "2025-08-28T10:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T11:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961012342680068555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2811104977",
+          "start": 0,
+          "username": "applekajela"
+        },
+        {
+          "end": 23,
+          "id": "1633809558513778694",
+          "start": 13,
+          "username": "xuxuna333"
+        },
+        {
+          "end": 35,
+          "id": "1239352911596941312",
+          "start": 24,
+          "username": "asahisuki0"
+        },
+        {
+          "end": 50,
+          "id": "2651621196",
+          "start": 36,
+          "username": "OJouSamaAlice"
+        },
+        {
+          "end": 61,
+          "id": "1943699809933963264",
+          "start": 51,
+          "username": "SetsuGlow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961012342680068555",
+    "in_reply_to_user_id": "2811104977",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961005248975368312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@applekajela @xuxuna333 @asahisuki0 @OJouSamaAlice @SetsuGlow &gt;.&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1961005245271875585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzbj4XcboAEzaJV.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1961005248975368312",
+        "created_at": "2025-08-28T10:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T11:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961012342680068555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2811104977",
+              "start": 0,
+              "username": "applekajela"
+            },
+            {
+              "end": 23,
+              "id": "1633809558513778694",
+              "start": 13,
+              "username": "xuxuna333"
+            },
+            {
+              "end": 35,
+              "id": "1239352911596941312",
+              "start": 24,
+              "username": "asahisuki0"
+            },
+            {
+              "end": 50,
+              "id": "2651621196",
+              "start": 36,
+              "username": "OJouSamaAlice"
+            },
+            {
+              "end": 61,
+              "id": "1943699809933963264",
+              "start": 51,
+              "username": "SetsuGlow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961012342680068555",
+        "in_reply_to_user_id": "2811104977",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961005248975368312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@applekajela @xuxuna333 @asahisuki0 @OJouSamaAlice @SetsuGlow &gt;.&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961005245271875585"
+          ]
+        },
+        "author_id": "2811104977",
+        "conversation_id": "1961005248975368312",
+        "created_at": "2025-08-28T09:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T10:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961005248975368312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1633809558513778694",
+              "start": 22,
+              "username": "xuxuna333"
+            },
+            {
+              "end": 44,
+              "id": "1239352911596941312",
+              "start": 33,
+              "username": "asahisuki0"
+            },
+            {
+              "end": 61,
+              "id": "1657466272240611329",
+              "start": 51,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 82,
+              "id": "2651621196",
+              "start": 68,
+              "username": "OJouSamaAlice"
+            },
+            {
+              "end": 93,
+              "id": "1943699809933963264",
+              "start": 83,
+              "username": "SetsuGlow"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 121,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1960987517026754560/u3nrRQsC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1960987517026754560/u3nrRQsC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/dihOo0CdpX"
+            },
+            {
+              "display_url": "pic.x.com/uyROQdSWzQ",
+              "end": 145,
+              "expanded_url": "https://x.com/applekajela/status/1961005248975368312/photo/1",
+              "media_key": "3_1961005245271875585",
+              "start": 122,
+              "url": "https://t.co/uyROQdSWzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961005248975368312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @xuxuna333 @asahisuki0\n👰 配偶: @Vo1dLight\n👶 孩子: @OJouSamaAlice @SetsuGlow\n\n➡️ https://t.co/dihOo0CdpX https://t.co/uyROQdSWzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3119,
+          "following_count": 1144,
+          "like_count": 24629,
+          "listed_count": 8,
+          "media_count": 200,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-15T10:32:45.000Z",
+        "description": "是用python的，倾向于社民，女装男孩子♂\n大龄伪娘，非药非跨，友跨顺男，纯爱好不发18x自拍，只发清水。\n攻击性过强的、高强度鉴证的建议不要关注，有一定几率删。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6109978",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/6109978",
+                "start": 0,
+                "url": "https://t.co/BdSTBkxILr"
+              }
+            ]
+          }
+        },
+        "id": "2811104977",
+        "location": "马来西亚",
+        "name": "神楽坂愛蘭",
+        "pinned_tweet_id": "1380416138710937600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931538585557311488/zETgLyYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 650,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/BdSTBkxILr",
+        "username": "applekajela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T12:38:59.000Z",
+        "description": "学生 性别♂ 电子宠物 多人设 喜欢看番打游戏 接lol/瓦陪玩 线下绿陪 推特唯一小号搞抽象擦边@mianovo3 抖音灌注四小丸子！私信评论都会看 欢迎同好宝宝贴贴w互fo扩列 自用vpn https://t.co/g3xefWhID9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "mianovo3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 120,
+                "expanded_url": "https://so.sulink.life/#/register?code=lPYYb1o2",
+                "start": 97,
+                "url": "https://t.co/g3xefWhID9"
+              }
+            ]
+          }
+        },
+        "id": "1633809558513778694",
+        "name": "缘晓晓",
+        "pinned_tweet_id": "1920050118868472159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835919528875941888/nLrH0SN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39583,
+          "following_count": 639,
+          "like_count": 9096,
+          "listed_count": 141,
+          "media_count": 408,
+          "tweet_count": 5483
+        },
+        "username": "xuxuna333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T00:49:05.000Z",
+        "description": "石之心\n好亲友 @Flowers8964 @hikawarinaOvO\n猫猫 @nekodoby_\n世界上另一个我 @milktea_ch51900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "hikawarinaOvO"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "milktea_ch51900"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asahisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/asahisuki",
+                "start": 0,
+                "url": "https://t.co/FUoUI9O1aO"
+              }
+            ]
+          }
+        },
+        "id": "1239352911596941312",
+        "location": "mo•殿堂",
+        "name": "mona",
+        "pinned_tweet_id": "1959652935304175699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957093981260767232/F2Vmg2Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1242,
+          "like_count": 242917,
+          "listed_count": 7,
+          "media_count": 336,
+          "tweet_count": 17684
+        },
+        "url": "https://t.co/FUoUI9O1aO",
+        "username": "asahisuki0",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-16T17:42:08.000Z",
+        "description": "很高興認識你，我是愛麗絲，一個任性的大小姐 /喜歡的人是笨喵學姐 @OvO_Miao /EnVer.@OJouSamaAliceEN/提問箱https://t.co/iNQCqK73b1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "OvO_Miao"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "OJouSamaAliceEN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ojousamaalice",
+                "end": 93,
+                "expanded_url": "https://ngl.link/ojousamaalice",
+                "start": 70,
+                "url": "https://t.co/iNQCqK73b1"
+              }
+            ]
+          }
+        },
+        "id": "2651621196",
+        "location": "Santa Cruz, CA",
+        "name": "愛麗絲不是大小姐",
+        "pinned_tweet_id": "1954695975823687688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914176489769373696/LwK6iL-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7953,
+          "following_count": 315,
+          "like_count": 6113,
+          "listed_count": 20,
+          "media_count": 1116,
+          "tweet_count": 4474
+        },
+        "username": "OJouSamaAlice",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T15:52:13.000Z",
+        "description": "|cosplay📷 / JK•LO👗 / 碎碎念💭/邦邦•LL•FGO•崩铁/PC•NS/大龄二次元社畜♂|\n                             \n描绘时间有限却不愿醒来的梦🌙礼貌私信会尽量回复，也欢迎真诚和善意的靠近~\n谢谢大家的喜欢和关注✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/setsuglow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/setsuglow",
+                "start": 0,
+                "url": "https://t.co/dA1WZ1mzq6"
+              }
+            ]
+          }
+        },
+        "id": "1943699809933963264",
+        "location": "beijing",
+        "name": "雪灯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944525696652722177/lROcugeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 273,
+          "like_count": 2880,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/dA1WZ1mzq6",
+        "username": "SetsuGlow",
+        "verified": true
+      }
+    ]
+  }
+}

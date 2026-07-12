@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2032430725035921606",
+    "created_at": "2026-03-13T15:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032484230983569891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "828709745670356993",
+          "start": 0,
+          "username": "boyuan_chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032484230983569891",
+    "in_reply_to_user_id": "828709745670356993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032462386037162019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boyuan_chen 是的，或许大家在吵cursor/copilot与cc/codex之争，而jb系的棺材板已经压实了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2032430725035921606",
+        "created_at": "2026-03-13T15:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032484230983569891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "828709745670356993",
+              "start": 0,
+              "username": "boyuan_chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032484230983569891",
+        "in_reply_to_user_id": "828709745670356993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032462386037162019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boyuan_chen 是的，或许大家在吵cursor/copilot与cc/codex之争，而jb系的棺材板已经压实了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "828709745670356993",
+        "conversation_id": "2032430725035921606",
+        "created_at": "2026-03-13T14:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032462386037162019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032462386037162019",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032430725035921606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight Neovim 党完全同意。coding agent 越来越多跑在独立终端里，编辑器确实在回归「编辑」这个本职。现在该胖的不是编辑器，是 agent 背后那个 context window。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 1598,
+          "like_count": 54444,
+          "listed_count": 13,
+          "media_count": 293,
+          "tweet_count": 3298
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-06T20:59:35.000Z",
+        "description": "Principal Researcher. LLM x Software Engineering. All in Agentic AI. Opinions are my own.",
+        "id": "828709745670356993",
+        "location": "Toronto, Ontario",
+        "name": "Boyuan (Nemo) Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725183555125346304/ELAElBtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 759,
+          "like_count": 299,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1084
+        },
+        "username": "boyuan_chen",
+        "verified": true
+      }
+    ]
+  }
+}

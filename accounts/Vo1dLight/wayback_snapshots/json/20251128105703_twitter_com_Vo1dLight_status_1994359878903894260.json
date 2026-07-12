@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994334259633688576"
+      ],
+      "media_source_tweet_id": [
+        "1994334263659876416"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1994359878903894260",
+    "created_at": "2025-11-28T10:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994359878903894260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774477637534281728",
+          "start": 3,
+          "username": "GeimoGeimo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MI3seVJ34g",
+          "end": 44,
+          "expanded_url": "https://x.com/GeimoGeimo/status/1994334263659876416/photo/1",
+          "media_key": "3_1994334259633688576",
+          "start": 21,
+          "url": "https://t.co/MI3seVJ34g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994359878903894260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994334263659876416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GeimoGeimo: 装作少女 https://t.co/MI3seVJ34g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994334259633688576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61McVTbkAA1NLa.jpg",
+        "width": 1530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994334259633688576"
+          ],
+          "media_source_tweet_id": [
+            "1994334263659876416"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1994359878903894260",
+        "created_at": "2025-11-28T10:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994359878903894260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774477637534281728",
+              "start": 3,
+              "username": "GeimoGeimo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MI3seVJ34g",
+              "end": 44,
+              "expanded_url": "https://x.com/GeimoGeimo/status/1994334263659876416/photo/1",
+              "media_key": "3_1994334259633688576",
+              "start": 21,
+              "url": "https://t.co/MI3seVJ34g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994359878903894260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994334263659876416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GeimoGeimo: 装作少女 https://t.co/MI3seVJ34g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994334259633688576"
+          ]
+        },
+        "author_id": "1774477637534281728",
+        "conversation_id": "1994334263659876416",
+        "created_at": "2025-11-28T09:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994334263659876416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MI3seVJ34g",
+              "end": 28,
+              "expanded_url": "https://x.com/GeimoGeimo/status/1994334263659876416/photo/1",
+              "media_key": "3_1994334259633688576",
+              "start": 5,
+              "url": "https://t.co/MI3seVJ34g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994334263659876416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "装作少女 https://t.co/MI3seVJ34g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3587,
+          "following_count": 1335,
+          "like_count": 32549,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T16:43:52.000Z",
+        "description": "♂/臭打游戏的，随缘更新照片/偶尔发点画",
+        "id": "1774477637534281728",
+        "location": "哈尔滨",
+        "name": "Geimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913651019990671360/cFSrnOwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 271,
+          "like_count": 6336,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 348
+        },
+        "username": "GeimoGeimo",
+        "verified": false
+      }
+    ]
+  }
+}

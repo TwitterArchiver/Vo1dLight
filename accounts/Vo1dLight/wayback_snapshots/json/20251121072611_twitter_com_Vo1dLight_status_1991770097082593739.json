@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991769996247330824"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1991126402435821598",
+    "created_at": "2025-11-21T07:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T08:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991770097082593739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1921935866114756608",
+          "start": 0,
+          "username": "KafuuChinoDL"
+        },
+        {
+          "end": 22,
+          "id": "3003486236",
+          "start": 14,
+          "username": "xbanboo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oghiTgDEHB",
+          "end": 57,
+          "expanded_url": "https://x.com/Vo1dLight/status/1991770097082593739/photo/1",
+          "media_key": "3_1991769996247330824",
+          "start": 34,
+          "url": "https://t.co/oghiTgDEHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991770097082593739",
+    "in_reply_to_user_id": "1921935866114756608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991416060155949493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KafuuChinoDL @xbanboo 这国补到底是谁在中🤡 https://t.co/oghiTgDEHB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 421,
+        "media_key": "3_1991769996247330824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QwQjyacAg5VRr.png",
+        "width": 690
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991416051318571008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LuWQLawAAE3W-.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991416051305967620",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LuWQIacAQHMiZ.jpg",
+        "width": 942
+      },
+      {
+        "height": 1887,
+        "media_key": "3_1991416051339522052",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LuWQQacAQsakJ.jpg",
+        "width": 1205
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1991416051314356231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LuWQKacAcjhXc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991769996247330824"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991126402435821598",
+        "created_at": "2025-11-21T07:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991770097082593739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1921935866114756608",
+              "start": 0,
+              "username": "KafuuChinoDL"
+            },
+            {
+              "end": 22,
+              "id": "3003486236",
+              "start": 14,
+              "username": "xbanboo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oghiTgDEHB",
+              "end": 57,
+              "expanded_url": "https://x.com/Vo1dLight/status/1991770097082593739/photo/1",
+              "media_key": "3_1991769996247330824",
+              "start": 34,
+              "url": "https://t.co/oghiTgDEHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991770097082593739",
+        "in_reply_to_user_id": "1921935866114756608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991416060155949493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KafuuChinoDL @xbanboo 这国补到底是谁在中🤡 https://t.co/oghiTgDEHB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991416051318571008",
+            "3_1991416051305967620",
+            "3_1991416051339522052",
+            "3_1991416051314356231"
+          ]
+        },
+        "author_id": "1921935866114756608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1991126402435821598",
+        "created_at": "2025-11-20T07:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T08:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991416060155949493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3003486236",
+              "start": 0,
+              "username": "xbanboo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbdFCx2OMr",
+              "end": 162,
+              "expanded_url": "https://x.com/KafuuChinoDL/status/1991416060155949493/photo/1",
+              "media_key": "3_1991416051318571008",
+              "start": 139,
+              "url": "https://t.co/qbdFCx2OMr"
+            },
+            {
+              "display_url": "pic.x.com/qbdFCx2OMr",
+              "end": 162,
+              "expanded_url": "https://x.com/KafuuChinoDL/status/1991416060155949493/photo/1",
+              "media_key": "3_1991416051305967620",
+              "start": 139,
+              "url": "https://t.co/qbdFCx2OMr"
+            },
+            {
+              "display_url": "pic.x.com/qbdFCx2OMr",
+              "end": 162,
+              "expanded_url": "https://x.com/KafuuChinoDL/status/1991416060155949493/photo/1",
+              "media_key": "3_1991416051339522052",
+              "start": 139,
+              "url": "https://t.co/qbdFCx2OMr"
+            },
+            {
+              "display_url": "pic.x.com/qbdFCx2OMr",
+              "end": 162,
+              "expanded_url": "https://x.com/KafuuChinoDL/status/1991416060155949493/photo/1",
+              "media_key": "3_1991416051314356231",
+              "start": 139,
+              "url": "https://t.co/qbdFCx2OMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991416060155949493",
+        "in_reply_to_user_id": "3003486236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11706,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991126402435821598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xbanboo 上周蹭国补买了一个16+512的Macbook，6000块钱的MBA还是16+512，我做梦都不敢想😂。\n16+256的更是不到5000，感觉Win轻薄本瞬间毫无性价比了。\n甚至有的省市还对24+512的M2 MacBook 13进行补贴，只要5000左右。 https://t.co/qbdFCx2OMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3537,
+          "following_count": 1303,
+          "like_count": 31524,
+          "listed_count": 10,
+          "media_count": 235,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T14:30:06.000Z",
+        "description": "苹果产品首席体验官｜智乃厨｜it相关｜疯癫ing",
+        "id": "1921935866114756608",
+        "location": "China",
+        "name": "智乃",
+        "pinned_tweet_id": "1986088132241129800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921936642216173568/OrX67x2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 69,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 130
+        },
+        "username": "KafuuChinoDL",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-30T13:26:34.000Z",
+        "description": "随便活着。",
+        "id": "3003486236",
+        "location": "Dali",
+        "name": "banboo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957642877254914048/VWg-Vtj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38806,
+          "following_count": 605,
+          "like_count": 11904,
+          "listed_count": 248,
+          "media_count": 1447,
+          "tweet_count": 8487
+        },
+        "username": "xbanboo",
+        "verified": true
+      }
+    ]
+  }
+}

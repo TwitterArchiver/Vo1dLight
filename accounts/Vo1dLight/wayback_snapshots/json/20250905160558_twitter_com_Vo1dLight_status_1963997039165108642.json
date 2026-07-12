@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "1963979498526826629",
+    "created_at": "2025-09-05T16:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T17:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963997039165108642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880243174272282624",
+          "start": 0,
+          "username": "Yihan292477"
+        },
+        {
+          "end": 26,
+          "id": "831495289441628160",
+          "start": 13,
+          "username": "changwei1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963997039165108642",
+    "in_reply_to_user_id": "1880243174272282624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963993562216903054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yihan292477 @changwei1006 我cc用的deepseek的api, 但整体而言我还是更喜欢copilot这种gui一点点(菜逼说是😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "1963979498526826629",
+        "created_at": "2025-09-05T16:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963997039165108642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880243174272282624",
+              "start": 0,
+              "username": "Yihan292477"
+            },
+            {
+              "end": 26,
+              "id": "831495289441628160",
+              "start": 13,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963997039165108642",
+        "in_reply_to_user_id": "1880243174272282624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963993562216903054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihan292477 @changwei1006 我cc用的deepseek的api, 但整体而言我还是更喜欢copilot这种gui一点点(菜逼说是😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880243174272282624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1963979498526826629",
+        "created_at": "2025-09-05T15:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963993562216903054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 24,
+              "id": "831495289441628160",
+              "start": 11,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963993562216903054",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963990341788561786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight @changwei1006 github有个叫copilot-api的项目可以让claude code调用copilot的api（但我还是不会vibe coding🫠）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "梦想是成为会写代码的可爱男娘 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3211,
+          "following_count": 1186,
+          "like_count": 25836,
+          "listed_count": 10,
+          "media_count": 204,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T13:18:20.000Z",
+        "description": "无证无糖少社交",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.neurosama.uk",
+                "end": 23,
+                "expanded_url": "https://blog.neurosama.uk",
+                "start": 0,
+                "url": "https://t.co/hSpX30g4nK"
+              }
+            ]
+          }
+        },
+        "id": "1880243174272282624",
+        "location": "宛平南路600号",
+        "name": "α",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953412967678296064/Ij_3MJut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 135,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/hSpX30g4nK",
+        "username": "Yihan292477",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "Computer Science&Electronic Engineering💻/CrossDresser🌈/ WSPC/NTUST ECE/PingCAP FrontEnd https://t.co/lHrG2ZN1A4\n\nQQ/WeChat:867597730 Weibo FB 知乎 Instagram同名\n\n无性恋&纯爱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/cw1997",
+                "end": 111,
+                "expanded_url": "http://github.com/cw1997",
+                "start": 88,
+                "url": "https://t.co/lHrG2ZN1A4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "http://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/NH0oiOZsBc"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18258,
+          "following_count": 4694,
+          "like_count": 122569,
+          "listed_count": 138,
+          "media_count": 5481,
+          "tweet_count": 17543
+        },
+        "url": "https://t.co/NH0oiOZsBc",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

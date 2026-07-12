@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1968610135057801216"
+      ],
+      "media_source_tweet_id": [
+        "1968610193647829163"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969375152120218006",
+    "created_at": "2025-09-20T12:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969375152120218006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842096170107338754",
+          "start": 3,
+          "username": "hotjellyfishnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bMv4hrrPDp",
+          "end": 52,
+          "expanded_url": "https://x.com/hotjellyfishnya/status/1968610193647829163/video/1",
+          "media_key": "13_1968610135057801216",
+          "start": 29,
+          "url": "https://t.co/bMv4hrrPDp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969375152120218006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968610193647829163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hotjellyfishnya: 可以帮我转转吗 https://t.co/bMv4hrrPDp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14700,
+        "height": 1280,
+        "media_key": "13_1968610135057801216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968610135057801216/img/z_5SZl1-cPoNx-LQ.jpg",
+        "public_metrics": {
+          "view_count": 268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968610135057801216/vid/avc1/320x568/JrgBVTsyQk_f-FSG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968610135057801216/vid/avc1/480x852/g-5igMNkEkr0Aui_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968610135057801216/vid/avc1/720x1280/stPEYsFZYXbehb9z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968610135057801216/pl/NycK7S6BHx9k8D63.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968610135057801216"
+          ],
+          "media_source_tweet_id": [
+            "1968610193647829163"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969375152120218006",
+        "created_at": "2025-09-20T12:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969375152120218006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842096170107338754",
+              "start": 3,
+              "username": "hotjellyfishnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMv4hrrPDp",
+              "end": 52,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/1968610193647829163/video/1",
+              "media_key": "13_1968610135057801216",
+              "start": 29,
+              "url": "https://t.co/bMv4hrrPDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969375152120218006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968610193647829163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hotjellyfishnya: 可以帮我转转吗 https://t.co/bMv4hrrPDp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968610135057801216"
+          ]
+        },
+        "author_id": "1842096170107338754",
+        "conversation_id": "1968610193647829163",
+        "created_at": "2025-09-18T09:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T10:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968610193647829163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMv4hrrPDp",
+              "end": 31,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/1968610193647829163/video/1",
+              "media_key": "13_1968610135057801216",
+              "start": 8,
+              "url": "https://t.co/bMv4hrrPDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968610193647829163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1114,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "可以帮我转转吗 https://t.co/bMv4hrrPDp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3271,
+          "following_count": 1224,
+          "like_count": 27325,
+          "listed_count": 10,
+          "media_count": 207,
+          "tweet_count": 1672
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:55:47.000Z",
+        "description": "日本留学 | 中文 | 日本語 | English 绿色健康不搞h",
+        "id": "1842096170107338754",
+        "name": "火热的小水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842096817498132480/oEYGX3-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 39,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 16
+        },
+        "username": "hotjellyfishnya",
+        "verified": false
+      }
+    ]
+  }
+}

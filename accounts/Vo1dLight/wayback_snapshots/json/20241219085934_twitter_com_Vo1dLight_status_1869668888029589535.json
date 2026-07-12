@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1869617022151336238",
+    "created_at": "2024-12-19T08:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T09:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869668888029589535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831720858953687040",
+          "start": 0,
+          "username": "NicoAliceOwO"
+        },
+        {
+          "end": 23,
+          "id": "868831876315848705",
+          "start": 14,
+          "username": "idr_labs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869668888029589535",
+    "in_reply_to_user_id": "1831720858953687040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869617022151336238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NicoAliceOwO @idr_labs 17%男 36%女\n怎么都这么低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1869617022151336238",
+        "created_at": "2024-12-19T08:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T09:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869668888029589535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831720858953687040",
+              "start": 0,
+              "username": "NicoAliceOwO"
+            },
+            {
+              "end": 23,
+              "id": "868831876315848705",
+              "start": 14,
+              "username": "idr_labs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869668888029589535",
+        "in_reply_to_user_id": "1831720858953687040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869617022151336238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NicoAliceOwO @idr_labs 17%男 36%女\n怎么都这么低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831720858953687040",
+        "conversation_id": "1869617022151336238",
+        "created_at": "2024-12-19T05:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T06:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869617022151336238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "868831876315848705",
+              "start": 51,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "性别角色测试",
+              "display_url": "idrlabs.com/cn/gender/resu…",
+              "end": 47,
+              "expanded_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=31&feminine=89",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1869617026588868608/Mhy2QyyH?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1869617026588868608/Mhy2QyyH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "我是典型女性化。我的分数是31%男性化，89%女性化。",
+              "unwound_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=31&feminine=89",
+              "url": "https://t.co/fw7TjXHZYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869617022151336238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "31%男性化，89%女性化。我还以为会55开来着https://t.co/fw7TjXHZYF 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 无聊的理工男，视穿小裙子为解压与逃避😖 | 183/63 我好羡慕天赋党哇😭 | 小号@Vo1dL1ght\nAn average nerd and a crossdresser, trying to live the life I love, but where is it?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869077503278813184/1c3WnOzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 655,
+          "like_count": 4525,
+          "listed_count": 6,
+          "media_count": 86,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:47:55.000Z",
+        "description": "无性别主义+无性恋 / INFJ / 会写点什么随笔 /男娘（大概 / 树洞 / 不太主动社交(快主动找我聊) / 希望成为兼职小天使 / 偶尔随着心情发点清水图 / PC游戏活跃 / 人本主义 / 别看外面的意识形态炮轰啦，来喝杯茶怎么样？",
+        "id": "1831720858953687040",
+        "name": "🍂不自动书记人偶📗",
+        "pinned_tweet_id": "1868544750154096787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831722027578740736/LqblqKx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 222,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 243
+        },
+        "username": "NicoAliceOwO",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "id": "868831876315848705",
+        "name": "IDR Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9919,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 44,
+          "media_count": 19,
+          "tweet_count": 758
+        },
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013807422167752705"
+      ],
+      "media_source_tweet_id": [
+        "2013807683686801774"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      }
+    ],
+    "conversation_id": "2013948567002685857",
+    "created_at": "2026-01-21T12:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013948567002685857"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "cos"
+        },
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "azurlane"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1275413955242950659",
+          "start": 3,
+          "username": "Gob_aya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YN0bsDC7ZQ",
+          "end": 83,
+          "expanded_url": "https://x.com/Gob_aya/status/2013807683686801774/photo/1",
+          "media_key": "3_2013807422167752705",
+          "start": 60,
+          "url": "https://t.co/YN0bsDC7ZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013948567002685857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013807683686801774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gob_aya: 最近好喜欢这种跪坐！（头饰一直弄不好呜呜，只好带后面一点了）\n\n＃cos ＃azurlane https://t.co/YN0bsDC7ZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013807422167752705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_J7LkxaoAEM3DS.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013807422167752705"
+          ],
+          "media_source_tweet_id": [
+            "2013807683686801774"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2013948567002685857",
+        "created_at": "2026-01-21T12:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013948567002685857"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "cos"
+            },
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "azurlane"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1275413955242950659",
+              "start": 3,
+              "username": "Gob_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YN0bsDC7ZQ",
+              "end": 83,
+              "expanded_url": "https://x.com/Gob_aya/status/2013807683686801774/photo/1",
+              "media_key": "3_2013807422167752705",
+              "start": 60,
+              "url": "https://t.co/YN0bsDC7ZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013948567002685857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013807683686801774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gob_aya: 最近好喜欢这种跪坐！（头饰一直弄不好呜呜，只好带后面一点了）\n\n＃cos ＃azurlane https://t.co/YN0bsDC7ZQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013807422167752705"
+          ]
+        },
+        "author_id": "1275413955242950659",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2013807683686801774",
+        "created_at": "2026-01-21T02:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013807683686801774"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "cos"
+            },
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "azurlane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YN0bsDC7ZQ",
+              "end": 70,
+              "expanded_url": "https://x.com/Gob_aya/status/2013807683686801774/photo/1",
+              "media_key": "3_2013807422167752705",
+              "start": 47,
+              "url": "https://t.co/YN0bsDC7ZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013807683686801774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3541,
+          "like_count": 291,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "最近好喜欢这种跪坐！（头饰一直弄不好呜呜，只好带后面一点了）\n\n＃cos ＃azurlane https://t.co/YN0bsDC7ZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3841,
+          "following_count": 1498,
+          "like_count": 45485,
+          "listed_count": 11,
+          "media_count": 273,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-23T13:02:46.000Z",
+        "description": "高p 兴趣使然，随便穿穿，分享一下，看个乐就行。正在重启化妆计划（未拆封） 只有推特，私信不回就是被过滤了。",
+        "id": "1275413955242950659",
+        "location": "浙江",
+        "name": "哥布绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275414064861077504/v6EpcaF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8026,
+          "following_count": 423,
+          "like_count": 2025,
+          "listed_count": 42,
+          "media_count": 78,
+          "tweet_count": 1930
+        },
+        "username": "Gob_aya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2007849016374263908",
+    "created_at": "2026-01-04T19:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T20:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007902617184477218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582242846802735104",
+          "start": 0,
+          "username": "groseillecl"
+        },
+        {
+          "end": 26,
+          "id": "1465236821701382152",
+          "start": 13,
+          "username": "doll_weekend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007902617184477218",
+    "in_reply_to_user_id": "1582242846802735104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007849016374263908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@groseillecl @doll_weekend 羡慕dw🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2007848994370957313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91QBbgbMAE5njn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2007848994379350016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91QBbibQAAn1qb.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007848994777735168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91QBdBaIAAYaj5.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2007849016374263908",
+        "created_at": "2026-01-04T19:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T20:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007902617184477218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582242846802735104",
+              "start": 0,
+              "username": "groseillecl"
+            },
+            {
+              "end": 26,
+              "id": "1465236821701382152",
+              "start": 13,
+              "username": "doll_weekend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007902617184477218",
+        "in_reply_to_user_id": "1582242846802735104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007849016374263908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@groseillecl @doll_weekend 羡慕dw🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007848994370957313",
+            "3_2007848994379350016",
+            "3_2007848994777735168"
+          ]
+        },
+        "author_id": "1582242846802735104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2007849016374263908",
+        "created_at": "2026-01-04T16:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007849016374263908"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "DW13"
+            },
+            {
+              "end": 58,
+              "start": 45,
+              "tag": "doll_weekend"
+            },
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "Arknights"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1465236821701382152",
+              "start": 13,
+              "username": "doll_weekend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6G30N4e3L",
+              "end": 93,
+              "expanded_url": "https://x.com/groseillecl/status/2007849016374263908/photo/1",
+              "media_key": "3_2007848994370957313",
+              "start": 70,
+              "url": "https://t.co/x6G30N4e3L"
+            },
+            {
+              "display_url": "pic.x.com/x6G30N4e3L",
+              "end": 93,
+              "expanded_url": "https://x.com/groseillecl/status/2007849016374263908/photo/1",
+              "media_key": "3_2007848994379350016",
+              "start": 70,
+              "url": "https://t.co/x6G30N4e3L"
+            },
+            {
+              "display_url": "pic.x.com/x6G30N4e3L",
+              "end": 93,
+              "expanded_url": "https://x.com/groseillecl/status/2007849016374263908/photo/1",
+              "media_key": "3_2007848994777735168",
+              "start": 70,
+              "url": "https://t.co/x6G30N4e3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007849016374263908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呆呆阿米娅的DW之旅~😖\n@doll_weekend\n#kigurumi \n#DW13 \n#doll_weekend\n#Arknights https://t.co/x6G30N4e3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3744,
+          "following_count": 1466,
+          "like_count": 41990,
+          "listed_count": 11,
+          "media_count": 265,
+          "tweet_count": 2540
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T05:31:23.000Z",
+        "description": "mtx/上海/cn：醋栗/cos&kig萌新nia/想要扩列nia",
+        "id": "1582242846802735104",
+        "location": "France",
+        "name": "Groseille",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007830386894893057/BgentRM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 327,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 38
+        },
+        "username": "groseillecl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T08:31:32.000Z",
+        "description": "https://t.co/BSevFGZ6y6, the world's largest Kigurumi doll convention~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dollweekend.com",
+                "end": 23,
+                "expanded_url": "http://www.dollweekend.com",
+                "start": 0,
+                "url": "https://t.co/BSevFGZ6y6"
+              }
+            ]
+          }
+        },
+        "id": "1465236821701382152",
+        "location": "China",
+        "name": "Doll Weekend",
+        "pinned_tweet_id": "1996482527637418125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697247121915977728/VJNXsd8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13668,
+          "following_count": 337,
+          "like_count": 2891,
+          "listed_count": 75,
+          "media_count": 198,
+          "tweet_count": 3168
+        },
+        "username": "doll_weekend",
+        "verified": false
+      }
+    ]
+  }
+}

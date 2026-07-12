@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1997717522024628324",
+    "created_at": "2025-12-07T17:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T18:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997722514404114470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1329449687062032385",
+          "start": 0,
+          "username": "Stv_Lynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997722514404114470",
+    "in_reply_to_user_id": "1329449687062032385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997718006072586648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stv_Lynn a一串的设计和风格真的是我最喜欢的一家🙂‍↕️就可惜了公司有点不太干人事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1997717522024628324",
+        "created_at": "2025-12-07T17:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997722514404114470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1329449687062032385",
+              "start": 0,
+              "username": "Stv_Lynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997722514404114470",
+        "in_reply_to_user_id": "1329449687062032385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997718006072586648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stv_Lynn a一串的设计和风格真的是我最喜欢的一家🙂‍↕️就可惜了公司有点不太干人事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329449687062032385",
+        "conversation_id": "1997717522024628324",
+        "created_at": "2025-12-07T17:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997718006072586648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/claudeai/statu…",
+              "end": 23,
+              "expanded_url": "https://x.com/claudeai/status/1968705632095158393",
+              "start": 0,
+              "url": "https://t.co/r8CrmWhEXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997718006072586648",
+        "in_reply_to_user_id": "1329449687062032385",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968705632095158393",
+            "type": "quoted"
+          },
+          {
+            "id": "1997717522024628324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/r8CrmWhEXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 1355,
+          "like_count": 33693,
+          "listed_count": 10,
+          "media_count": 247,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T15:41:29.000Z",
+        "description": "host of https://t.co/62gAtIsTk6 | vibe coder | EN/CH/JP | 👉 @FirstLabAI Channel: https://t.co/UwjjgwnevL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "FirstLabAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "CrazySatur.day",
+                "end": 31,
+                "expanded_url": "http://CrazySatur.day",
+                "start": 8,
+                "url": "https://t.co/62gAtIsTk6"
+              },
+              {
+                "display_url": "discord.gg/PwZDHH4mv3",
+                "end": 104,
+                "expanded_url": "https://discord.gg/PwZDHH4mv3",
+                "start": 81,
+                "url": "https://t.co/UwjjgwnevL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stv.pm",
+                "end": 23,
+                "expanded_url": "https://stv.pm",
+                "start": 0,
+                "url": "https://t.co/KLEMmPFvOf"
+              }
+            ]
+          }
+        },
+        "id": "1329449687062032385",
+        "location": "The Great Bay Area",
+        "name": "Steven Lynn",
+        "pinned_tweet_id": "1994105365353648424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994070393758601218/tElGEPrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8475,
+          "following_count": 1368,
+          "like_count": 46465,
+          "listed_count": 60,
+          "media_count": 1120,
+          "tweet_count": 8358
+        },
+        "url": "https://t.co/KLEMmPFvOf",
+        "username": "Stv_Lynn",
+        "verified": true
+      }
+    ]
+  }
+}

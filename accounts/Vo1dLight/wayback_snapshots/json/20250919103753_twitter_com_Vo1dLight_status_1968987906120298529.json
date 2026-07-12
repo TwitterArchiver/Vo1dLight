@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1968983089327092141",
+    "created_at": "2025-09-19T10:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968987906120298529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880243174272282624",
+          "start": 0,
+          "username": "fck_my_life_987"
+        },
+        {
+          "end": 25,
+          "id": "1568748618760482816",
+          "start": 17,
+          "username": "cprarar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968987906120298529",
+    "in_reply_to_user_id": "1880243174272282624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968986803878113427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fck_my_life_987 @cprarar 你已经很厉害了哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1968983089327092141",
+        "created_at": "2025-09-19T10:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968987906120298529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880243174272282624",
+              "start": 0,
+              "username": "fck_my_life_987"
+            },
+            {
+              "end": 25,
+              "id": "1568748618760482816",
+              "start": 17,
+              "username": "cprarar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968987906120298529",
+        "in_reply_to_user_id": "1880243174272282624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968986803878113427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fck_my_life_987 @cprarar 你已经很厉害了哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880243174272282624",
+        "conversation_id": "1968983089327092141",
+        "created_at": "2025-09-19T10:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968986803878113427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568748618760482816",
+              "start": 0,
+              "username": "cprarar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968986803878113427",
+        "in_reply_to_user_id": "1568748618760482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968984532771614821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cprarar 我要菜死了，代码量太少了，没了ai更不会开发了🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 1224,
+          "like_count": 27327,
+          "listed_count": 10,
+          "media_count": 207,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T13:18:20.000Z",
+        "description": "无证无糖少社交",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.neurosama.uk",
+                "end": 23,
+                "expanded_url": "https://blog.neurosama.uk",
+                "start": 0,
+                "url": "https://t.co/hSpX30g4nK"
+              }
+            ]
+          }
+        },
+        "id": "1880243174272282624",
+        "location": "宛平南路600号",
+        "name": "α",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953412967678296064/Ij_3MJut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 156,
+          "like_count": 840,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/hSpX30g4nK",
+        "username": "fck_my_life_987",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T23:50:00.000Z",
+        "description": "何以措手足",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/whentoretire",
+                "end": 23,
+                "expanded_url": "https://t.me/whentoretire",
+                "start": 0,
+                "url": "https://t.co/cMiwzV5XgR"
+              }
+            ]
+          }
+        },
+        "id": "1568748618760482816",
+        "name": "离子芥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965339883196874753/s5_3X6IM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 367,
+          "like_count": 39185,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/cMiwzV5XgR",
+        "username": "cprarar",
+        "verified": false
+      }
+    ]
+  }
+}

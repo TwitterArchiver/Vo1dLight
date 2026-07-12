@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1875833483018555889",
+    "created_at": "2025-01-05T14:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T15:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875917230048997755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841304909565857792",
+          "start": 0,
+          "username": "ShiyawaseNokimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875917230048997755",
+    "in_reply_to_user_id": "1841304909565857792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875833483018555889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiyawaseNokimi 需要需要🙋‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1875833483018555889",
+        "created_at": "2025-01-05T14:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T15:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875917230048997755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841304909565857792",
+              "start": 0,
+              "username": "ShiyawaseNokimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875917230048997755",
+        "in_reply_to_user_id": "1841304909565857792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875833483018555889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiyawaseNokimi 需要需要🙋‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841304909565857792",
+        "conversation_id": "1875833483018555889",
+        "created_at": "2025-01-05T09:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T10:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875833483018555889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875833483018555889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 774,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来做个市场调研，有人想要一个面向男孩子的妆教系列吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but where&what is it? 🌠 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 🌠 bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 732,
+          "like_count": 6206,
+          "listed_count": 5,
+          "media_count": 94,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:31:27.000Z",
+        "description": "欢迎可爱宝宝扩列，一律不回复三无账号和逆天言论",
+        "id": "1841304909565857792",
+        "name": "洛琪希从小就很可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869244630505844737/d39DHW0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 63,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 83
+        },
+        "username": "ShiyawaseNokimi",
+        "verified": false
+      }
+    ]
+  }
+}

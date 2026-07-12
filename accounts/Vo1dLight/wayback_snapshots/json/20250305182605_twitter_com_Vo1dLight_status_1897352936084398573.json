@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886605369163591680"
+      ],
+      "media_source_tweet_id": [
+        "1886605371369754850"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1897352936084398573",
+    "created_at": "2025-03-05T18:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T19:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897352936084398573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911067872356642816",
+          "start": 3,
+          "username": "yiximiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zTlMJpjKzI",
+          "end": 57,
+          "expanded_url": "https://x.com/yiximiao/status/1886605371369754850/photo/1",
+          "media_key": "3_1886605369163591680",
+          "start": 34,
+          "url": "https://t.co/zTlMJpjKzI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897352936084398573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886605371369754850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yiximiao: 模仿了一下x上御坂妹妹的图，\n捆着玩～ https://t.co/zTlMJpjKzI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897352936084398573].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897352936084398573",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897352936084398573"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1886605369163591680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi6RlmxXMAA8Rvm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886605369163591680"
+          ]
+        },
+        "author_id": "911067872356642816",
+        "conversation_id": "1886605371369754850",
+        "created_at": "2025-02-04T02:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T03:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886605371369754850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zTlMJpjKzI",
+              "end": 43,
+              "expanded_url": "https://x.com/yiximiao/status/1886605371369754850/photo/1",
+              "media_key": "3_1886605369163591680",
+              "start": 20,
+              "url": "https://t.co/zTlMJpjKzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886605371369754850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "模仿了一下x上御坂妹妹的图，\n捆着玩～ https://t.co/zTlMJpjKzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 899,
+          "like_count": 8986,
+          "listed_count": 7,
+          "media_count": 111,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T03:21:22.000Z",
+        "description": "坐标波士顿 | \n男孩子～，喜欢漂亮的衣服和绳子 | \n玩绳子/女装的号（清水） | \n找绳搭子（被缚，捆人也想尝试下qwq）... | \n轻微社恐，努力克服中 | \n中 Eng 日 👌 | \n欢迎私信交流～",
+        "id": "911067872356642816",
+        "location": "Massachusetts, USA",
+        "name": "乙烯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872294211967467520/hzvqzd_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 260,
+          "like_count": 1936,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 73
+        },
+        "username": "yiximiao",
+        "verified": true
+      }
+    ]
+  }
+}

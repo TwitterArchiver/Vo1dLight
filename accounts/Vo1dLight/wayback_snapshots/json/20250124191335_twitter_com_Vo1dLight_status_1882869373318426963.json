@@ -1,0 +1,544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880434733987102721",
+        "3_1880434732032483328",
+        "3_1880434732351254528"
+      ],
+      "media_source_tweet_id": [
+        "1880434741918461980",
+        "1880434741918461980",
+        "1880434741918461980"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1882869373318426963",
+    "created_at": "2025-01-24T19:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T20:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882869373318426963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "男の娘"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "pjsk"
+        },
+        {
+          "end": 54,
+          "start": 47,
+          "tag": "Mizuki"
+        },
+        {
+          "end": 64,
+          "start": 56,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802943080896905216",
+          "start": 3,
+          "username": "Hana130711"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CQsncd5z09",
+          "end": 88,
+          "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+          "media_key": "3_1880434733987102721",
+          "start": 65,
+          "url": "https://t.co/CQsncd5z09"
+        },
+        {
+          "display_url": "pic.x.com/CQsncd5z09",
+          "end": 88,
+          "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+          "media_key": "3_1880434732032483328",
+          "start": 65,
+          "url": "https://t.co/CQsncd5z09"
+        },
+        {
+          "display_url": "pic.x.com/CQsncd5z09",
+          "end": 88,
+          "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+          "media_key": "3_1880434732351254528",
+          "start": 65,
+          "url": "https://t.co/CQsncd5z09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882869373318426963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880434741918461980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hana130711: 青、それともピンク？\n(ㅇㅅㅇ❀)\n\n#男の娘  ＃pjsk #Mizuki  #cosplay https://t.co/CQsncd5z09"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880434733987102721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhilbXabgAE1ca7.jpg",
+        "width": 1331
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1880434732032483328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhilbQIaYAAtsqN.jpg",
+        "width": 1379
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1880434732351254528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhilbRUacAABV0g.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880434733987102721",
+            "3_1880434732032483328",
+            "3_1880434732351254528"
+          ],
+          "media_source_tweet_id": [
+            "1880434741918461980",
+            "1880434741918461980",
+            "1880434741918461980"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1882869373318426963",
+        "created_at": "2025-01-24T19:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T20:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882869373318426963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "男の娘"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "pjsk"
+            },
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "Mizuki"
+            },
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802943080896905216",
+              "start": 3,
+              "username": "Hana130711"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQsncd5z09",
+              "end": 88,
+              "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+              "media_key": "3_1880434733987102721",
+              "start": 65,
+              "url": "https://t.co/CQsncd5z09"
+            },
+            {
+              "display_url": "pic.x.com/CQsncd5z09",
+              "end": 88,
+              "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+              "media_key": "3_1880434732032483328",
+              "start": 65,
+              "url": "https://t.co/CQsncd5z09"
+            },
+            {
+              "display_url": "pic.x.com/CQsncd5z09",
+              "end": 88,
+              "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+              "media_key": "3_1880434732351254528",
+              "start": 65,
+              "url": "https://t.co/CQsncd5z09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882869373318426963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880434741918461980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hana130711: 青、それともピンク？\n(ㅇㅅㅇ❀)\n\n#男の娘  ＃pjsk #Mizuki  #cosplay https://t.co/CQsncd5z09"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880434733987102721",
+            "3_1880434732032483328",
+            "3_1880434732351254528"
+          ]
+        },
+        "author_id": "1802943080896905216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1880434741918461980",
+        "created_at": "2025-01-18T01:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T02:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880434741918461980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "男の娘"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "pjsk"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "Mizuki"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQsncd5z09",
+              "end": 72,
+              "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+              "media_key": "3_1880434733987102721",
+              "start": 49,
+              "url": "https://t.co/CQsncd5z09"
+            },
+            {
+              "display_url": "pic.x.com/CQsncd5z09",
+              "end": 72,
+              "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+              "media_key": "3_1880434732032483328",
+              "start": 49,
+              "url": "https://t.co/CQsncd5z09"
+            },
+            {
+              "display_url": "pic.x.com/CQsncd5z09",
+              "end": 72,
+              "expanded_url": "https://x.com/Hana130711/status/1880434741918461980/photo/1",
+              "media_key": "3_1880434732351254528",
+              "start": 49,
+              "url": "https://t.co/CQsncd5z09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880434741918461980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 972,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "青、それともピンク？\n(ㅇㅅㅇ❀)\n\n#男の娘  ＃pjsk #Mizuki  #cosplay https://t.co/CQsncd5z09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 友跨🏳️‍⚧️友所有人🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 821,
+          "like_count": 7141,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T05:55:24.000Z",
+        "description": "まごつかせる——",
+        "id": "1802943080896905216",
+        "location": "Hachioji-shi, Tokyo",
+        "name": "はな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852306120096059392/XTNAdOr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 98,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 29
+        },
+        "username": "Hana130711",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1886083711634174304",
+    "created_at": "2025-02-02T16:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T17:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886083711634174304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/highbrow_nobro…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/highbrow_nobrow/status/1886007260649816416",
+          "start": 12,
+          "url": "https://t.co/8u6EoUGHys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886083711634174304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886007260649816416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉卧槽特朗普怎么这么坏 https://t.co/8u6EoUGHys"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1886083711634174304",
+        "created_at": "2025-02-02T16:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886083711634174304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/highbrow_nobro…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/highbrow_nobrow/status/1886007260649816416",
+              "start": 12,
+              "url": "https://t.co/8u6EoUGHys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886083711634174304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886007260649816416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉卧槽特朗普怎么这么坏 https://t.co/8u6EoUGHys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886007253200728064"
+          ]
+        },
+        "author_id": "4018888580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1886007260649816416",
+        "created_at": "2025-02-02T11:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886007260649816416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rORZao7vzu",
+              "end": 298,
+              "expanded_url": "https://x.com/highbrow_nobrow/status/1886007260649816416/photo/1",
+              "media_key": "3_1886007253200728064",
+              "start": 275,
+              "url": "https://t.co/rORZao7vzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886007260649816416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨 “The CDC has instructed its scientists to retract or pause the publication of any research manuscript being considered by any medical or scientific journal, not merely its own internal periodicals, Inside Medicine has learned. \n\nThe move aims to ensure that no “forbidden terms” appear in the work. The policy includes manuscripts that are in the revision stages at journal (but not officially accepted) and those already accepted for publication but not yet live. \n\nIn the order, CDC researchers were instructed to remove references to or mentions of a list of forbidden terms”: \n\n“Gender, transgender, pregnant person, pregnant people, LGBT, transsexual, non-binary, nonbinary, assigned male at birth, assigned female at birth, biologically male, biologically female,” according to an email sent to CDC employees (see below).”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 59476,
+          "like_count": 514,
+          "quote_count": 65,
+          "reply_count": 63,
+          "retweet_count": 394
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 “The CDC has instructed its scientists to retract or pause the publication of any research manuscript being considered by any medical or scientific journal, not merely its own internal periodicals, Inside Medicine has learned. \n\nThe move aims to ensure that no “forbidden… https://t.co/rORZao7vzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 843,
+          "like_count": 7731,
+          "listed_count": 6,
+          "media_count": 106,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-26T00:41:32.000Z",
+        "description": "“You must accept the truth from whatever source it comes.\" -Maimonides\n\nDo not put a stumbling block before the blind.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theintellectualist.com",
+                "end": 23,
+                "expanded_url": "http://theintellectualist.com",
+                "start": 0,
+                "url": "https://t.co/TEeYfrZME7"
+              }
+            ]
+          }
+        },
+        "id": "4018888580",
+        "location": "Planet Earth",
+        "name": "The Intellectualist",
+        "pinned_tweet_id": "1878885564197249129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/658451233057804291/4R_pmaso_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226485,
+          "following_count": 4706,
+          "like_count": 129814,
+          "listed_count": 975,
+          "media_count": 18450,
+          "tweet_count": 228680
+        },
+        "url": "https://t.co/TEeYfrZME7",
+        "username": "highbrow_nobrow",
+        "verified": true
+      }
+    ]
+  }
+}

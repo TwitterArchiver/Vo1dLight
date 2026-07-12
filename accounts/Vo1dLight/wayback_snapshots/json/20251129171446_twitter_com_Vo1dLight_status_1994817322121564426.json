@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1994762768768196707",
+    "created_at": "2025-11-29T17:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994817322121564426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1614515878737113090",
+          "start": 0,
+          "username": "Sakichan_desuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994817322121564426",
+    "in_reply_to_user_id": "1614515878737113090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994762768768196707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakichan_desuwa 人生か　人生だ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994762761705078785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67SKb6bwAEamr_.jpg",
+        "width": 1915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1994762768768196707",
+        "created_at": "2025-11-29T17:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994817322121564426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614515878737113090",
+              "start": 0,
+              "username": "Sakichan_desuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994817322121564426",
+        "in_reply_to_user_id": "1614515878737113090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994762768768196707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakichan_desuwa 人生か　人生だ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994762761705078785"
+          ]
+        },
+        "author_id": "1614515878737113090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1994762768768196707",
+        "created_at": "2025-11-29T13:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994762768768196707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "MyGO"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "若葉睦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4DW5FNhWd",
+              "end": 64,
+              "expanded_url": "https://x.com/Sakichan_desuwa/status/1994762768768196707/photo/1",
+              "media_key": "3_1994762761705078785",
+              "start": 41,
+              "url": "https://t.co/E4DW5FNhWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994762768768196707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写作悔恨的未来\n#BanGDream #AveMujica #MyGO #若葉睦 https://t.co/E4DW5FNhWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 1337,
+          "like_count": 32674,
+          "listed_count": 11,
+          "media_count": 244,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T06:53:59.000Z",
+        "description": "＊INTP/INFP丨♪Res quas amo:E̴R̷R̵O̴R̶ ̵N̷O̵N̵E̸丨⚠️せいしんびょう",
+        "id": "1614515878737113090",
+        "location": "Utopia",
+        "name": "伪人小祥desuwa",
+        "pinned_tweet_id": "1931292817017418065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929590920930095104/rRnZuYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 2379,
+          "like_count": 10996,
+          "listed_count": 12,
+          "media_count": 93,
+          "tweet_count": 2162
+        },
+        "username": "Sakichan_desuwa",
+        "verified": false
+      }
+    ]
+  }
+}

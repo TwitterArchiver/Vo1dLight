@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1975149858299519175",
+    "created_at": "2025-10-06T18:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T19:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975264692550689257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1823331804902051841",
+          "start": 0,
+          "username": "0z5aa"
+        },
+        {
+          "end": 23,
+          "id": "1880243174272282624",
+          "start": 7,
+          "username": "fck_my_life_987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975264692550689257",
+    "in_reply_to_user_id": "1823331804902051841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975262653644992730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0z5aa @fck_my_life_987 做梦都想😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1975149858299519175",
+        "created_at": "2025-10-06T18:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T19:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975264692550689257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1823331804902051841",
+              "start": 0,
+              "username": "0z5aa"
+            },
+            {
+              "end": 23,
+              "id": "1880243174272282624",
+              "start": 7,
+              "username": "fck_my_life_987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975264692550689257",
+        "in_reply_to_user_id": "1823331804902051841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975262653644992730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0z5aa @fck_my_life_987 做梦都想😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823331804902051841",
+        "conversation_id": "1975149858299519175",
+        "created_at": "2025-10-06T18:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T19:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975262653644992730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 27,
+              "id": "1880243174272282624",
+              "start": 11,
+              "username": "fck_my_life_987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975262653644992730",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975163566240960669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight @fck_my_life_987 快在一起吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3384,
+          "following_count": 1262,
+          "like_count": 28539,
+          "listed_count": 10,
+          "media_count": 221,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T12:12:41.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "syccc.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://syccc.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/XCxBWhiDBv"
+              }
+            ]
+          }
+        },
+        "id": "1823331804902051841",
+        "location": "San Jose, CA",
+        "name": "✝️天使向量機♡⁺˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866129633395257345/yJDvQS8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 542,
+          "like_count": 6789,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/XCxBWhiDBv",
+        "username": "0z5aa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T13:18:20.000Z",
+        "description": "无证无糖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.neurosama.uk",
+                "end": 23,
+                "expanded_url": "https://blog.neurosama.uk",
+                "start": 0,
+                "url": "https://t.co/hSpX30g4nK"
+              }
+            ]
+          }
+        },
+        "id": "1880243174272282624",
+        "location": "宛平南路600号",
+        "name": "α",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953412967678296064/Ij_3MJut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 169,
+          "like_count": 970,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/hSpX30g4nK",
+        "username": "fck_my_life_987",
+        "verified": false
+      }
+    ]
+  }
+}

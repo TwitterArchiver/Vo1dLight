@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2067570820424331550",
+    "created_at": "2026-06-19T14:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067978192040886726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1607023699877847040",
+          "start": 0,
+          "username": "Erber42620269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067978192040886726",
+    "in_reply_to_user_id": "1607023699877847040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067958365406564680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erber42620269 请用 🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2067570820424331550",
+        "created_at": "2026-06-19T14:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067978192040886726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607023699877847040",
+              "start": 0,
+              "username": "Erber42620269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067978192040886726",
+        "in_reply_to_user_id": "1607023699877847040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067958365406564680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erber42620269 请用 🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607023699877847040",
+        "conversation_id": "2067570820424331550",
+        "created_at": "2026-06-19T13:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067958365406564680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067958365406564680",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067570820424331550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 放到桌子上的小蛋糕，好吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4342,
+          "following_count": 1823,
+          "like_count": 68651,
+          "listed_count": 13,
+          "media_count": 340,
+          "tweet_count": 4329
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-25T14:41:29.000Z",
+        "description": "含糖mtf｜泛性恋｜百合が大好き｜我真的很软很乖不信你可以rua一下｜欢迎互fo和找我聊天｜随缘写点呓语和文摘\n小号@Lumos634587",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Lumos634587"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/justdrowren",
+                "end": 23,
+                "expanded_url": "http://t.me/justdrowren",
+                "start": 0,
+                "url": "https://t.co/1PvSFTNDj9"
+              }
+            ]
+          }
+        },
+        "id": "1607023699877847040",
+        "name": "Wren",
+        "pinned_tweet_id": "2052977705315078429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056302297018449920/-fiWndx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 675,
+          "like_count": 746,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/1PvSFTNDj9",
+        "username": "Erber42620269",
+        "verified": true
+      }
+    ]
+  }
+}

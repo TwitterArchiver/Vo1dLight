@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2042242617300431343",
+    "created_at": "2026-04-09T15:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042261024804655544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "823704045097394177",
+          "start": 0,
+          "username": "gunyuulow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042261024804655544",
+    "in_reply_to_user_id": "823704045097394177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042242617300431343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunyuulow 不要哇🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2042242617300431343",
+        "created_at": "2026-04-09T15:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042261024804655544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "823704045097394177",
+              "start": 0,
+              "username": "gunyuulow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042261024804655544",
+        "in_reply_to_user_id": "823704045097394177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042242617300431343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunyuulow 不要哇🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823704045097394177",
+        "conversation_id": "2042242617300431343",
+        "created_at": "2026-04-09T14:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042242617300431343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042242617300431343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "站了上去，甚至在它的边缘上转了一圈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3994,
+          "following_count": 1670,
+          "like_count": 60939,
+          "listed_count": 12,
+          "media_count": 308,
+          "tweet_count": 3687
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-24T01:28:42.000Z",
+        "description": "金魚佬 a.k.a. Margarek/瑪格麗琪, Kigurumi cosplayer @YuukaSak_ , Ingress Resistance agent. \n\n大量 kigurumi 内容注意\n\nG+难民: Repeater Machine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "YuukaSak_"
+              }
+            ]
+          }
+        },
+        "id": "823704045097394177",
+        "location": "Paradise",
+        "name": "🐟🐡🐠",
+        "pinned_tweet_id": "1904666335269015623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931358095818817536/lqzGHO_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 1982,
+          "like_count": 65099,
+          "listed_count": 11,
+          "media_count": 64,
+          "tweet_count": 4881
+        },
+        "username": "gunyuulow",
+        "verified": false
+      }
+    ]
+  }
+}

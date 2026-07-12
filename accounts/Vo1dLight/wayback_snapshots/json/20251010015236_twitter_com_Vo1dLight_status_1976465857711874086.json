@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975410961843691522"
+      ],
+      "media_source_tweet_id": [
+        "1975411096484983182"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1976465857711874086",
+    "created_at": "2025-10-10T01:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T02:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976465857711874086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zoSdiqie9D",
+          "end": 57,
+          "expanded_url": "https://x.com/Alice__486/status/1975411096484983182/photo/1",
+          "media_key": "3_1975410961843691522",
+          "start": 34,
+          "url": "https://t.co/zoSdiqie9D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976465857711874086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975411096484983182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 超短裙，但是完全没有穿出超短的感觉 https://t.co/zoSdiqie9D"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976465857711874086].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976465857711874086",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976465857711874086"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3856,
+        "media_key": "3_1975410961843691522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2oRzbobIAIOult.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975410961843691522"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "1975411096484983182",
+        "created_at": "2025-10-07T04:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T05:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975411096484983182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoSdiqie9D",
+              "end": 41,
+              "expanded_url": "https://x.com/Alice__486/status/1975411096484983182/photo/1",
+              "media_key": "3_1975410961843691522",
+              "start": 18,
+              "url": "https://t.co/zoSdiqie9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975411096484983182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 81768,
+          "like_count": 1466,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "超短裙，但是完全没有穿出超短的感觉 https://t.co/zoSdiqie9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3371,
+          "following_count": 1262,
+          "like_count": 28511,
+          "listed_count": 10,
+          "media_count": 221,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "1878774496057836005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25693,
+          "following_count": 1676,
+          "like_count": 52992,
+          "listed_count": 82,
+          "media_count": 872,
+          "tweet_count": 15383
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

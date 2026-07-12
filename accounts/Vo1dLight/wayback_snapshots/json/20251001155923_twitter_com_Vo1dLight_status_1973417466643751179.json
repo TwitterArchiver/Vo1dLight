@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1973395569461829950",
+    "created_at": "2025-10-01T15:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T16:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973417466643751179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496714588918026242",
+          "start": 0,
+          "username": "using_YueCheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973417466643751179",
+    "in_reply_to_user_id": "1496714588918026242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973395569461829950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@using_YueCheng 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_1973395566781669381",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Loz_9aIAUFsNk.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1973395569461829950",
+        "created_at": "2025-10-01T15:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973417466643751179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496714588918026242",
+              "start": 0,
+              "username": "using_YueCheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973417466643751179",
+        "in_reply_to_user_id": "1496714588918026242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973395569461829950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@using_YueCheng 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973395566781669381"
+          ]
+        },
+        "author_id": "1496714588918026242",
+        "conversation_id": "1973395569461829950",
+        "created_at": "2025-10-01T14:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T15:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973395569461829950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLHEWlv1ix",
+              "end": 47,
+              "expanded_url": "https://x.com/using_YueCheng/status/1973395569461829950/photo/1",
+              "media_key": "3_1973395566781669381",
+              "start": 24,
+              "url": "https://t.co/qLHEWlv1ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973395569461829950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会有笨蛋喜欢我穿女仆装啊，明明肩膀很宽的🥹 https://t.co/qLHEWlv1ix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3363,
+          "following_count": 1257,
+          "like_count": 28400,
+          "listed_count": 10,
+          "media_count": 219,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T05:12:38.000Z",
+        "description": "憧憬成为最强💊娘，Java程序员绝赞转go中，梦想是有很多钱和很多爱",
+        "id": "1496714588918026242",
+        "location": "dead letter queue",
+        "name": "猫又🍥",
+        "pinned_tweet_id": "1946907783607222652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956619276871434240/t6ay5Jbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 741,
+          "like_count": 11623,
+          "listed_count": 4,
+          "media_count": 425,
+          "tweet_count": 4256
+        },
+        "username": "using_YueCheng",
+        "verified": false
+      }
+    ]
+  }
+}

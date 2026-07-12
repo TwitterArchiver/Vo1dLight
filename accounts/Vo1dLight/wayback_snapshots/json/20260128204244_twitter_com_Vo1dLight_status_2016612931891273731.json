@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016469680966569984"
+      ],
+      "media_source_tweet_id": [
+        "2016469690579890447"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2016612931891273731",
+    "created_at": "2026-01-28T20:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T21:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016612931891273731"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788748197290229760",
+          "start": 3,
+          "username": "Nekocaketea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8GO2jfAXfD",
+          "end": 64,
+          "expanded_url": "https://x.com/Nekocaketea/status/2016469690579890447/photo/1",
+          "media_key": "3_2016469680966569984",
+          "start": 41,
+          "url": "https://t.co/8GO2jfAXfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016612931891273731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016469690579890447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nekocaketea: 煮波也是好起来了\n破百粉了(ж＞▽＜)\n#男娘 https://t.co/8GO2jfAXfD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2016469680966569984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vwfbpbkAAvVvu.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016469680966569984"
+          ],
+          "media_source_tweet_id": [
+            "2016469690579890447"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2016612931891273731",
+        "created_at": "2026-01-28T20:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T21:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016612931891273731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788748197290229760",
+              "start": 3,
+              "username": "Nekocaketea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GO2jfAXfD",
+              "end": 64,
+              "expanded_url": "https://x.com/Nekocaketea/status/2016469690579890447/photo/1",
+              "media_key": "3_2016469680966569984",
+              "start": 41,
+              "url": "https://t.co/8GO2jfAXfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016612931891273731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016469690579890447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nekocaketea: 煮波也是好起来了\n破百粉了(ж＞▽＜)\n#男娘 https://t.co/8GO2jfAXfD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016469680966569984"
+          ]
+        },
+        "author_id": "1788748197290229760",
+        "conversation_id": "2016469690579890447",
+        "created_at": "2026-01-28T11:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016469690579890447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GO2jfAXfD",
+              "end": 47,
+              "expanded_url": "https://x.com/Nekocaketea/status/2016469690579890447/photo/1",
+              "media_key": "3_2016469680966569984",
+              "start": 24,
+              "url": "https://t.co/8GO2jfAXfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016469690579890447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2896,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "煮波也是好起来了\n破百粉了(ж＞▽＜)\n#男娘 https://t.co/8GO2jfAXfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3827,
+          "following_count": 1507,
+          "like_count": 46007,
+          "listed_count": 11,
+          "media_count": 276,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T01:49:49.000Z",
+        "description": "自娱自乐 清水推 分享平常自己的一些女装练习",
+        "id": "1788748197290229760",
+        "name": "轻飘飘蛋糕茶会",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014703117242400776/e4I0JFfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 56,
+          "like_count": 46,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "Nekocaketea",
+        "verified": false
+      }
+    ]
+  }
+}

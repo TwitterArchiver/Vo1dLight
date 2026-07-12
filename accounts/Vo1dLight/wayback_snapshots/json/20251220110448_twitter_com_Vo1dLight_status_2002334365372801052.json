@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2002334365372801052",
+    "created_at": "2025-12-20T11:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002334365372801052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002334365372801052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002273910562210094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 2000fo啦感谢！\n按照之前说好的福利要抽日记！规则：\n1. 评论回复一个月内的日期（11.20-12.19）\n2. 前15个回复的有效日期（去重+去无效后的）\n3. 断章取义选句子或段落发，敏感内容打码，有节目效果的优先（我来判断ww）\n\n地…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_2002273838055518208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mBcnxbcAAVHD_.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2002334365372801052",
+        "created_at": "2025-12-20T11:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002334365372801052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002334365372801052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002273910562210094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 2000fo啦感谢！\n按照之前说好的福利要抽日记！规则：\n1. 评论回复一个月内的日期（11.20-12.19）\n2. 前15个回复的有效日期（去重+去无效后的）\n3. 断章取义选句子或段落发，敏感内容打码，有节目效果的优先（我来判断ww）\n\n地…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002273838055518208"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2002273910562210094",
+        "created_at": "2025-12-20T07:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002273910562210094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbmqcAlT6B",
+              "end": 171,
+              "expanded_url": "https://x.com/JanboMikan/status/2002273910562210094/photo/1",
+              "media_key": "3_2002273838055518208",
+              "start": 148,
+              "url": "https://t.co/KbmqcAlT6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002273910562210094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2000fo啦感谢！\n按照之前说好的福利要抽日记！规则：\n1. 评论回复一个月内的日期（11.20-12.19）\n2. 前15个回复的有效日期（去重+去无效后的）\n3. 断章取义选句子或段落发，敏感内容打码，有节目效果的优先（我来判断ww）\n\n地点是今天晚上7点整更新的推文哦（不是本条推文）~ https://t.co/KbmqcAlT6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998590742915330049/bN6dR0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3717,
+          "following_count": 1412,
+          "like_count": 37027,
+          "listed_count": 11,
+          "media_count": 258,
+          "tweet_count": 2326
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 212,
+          "like_count": 3776,
+          "listed_count": 8,
+          "media_count": 79,
+          "tweet_count": 1705
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

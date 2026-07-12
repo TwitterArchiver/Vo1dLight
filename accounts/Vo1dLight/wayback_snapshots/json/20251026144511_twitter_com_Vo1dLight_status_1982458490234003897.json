@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1982406496089776285",
+    "created_at": "2025-10-26T14:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T15:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982458490234003897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2552353886",
+          "start": 0,
+          "username": "_4ever00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982458490234003897",
+    "in_reply_to_user_id": "2552353886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982406496089776285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_4ever00 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1982406496089776285",
+        "created_at": "2025-10-26T14:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982458490234003897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2552353886",
+              "start": 0,
+              "username": "_4ever00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982458490234003897",
+        "in_reply_to_user_id": "2552353886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982406496089776285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4ever00 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2552353886",
+        "conversation_id": "1982406496089776285",
+        "created_at": "2025-10-26T11:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982406496089776285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982406496089776285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1028,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新头像，新气象 🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3538,
+          "following_count": 1272,
+          "like_count": 29976,
+          "listed_count": 11,
+          "media_count": 227,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-07T11:35:50.000Z",
+        "description": "(。•ω•。)ノCiallo ♡ | 非典型精神病",
+        "id": "2552353886",
+        "name": "鈴 ヾ(・ω・*)ﾉ",
+        "pinned_tweet_id": "1981769344926335462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982334606549364736/4lstgEzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7610,
+          "following_count": 785,
+          "like_count": 29141,
+          "listed_count": 42,
+          "media_count": 587,
+          "tweet_count": 13277
+        },
+        "username": "_4ever00",
+        "verified": false
+      }
+    ]
+  }
+}

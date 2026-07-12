@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1998681149087035563",
+    "created_at": "2025-12-10T09:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T10:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998681149087035563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998681149087035563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998620458099540230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShimonaChan: 帮吾辈【转帖】！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1998681149087035563",
+        "created_at": "2025-12-10T09:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998681149087035563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998681149087035563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998620458099540230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShimonaChan: 帮吾辈【转帖】！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "1998620458099540230",
+        "created_at": "2025-12-10T05:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T06:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998620458099540230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shimonachan/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/shimonachan/status/1998590958523535645",
+              "start": 9,
+              "url": "https://t.co/RRRedOwtQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998620458099540230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998590958523535645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮吾辈【转帖】！ https://t.co/RRRedOwtQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998590742915330049/bN6dR0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 1365,
+          "like_count": 34420,
+          "listed_count": 10,
+          "media_count": 247,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP || Shimona or Rophlis || Icon: ©️Acacia || Banner: おにやまけい 様 || Fragments and Threads from the Void… || #まのさば #ヨグソトースの庭 #NeedyGirlOverdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "まのさば"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 149,
+                "start": 131,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Rophlis",
+        "name": "Shimona@共犯者",
+        "pinned_tweet_id": "1995518457505550785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984795389481140225/l7_mOVqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27940,
+          "following_count": 3561,
+          "like_count": 11642,
+          "listed_count": 30,
+          "media_count": 4388,
+          "tweet_count": 30231
+        },
+        "username": "ShimonaChan",
+        "verified": true
+      }
+    ]
+  }
+}

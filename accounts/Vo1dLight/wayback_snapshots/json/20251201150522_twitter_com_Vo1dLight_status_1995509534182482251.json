@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1995475473380327707",
+    "created_at": "2025-12-01T15:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995509534182482251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Unique illustrations of combined emoji, cooked up in Google's Emoji Kitchen, and comprehensively available on the web",
+          "display_url": "emojikitchen.dev",
+          "end": 34,
+          "expanded_url": "https://emojikitchen.dev/",
+          "images": [
+            {
+              "height": 901,
+              "url": "https://pbs.twimg.com/news_img/1992762801585295360/Q7Yy80LV?format=jpg&name=orig",
+              "width": 1601
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1992762801585295360/Q7Yy80LV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 11,
+          "status": 200,
+          "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
+          "unwound_url": "https://emojikitchen.dev/",
+          "url": "https://t.co/DbTeRMEmf2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995509534182482251",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995475473380327707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay https://t.co/DbTeRMEmf2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1995475466816532480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FaXVWbMAAflMd.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1995475473380327707",
+        "created_at": "2025-12-01T15:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995509534182482251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Unique illustrations of combined emoji, cooked up in Google's Emoji Kitchen, and comprehensively available on the web",
+              "display_url": "emojikitchen.dev",
+              "end": 34,
+              "expanded_url": "https://emojikitchen.dev/",
+              "images": [
+                {
+                  "height": 901,
+                  "url": "https://pbs.twimg.com/news_img/1992762801585295360/Q7Yy80LV?format=jpg&name=orig",
+                  "width": 1601
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992762801585295360/Q7Yy80LV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
+              "unwound_url": "https://emojikitchen.dev/",
+              "url": "https://t.co/DbTeRMEmf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995509534182482251",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995475473380327707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay https://t.co/DbTeRMEmf2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995475466816532480"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1995475473380327707",
+        "created_at": "2025-12-01T12:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995475473380327707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFtJidYL9d",
+              "end": 122,
+              "expanded_url": "https://x.com/Minokakay/status/1995475473380327707/photo/1",
+              "media_key": "3_1995475466816532480",
+              "start": 99,
+              "url": "https://t.co/yFtJidYL9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995475473380327707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1636,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有办法用iPhone发出Gboard那样的生成表情\n\n如下图\n\n我下载了一个Gboard但是发现ios版本没有自动用😺+别的emoji生成一个表情的功能，这让我看到橘猫的次数减少了，我感到抑郁 https://t.co/yFtJidYL9d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 1347,
+          "like_count": 33075,
+          "listed_count": 11,
+          "media_count": 245,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12767,
+          "following_count": 1013,
+          "like_count": 45026,
+          "listed_count": 47,
+          "media_count": 1679,
+          "tweet_count": 23872
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

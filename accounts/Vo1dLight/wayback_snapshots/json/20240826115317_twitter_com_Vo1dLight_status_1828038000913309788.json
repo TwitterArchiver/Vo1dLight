@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1827748088766935330",
+    "created_at": "2024-08-26T11:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T12:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828038000913309788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1617741083500511232",
+          "start": 0,
+          "username": "libera12768214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828038000913309788",
+    "in_reply_to_user_id": "1617741083500511232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827748088766935330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libera12768214 小特可爱 小梅酱也可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1827748088766935330",
+        "created_at": "2024-08-26T11:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T12:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828038000913309788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1617741083500511232",
+              "start": 0,
+              "username": "libera12768214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828038000913309788",
+        "in_reply_to_user_id": "1617741083500511232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827748088766935330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libera12768214 小特可爱 小梅酱也可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827747818725105664"
+          ]
+        },
+        "author_id": "1617741083500511232",
+        "conversation_id": "1827748088766935330",
+        "created_at": "2024-08-25T16:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T17:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827748088766935330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcebkqwtg7",
+              "end": 68,
+              "expanded_url": "https://twitter.com/libera12768214/status/1827748088766935330/photo/1",
+              "media_key": "3_1827747818725105664",
+              "start": 45,
+              "url": "https://t.co/kCeBKQwTG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827748088766935330",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15018,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "哇呜，我破10fo了耶！谢谢大家支持！\n我叫梅普露，可以叫我小梅酱哦！(⁠≧⁠▽⁠≦⁠) https://t.co/kCeBKQwTG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无的光",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 53,
+          "like_count": 11,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T04:28:33.000Z",
+        "description": "一个大三学生，喜欢看一些画师和动漫，请多指教",
+        "id": "1617741083500511232",
+        "name": "meipuru🐧🧊",
+        "pinned_tweet_id": "1827724732034335084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827722603945132032/BQCeRhNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 128,
+          "like_count": 189,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "libera12768214",
+        "verified": false
+      }
+    ]
+  }
+}

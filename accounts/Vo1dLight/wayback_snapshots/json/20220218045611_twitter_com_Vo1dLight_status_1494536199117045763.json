@@ -1,0 +1,366 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Feb 18 04:56:11 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          105,
+          111
+        ],
+        "text": "dota2"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/uKO4JlgIyS",
+        "expanded_url": "https://twitter.com/redditdota2/status/1493042029714186249/photo/1",
+        "id": 1493042027398893579,
+        "id_str": "1493042027398893579",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/FLhZ0D3XEAs7FEk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FLhZ0D3XEAs7FEk.jpg",
+        "sizes": {
+          "large": {
+            "h": 605,
+            "resize": "fit",
+            "w": 617
+          },
+          "medium": {
+            "h": 605,
+            "resize": "fit",
+            "w": 617
+          },
+          "small": {
+            "h": 605,
+            "resize": "fit",
+            "w": 617
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1493042029714186249,
+        "source_status_id_str": "1493042029714186249",
+        "source_user_id": 1604298906,
+        "source_user_id_str": "1604298906",
+        "type": "photo",
+        "url": "https://t.co/uKO4JlgIyS"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "redd.it/srxtdt",
+        "expanded_url": "https://redd.it/srxtdt",
+        "indices": [
+          81,
+          104
+        ],
+        "url": "https://t.co/mJH6oafQ7k"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1604298906,
+        "id_str": "1604298906",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Reddit Dota 2",
+        "screen_name": "redditdota2"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/uKO4JlgIyS",
+        "expanded_url": "https://twitter.com/redditdota2/status/1493042029714186249/photo/1",
+        "id": 1493042027398893579,
+        "id_str": "1493042027398893579",
+        "indices": [
+          112,
+          135
+        ],
+        "media_url": "http://pbs.twimg.com/media/FLhZ0D3XEAs7FEk.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FLhZ0D3XEAs7FEk.jpg",
+        "sizes": {
+          "large": {
+            "h": 605,
+            "resize": "fit",
+            "w": 617
+          },
+          "medium": {
+            "h": 605,
+            "resize": "fit",
+            "w": 617
+          },
+          "small": {
+            "h": 605,
+            "resize": "fit",
+            "w": 617
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1493042029714186249,
+        "source_status_id_str": "1493042029714186249",
+        "source_user_id": 1604298906,
+        "source_user_id_str": "1604298906",
+        "type": "photo",
+        "url": "https://t.co/uKO4JlgIyS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1494536199117045763,
+  "id_str": "1494536199117045763",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 14 01:58:53 +0000 2022",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            88,
+            94
+          ],
+          "text": "dota2"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/uKO4JlgIyS",
+          "expanded_url": "https://twitter.com/redditdota2/status/1493042029714186249/photo/1",
+          "id": 1493042027398893579,
+          "id_str": "1493042027398893579",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLhZ0D3XEAs7FEk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLhZ0D3XEAs7FEk.jpg",
+          "sizes": {
+            "large": {
+              "h": 605,
+              "resize": "fit",
+              "w": 617
+            },
+            "medium": {
+              "h": 605,
+              "resize": "fit",
+              "w": 617
+            },
+            "small": {
+              "h": 605,
+              "resize": "fit",
+              "w": 617
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uKO4JlgIyS"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "redd.it/srxtdt",
+          "expanded_url": "https://redd.it/srxtdt",
+          "indices": [
+            64,
+            87
+          ],
+          "url": "https://t.co/mJH6oafQ7k"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/uKO4JlgIyS",
+          "expanded_url": "https://twitter.com/redditdota2/status/1493042029714186249/photo/1",
+          "id": 1493042027398893579,
+          "id_str": "1493042027398893579",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLhZ0D3XEAs7FEk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLhZ0D3XEAs7FEk.jpg",
+          "sizes": {
+            "large": {
+              "h": 605,
+              "resize": "fit",
+              "w": 617
+            },
+            "medium": {
+              "h": 605,
+              "resize": "fit",
+              "w": 617
+            },
+            "small": {
+              "h": 605,
+              "resize": "fit",
+              "w": 617
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uKO4JlgIyS"
+        }
+      ]
+    },
+    "favorite_count": 1784,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1493042029714186249,
+    "id_str": "1493042029714186249",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 178,
+    "reply_count": 164,
+    "retweet_count": 379,
+    "retweeted": false,
+    "source": "<a href=\"http://reddit.com/r/DotA2/\" rel=\"nofollow\">sushibot</a>",
+    "text": "Nostalgia - How many items can you recognize? - /u/andrekerygma https://t.co/mJH6oafQ7k #dota2 https://t.co/uKO4JlgIyS",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 18 20:56:22 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official twitter account of r/DotA2. Stay tuned for community fueled coverage of everything Dota 2 related.",
+      "favourites_count": 100,
+      "follow_request_sent": null,
+      "followers_count": 127981,
+      "following": null,
+      "friends_count": 48,
+      "geo_enabled": true,
+      "id": 1604298906,
+      "id_str": "1604298906",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 402,
+      "location": "Sainte-Même, France",
+      "name": "Reddit Dota 2",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1604298906/1591333948",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1282356834431533057/fZNInzk2_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282356834431533057/fZNInzk2_normal.png",
+      "profile_link_color": "EE0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "redditdota2",
+      "statuses_count": 93035,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://www.reddit.com/r/dota2",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @redditdota2: Nostalgia - How many items can you recognize? - /u/andrekerygma https://t.co/mJH6oafQ7k #dota2 https://t.co/uKO4JlgIyS",
+  "timestamp_ms": "1645160171666",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Fri Jul 24 08:24:00 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "i play dota 2 for fun, legend/ancient. future streamer, music enthusiast and fellow introvert :)",
+    "favourites_count": 2566,
+    "follow_request_sent": null,
+    "followers_count": 3,
+    "following": null,
+    "friends_count": 71,
+    "geo_enabled": false,
+    "id": 1286577788879699968,
+    "id_str": "1286577788879699968",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "🔙",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286577788879699968/1618799892",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1392506104446214145/IWGQraSp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392506104446214145/IWGQraSp_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Vo1dLight",
+    "statuses_count": 61,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

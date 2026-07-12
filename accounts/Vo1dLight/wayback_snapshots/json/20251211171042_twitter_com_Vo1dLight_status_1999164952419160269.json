@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1999163156221055330",
+    "created_at": "2025-12-11T17:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T18:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999164952419160269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817596812557193216",
+          "start": 0,
+          "username": "auto_herta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999164952419160269",
+    "in_reply_to_user_id": "1817596812557193216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999163156221055330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auto_herta 羡慕（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1999163156221055330",
+        "created_at": "2025-12-11T17:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999164952419160269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817596812557193216",
+              "start": 0,
+              "username": "auto_herta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999164952419160269",
+        "in_reply_to_user_id": "1817596812557193216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999163156221055330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auto_herta 羡慕（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817596812557193216",
+        "conversation_id": "1999163156221055330",
+        "created_at": "2025-12-11T17:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999163156221055330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/auto_herta/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/auto_herta/status/1870743471344271652",
+              "start": 23,
+              "url": "https://t.co/zpWYCORZSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999163156221055330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870743471344271652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们，我知道这图今年又🔥了，不用再和我说了 https://t.co/zpWYCORZSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998590742915330049/bN6dR0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3583,
+          "following_count": 1368,
+          "like_count": 34755,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T16:23:56.000Z",
+        "description": "已接入博识尊",
+        "id": "1817596812557193216",
+        "location": "黑塔空间站",
+        "name": "黑塔自动人偶",
+        "pinned_tweet_id": "1975038303184544032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985013904930713600/sqnE3FNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18193,
+          "following_count": 419,
+          "like_count": 2602,
+          "listed_count": 68,
+          "media_count": 111,
+          "tweet_count": 1226
+        },
+        "username": "auto_herta",
+        "verified": false
+      }
+    ]
+  }
+}

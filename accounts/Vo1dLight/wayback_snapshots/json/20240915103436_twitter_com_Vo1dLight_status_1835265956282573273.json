@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835264917638983680"
+      ],
+      "media_source_tweet_id": [
+        "1835264922776989978"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1835265956282573273",
+    "created_at": "2024-09-15T10:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T11:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835265956282573273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1265898163807772677",
+          "start": 3,
+          "username": "Rize_Ilustrator"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sr9di04mm9",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Rize_Ilustrator/status/1835264922776989978/photo/1",
+          "media_key": "3_1835264917638983680",
+          "start": 41,
+          "url": "https://t.co/SR9di04mm9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835265956282573273",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835264922776989978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rize_Ilustrator: お洒落で色っぽい女の子になりたい男の子 https://t.co/SR9di04mm9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1835264917638983680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXgruAybsAANb56.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835264917638983680"
+          ],
+          "media_source_tweet_id": [
+            "1835264922776989978"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1835265956282573273",
+        "created_at": "2024-09-15T10:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T11:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835265956282573273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1265898163807772677",
+              "start": 3,
+              "username": "Rize_Ilustrator"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sr9di04mm9",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Rize_Ilustrator/status/1835264922776989978/photo/1",
+              "media_key": "3_1835264917638983680",
+              "start": 41,
+              "url": "https://t.co/SR9di04mm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835265956282573273",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835264922776989978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rize_Ilustrator: お洒落で色っぽい女の子になりたい男の子 https://t.co/SR9di04mm9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835264917638983680"
+          ]
+        },
+        "author_id": "1265898163807772677",
+        "conversation_id": "1835264922776989978",
+        "created_at": "2024-09-15T10:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T11:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835264922776989978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sr9di04mm9",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Rize_Ilustrator/status/1835264922776989978/photo/1",
+              "media_key": "3_1835264917638983680",
+              "start": 20,
+              "url": "https://t.co/SR9di04mm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835264922776989978",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 1059,
+          "like_count": 230,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "お洒落で色っぽい女の子になりたい男の子 https://t.co/SR9di04mm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 119,
+          "like_count": 506,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T06:50:23.000Z",
+        "description": "好きなものをのんびり描きます。おしゃれな女装男子がすき。イラストの更新は19〜20時頃🕖お仕事のご連絡はDMへ✉️ファンボックス🎁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/26811762",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/26811762",
+                "start": 0,
+                "url": "https://t.co/NTDwGkxVDF"
+              }
+            ]
+          }
+        },
+        "id": "1265898163807772677",
+        "location": "リクエスト◎→",
+        "name": "りぜ🌟",
+        "pinned_tweet_id": "1796153906189201481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773811112980721664/ruk1A6vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88800,
+          "following_count": 818,
+          "like_count": 3484,
+          "listed_count": 577,
+          "tweet_count": 3461
+        },
+        "url": "https://t.co/NTDwGkxVDF",
+        "username": "Rize_Ilustrator",
+        "verified": false
+      }
+    ]
+  }
+}

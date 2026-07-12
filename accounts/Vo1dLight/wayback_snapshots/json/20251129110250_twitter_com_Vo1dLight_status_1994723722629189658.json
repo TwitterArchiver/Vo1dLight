@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1994380250718089561",
+    "created_at": "2025-11-29T11:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T12:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994723722629189658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496714588918026242",
+          "start": 0,
+          "username": "using_YueCheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994723722629189658",
+    "in_reply_to_user_id": "1496714588918026242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994689319957868752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@using_YueCheng 看看你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1994380250718089561",
+        "created_at": "2025-11-29T11:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994723722629189658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496714588918026242",
+              "start": 0,
+              "username": "using_YueCheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994723722629189658",
+        "in_reply_to_user_id": "1496714588918026242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994689319957868752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@using_YueCheng 看看你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496714588918026242",
+        "conversation_id": "1994380250718089561",
+        "created_at": "2025-11-29T08:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994689319957868752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994689319957868752",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994380250718089561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 我一不小心看错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 1336,
+          "like_count": 32674,
+          "listed_count": 11,
+          "media_count": 243,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T05:12:38.000Z",
+        "description": "班味药娘，Go＆Java双修程序员，梦想是有很多钱和很多爱",
+        "id": "1496714588918026242",
+        "location": "北京",
+        "name": "猫又🍥",
+        "pinned_tweet_id": "1946907783607222652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980862195161333761/k_rnVW8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 763,
+          "like_count": 11746,
+          "listed_count": 6,
+          "media_count": 435,
+          "tweet_count": 4334
+        },
+        "username": "using_YueCheng",
+        "verified": false
+      }
+    ]
+  }
+}

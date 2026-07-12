@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1937918607553663122",
+    "created_at": "2025-06-25T17:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T18:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937923466914902264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934213219725520896",
+          "start": 0,
+          "username": "7Lumine7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937923466914902264",
+    "in_reply_to_user_id": "1934213219725520896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937918607553663122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7Lumine7 可爱可爱， prpr🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1937918604487626755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTetAgbEAMUEPn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1937918607553663122",
+        "created_at": "2025-06-25T17:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937923466914902264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934213219725520896",
+              "start": 0,
+              "username": "7Lumine7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937923466914902264",
+        "in_reply_to_user_id": "1934213219725520896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937918607553663122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7Lumine7 可爱可爱， prpr🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937918604487626755"
+          ]
+        },
+        "author_id": "1934213219725520896",
+        "conversation_id": "1937918607553663122",
+        "created_at": "2025-06-25T16:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T17:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937918607553663122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeJ9dwJeJz",
+              "end": 27,
+              "expanded_url": "https://x.com/7Lumine7/status/1937918607553663122/photo/1",
+              "media_key": "3_1937918604487626755",
+              "start": 4,
+              "url": "https://t.co/oeJ9dwJeJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937918607553663122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已老实 https://t.co/oeJ9dwJeJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 1065,
+          "like_count": 20710,
+          "listed_count": 9,
+          "media_count": 172,
+          "tweet_count": 1211
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T11:35:56.000Z",
+        "description": "Master's degree in progress | Majoring in Cyber  Security | Crossdresser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.snowflake.zone",
+                "end": 23,
+                "expanded_url": "https://blog.snowflake.zone/",
+                "start": 0,
+                "url": "https://t.co/Jw985dijrg"
+              }
+            ]
+          }
+        },
+        "id": "1934213219725520896",
+        "location": "China",
+        "name": "Lumine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934213868282404864/URG2FXE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/Jw985dijrg",
+        "username": "7Lumine7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1995073443046556017",
+    "created_at": "2025-11-30T11:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T12:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995086034334629991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "354810362",
+          "start": 0,
+          "username": "miu_amamiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995086034334629991",
+    "in_reply_to_user_id": "354810362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995073443046556017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miu_amamiya 豌豆尖好吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1995073432216813569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_st1waQAE-USP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1995073443046556017",
+        "created_at": "2025-11-30T11:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995086034334629991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "354810362",
+              "start": 0,
+              "username": "miu_amamiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995086034334629991",
+        "in_reply_to_user_id": "354810362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995073443046556017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miu_amamiya 豌豆尖好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995073432216813569"
+          ]
+        },
+        "author_id": "354810362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995073443046556017",
+        "created_at": "2025-11-30T10:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995073443046556017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUv81n01rJ",
+              "end": 40,
+              "expanded_url": "https://x.com/miu_amamiya/status/1995073443046556017/photo/1",
+              "media_key": "3_1995073432216813569",
+              "start": 17,
+              "url": "https://t.co/VUv81n01rJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995073443046556017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃了两顿豌豆尖，豌豆尖好吃！ https://t.co/VUv81n01rJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 1340,
+          "like_count": 32785,
+          "listed_count": 11,
+          "media_count": 245,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-14T10:09:43.000Z",
+        "description": "奇异吸引子。 甜甜 @cbsttst 欢迎来民科顶刊投稿：https://t.co/nHkoCUZ4Bd\n(U,α:U→F(U))",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "cbsttst"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/independent_sc…",
+                "end": 52,
+                "expanded_url": "https://t.me/independent_science_online",
+                "start": 29,
+                "url": "https://t.co/nHkoCUZ4Bd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "strangeattractor.life",
+                "end": 23,
+                "expanded_url": "https://strangeattractor.life/",
+                "start": 0,
+                "url": "https://t.co/H7mk4PLp7e"
+              }
+            ]
+          }
+        },
+        "id": "354810362",
+        "location": "赛博利亚",
+        "name": "甜甜地球体验设计开发工程首席珂学家",
+        "pinned_tweet_id": "1976854127985803640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990716945986138112/Bz4I0uXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1840,
+          "like_count": 25236,
+          "listed_count": 11,
+          "media_count": 1100,
+          "tweet_count": 13332
+        },
+        "url": "https://t.co/H7mk4PLp7e",
+        "username": "miu_amamiya",
+        "verified": true
+      }
+    ]
+  }
+}

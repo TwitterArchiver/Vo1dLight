@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1879358234580140503",
+    "created_at": "2025-01-15T02:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T03:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879358234580140503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuiyebush1/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/shuiyebush1/status/1878081857558052875",
+          "start": 25,
+          "url": "https://t.co/5SPMnQOm3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879358234580140503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878081857558052875",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望用以划分切割人群的标签越来越少，而非越来越多 https://t.co/5SPMnQOm3u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1879358234580140503",
+        "created_at": "2025-01-15T02:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T03:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879358234580140503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuiyebush1/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/shuiyebush1/status/1878081857558052875",
+              "start": 25,
+              "url": "https://t.co/5SPMnQOm3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879358234580140503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878081857558052875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望用以划分切割人群的标签越来越少，而非越来越多 https://t.co/5SPMnQOm3u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448187795571286017",
+        "conversation_id": "1878081857558052875",
+        "created_at": "2025-01-11T14:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T15:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878081857558052875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878081857558052875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 28900,
+          "like_count": 457,
+          "quote_count": 11,
+          "reply_count": 16,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "根本就不存在什么诱导变性，男女本来就不该有铁的鸿沟，男生也可以可爱穿裙子，女生也可以粗野开放，今天想跨了明天不想了也没事，跨性别是一种尝试，是砸烂二元性别的铁锤，跨性别运动的终点就该是消灭性别，给人最大限度的自由，斩断跨性别身上的枷锁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but where&what is it? 🌠 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 🌠 bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 761,
+          "like_count": 6490,
+          "listed_count": 5,
+          "media_count": 99,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@FlowersRainFall",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "FlowersRainFall"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水",
+        "pinned_tweet_id": "1876492087962812644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879079291826446336/W_OkVich_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4936,
+          "following_count": 561,
+          "like_count": 38926,
+          "listed_count": 17,
+          "media_count": 1987,
+          "tweet_count": 15266
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

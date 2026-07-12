@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995173020147810304"
+      ],
+      "media_source_tweet_id": [
+        "1995173039915651357"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1995311364085260543",
+    "created_at": "2025-12-01T01:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T02:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995311364085260543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845683117857611786",
+          "start": 3,
+          "username": "yeyeziowo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvaf2OIGxR",
+          "end": 45,
+          "expanded_url": "https://x.com/yeyeziowo/status/1995173039915651357/photo/1",
+          "media_key": "3_1995173020147810304",
+          "start": 22,
+          "url": "https://t.co/tvaf2OIGxR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995311364085260543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995173039915651357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yeyeziowo: 这是真入宅作 https://t.co/tvaf2OIGxR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995173020147810304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BHSntagAABRuG.jpg",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995173020147810304"
+          ],
+          "media_source_tweet_id": [
+            "1995173039915651357"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1995311364085260543",
+        "created_at": "2025-12-01T01:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995311364085260543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845683117857611786",
+              "start": 3,
+              "username": "yeyeziowo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvaf2OIGxR",
+              "end": 45,
+              "expanded_url": "https://x.com/yeyeziowo/status/1995173039915651357/photo/1",
+              "media_key": "3_1995173020147810304",
+              "start": 22,
+              "url": "https://t.co/tvaf2OIGxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995311364085260543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995173039915651357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yeyeziowo: 这是真入宅作 https://t.co/tvaf2OIGxR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995173020147810304"
+          ]
+        },
+        "author_id": "1845683117857611786",
+        "conversation_id": "1995173039915651357",
+        "created_at": "2025-11-30T16:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995173039915651357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvaf2OIGxR",
+              "end": 30,
+              "expanded_url": "https://x.com/yeyeziowo/status/1995173039915651357/photo/1",
+              "media_key": "3_1995173020147810304",
+              "start": 7,
+              "url": "https://t.co/tvaf2OIGxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995173039915651357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1458,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这是真入宅作 https://t.co/tvaf2OIGxR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3583,
+          "following_count": 1346,
+          "like_count": 33027,
+          "listed_count": 11,
+          "media_count": 245,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T04:28:54.000Z",
+        "description": "拍拍喜欢的/不约/不接推广/你好你好",
+        "id": "1845683117857611786",
+        "name": "椰宝三岁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960854792714248192/A-E4Sz-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17986,
+          "following_count": 351,
+          "like_count": 3194,
+          "listed_count": 84,
+          "media_count": 352,
+          "tweet_count": 1513
+        },
+        "username": "yeyeziowo",
+        "verified": false
+      }
+    ]
+  }
+}

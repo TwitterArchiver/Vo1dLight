@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992967463286583296"
+      ],
+      "media_source_tweet_id": [
+        "1992967476360118500"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1993630771064791506",
+    "created_at": "2025-11-26T10:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993630771064791506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831720858953687040",
+          "start": 3,
+          "username": "NicoAliceOwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rd7XBIABoC",
+          "end": 55,
+          "expanded_url": "https://x.com/NicoAliceOwO/status/1992967476360118500/photo/1",
+          "media_key": "3_1992967463286583296",
+          "start": 32,
+          "url": "https://t.co/rd7XBIABoC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993630771064791506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992967476360118500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NicoAliceOwO: 我复活啦😈\n快呈上点赞来！ https://t.co/rd7XBIABoC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1992967463286583296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hxWUIbsAAviGv.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992967463286583296"
+          ],
+          "media_source_tweet_id": [
+            "1992967476360118500"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1993630771064791506",
+        "created_at": "2025-11-26T10:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993630771064791506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831720858953687040",
+              "start": 3,
+              "username": "NicoAliceOwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rd7XBIABoC",
+              "end": 55,
+              "expanded_url": "https://x.com/NicoAliceOwO/status/1992967476360118500/photo/1",
+              "media_key": "3_1992967463286583296",
+              "start": 32,
+              "url": "https://t.co/rd7XBIABoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993630771064791506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992967476360118500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NicoAliceOwO: 我复活啦😈\n快呈上点赞来！ https://t.co/rd7XBIABoC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992967463286583296"
+          ]
+        },
+        "author_id": "1831720858953687040",
+        "conversation_id": "1992967476360118500",
+        "created_at": "2025-11-24T14:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992967476360118500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rd7XBIABoC",
+              "end": 37,
+              "expanded_url": "https://x.com/NicoAliceOwO/status/1992967476360118500/photo/1",
+              "media_key": "3_1992967463286583296",
+              "start": 14,
+              "url": "https://t.co/rd7XBIABoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992967476360118500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6182,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我复活啦😈\n快呈上点赞来！ https://t.co/rd7XBIABoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3589,
+          "following_count": 1326,
+          "like_count": 32193,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2028
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:47:55.000Z",
+        "description": "INFJ / 会写点什么随笔 / 树洞 / 不太主动社交(快主动找我聊) / PC游戏活跃 / 大概是电波系兼职小天使 / 别看外面的意识形态炮轰啦，来喝杯茶怎么样？/ 照骗移步@NicoAlexOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "NicoAlexOvO"
+              }
+            ]
+          }
+        },
+        "id": "1831720858953687040",
+        "location": "第四面墙打破计划",
+        "name": "❄️ 不自動書記人偶 📗",
+        "pinned_tweet_id": "1897723820049608848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831722027578740736/LqblqKx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 484,
+          "like_count": 5355,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 1252
+        },
+        "username": "NicoAliceOwO",
+        "verified": false
+      }
+    ]
+  }
+}

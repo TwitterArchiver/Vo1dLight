@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1990396888860811417",
+    "created_at": "2025-11-17T13:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T14:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990406064609657282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        },
+        {
+          "end": 27,
+          "id": "1275393406802423814",
+          "start": 15,
+          "username": "reno_cha812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990406064609657282",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990403998772310127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf @reno_cha812 海盐黑胡椒味本身就很好吃，我记得几年前乐事还有这个口味的薯片，我特别喜欢，但好像早已下架了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1990396888860811417",
+        "created_at": "2025-11-17T13:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T14:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990406064609657282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            },
+            {
+              "end": 27,
+              "id": "1275393406802423814",
+              "start": 15,
+              "username": "reno_cha812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990406064609657282",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990403998772310127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf @reno_cha812 海盐黑胡椒味本身就很好吃，我记得几年前乐事还有这个口味的薯片，我特别喜欢，但好像早已下架了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692126794055647232",
+        "conversation_id": "1990396888860811417",
+        "created_at": "2025-11-17T12:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990403998772310127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1275393406802423814",
+              "start": 0,
+              "username": "reno_cha812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990403998772310127",
+        "in_reply_to_user_id": "1275393406802423814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990396888860811417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reno_cha812 我还挺喜欢这个的，就是有点容易吃起来嘴巴干干的（\n也许需要配饮料吃比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 1290,
+          "like_count": 31000,
+          "listed_count": 10,
+          "media_count": 234,
+          "tweet_count": 1954
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "ACMer & Computer Science Enthusiast | 💖love maimai & 🖊️📝writing | 🐱Catgirl  |  🌌Know you will wake,on winds rise again |  💝I'll always be with you.",
+        "id": "1692126794055647232",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "1953413290581004637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754802194283732992/4qG4lBRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 340,
+          "like_count": 19902,
+          "listed_count": 6,
+          "media_count": 367,
+          "tweet_count": 5357
+        },
+        "username": "QuantumTransf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-23T11:41:13.000Z",
+        "description": "数学系大二在读/是铝铜/偶尔掉落照骗/无R18/喜欢记录自己的一些日常和碎碎念",
+        "id": "1275393406802423814",
+        "name": "小茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975291126182780933/5RU4Io25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 196,
+          "like_count": 763,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 645
+        },
+        "username": "reno_cha812",
+        "verified": false
+      }
+    ]
+  }
+}

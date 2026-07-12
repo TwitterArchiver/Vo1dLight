@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2009295132797857969",
+    "created_at": "2026-01-08T17:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T18:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009314351333900677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666398111047245825",
+          "start": 0,
+          "username": "layla_271828"
+        },
+        {
+          "end": 24,
+          "id": "1291003986921680897",
+          "start": 14,
+          "username": "CannedCha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009314351333900677",
+    "in_reply_to_user_id": "1666398111047245825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009302226490085397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@layla_271828 @CannedCha 早上好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009302226490085397].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2009302226490085397",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2009302226490085397"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2009295132797857969",
+        "created_at": "2026-01-08T17:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009314351333900677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1666398111047245825",
+              "start": 0,
+              "username": "layla_271828"
+            },
+            {
+              "end": 24,
+              "id": "1291003986921680897",
+              "start": 14,
+              "username": "CannedCha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009314351333900677",
+        "in_reply_to_user_id": "1666398111047245825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009302226490085397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@layla_271828 @CannedCha 早上好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3757,
+          "following_count": 1474,
+          "like_count": 43360,
+          "listed_count": 11,
+          "media_count": 268,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T10:54:13.000Z",
+        "description": "小咸偶记",
+        "id": "1666398111047245825",
+        "name": "layla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854926583297163264/wozoCDjm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 243,
+          "like_count": 12779,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 3857
+        },
+        "username": "layla_271828",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-05T13:32:27.000Z",
+        "description": "什么都不是",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cannedcha.net",
+                "end": 23,
+                "expanded_url": "https://blog.cannedcha.net",
+                "start": 0,
+                "url": "https://t.co/6U4c15znjM"
+              }
+            ]
+          }
+        },
+        "id": "1291003986921680897",
+        "location": "/usr/bin",
+        "name": "小罐猹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848402946683478016/R2VVIE2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 646,
+          "like_count": 22667,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/6U4c15znjM",
+        "username": "CannedCha",
+        "verified": false
+      }
+    ]
+  }
+}

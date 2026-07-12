@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1995026111672324329",
+    "created_at": "2025-11-30T11:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T12:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995085907205169172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        },
+        {
+          "end": 29,
+          "id": "1831363594556211200",
+          "start": 14,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995085907205169172",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995085547489112294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage @JyushitiYizuka 那还说啥，这是天意让我翘课，回寝室睡觉咯🤓☝️\n\n（之前遇见过几次，不过这学期我大部分课上课的地方离宿舍很近就直接步行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1995026111672324329",
+        "created_at": "2025-11-30T11:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995085907205169172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            },
+            {
+              "end": 29,
+              "id": "1831363594556211200",
+              "start": 14,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995085907205169172",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995085547489112294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage @JyushitiYizuka 那还说啥，这是天意让我翘课，回寝室睡觉咯🤓☝️\n\n（之前遇见过几次，不过这学期我大部分课上课的地方离宿舍很近就直接步行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1089936552694693889",
+        "conversation_id": "1995026111672324329",
+        "created_at": "2025-11-30T11:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995085547489112294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 26,
+              "id": "1831363594556211200",
+              "start": 11,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995085547489112294",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995052764037337321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight @JyushitiYizuka 空光没有碰到过早八起来晚宿舍周围方百米一辆没有，好不容易找到一辆链条掉的或者故障不能开锁的情况吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 1339,
+          "like_count": 32783,
+          "listed_count": 11,
+          "media_count": 245,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "neko🐱: @Neko_65536 | 00后沪漂trash can主理人＆drudgery操盘手 | 🧀就是力量，法国就是🥓 | 最耀眼的战绩:在床上和两只🦈搏斗并取胜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽 くらげ （snoozing💤）（33/42复活中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978787829577891840/LHYVPwuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 350,
+          "like_count": 15885,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 3919
+        },
+        "username": "KaguraKurage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手)｜「止まない雨はなく、明けない夜はない。」｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961690372398354433/Ulif6df4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 1163,
+          "like_count": 33521,
+          "listed_count": 4,
+          "media_count": 1219,
+          "tweet_count": 19610
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

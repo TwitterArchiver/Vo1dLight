@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1874710758027936002",
+    "created_at": "2025-01-03T04:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T05:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875038975745982562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1580183766906986498",
+          "start": 0,
+          "username": "PacSaury"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875038975745982562",
+    "in_reply_to_user_id": "1580183766906986498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874710758027936002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PacSaury 给🥚✌👻了，我们还没开始就考啊嗯"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1874710758027936002].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1874710758027936002",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1874710758027936002"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1874710758027936002",
+        "created_at": "2025-01-03T04:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T05:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875038975745982562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580183766906986498",
+              "start": 0,
+              "username": "PacSaury"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875038975745982562",
+        "in_reply_to_user_id": "1580183766906986498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874710758027936002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PacSaury 给🥚✌👻了，我们还没开始就考啊嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but where&what is it? 🌠 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 🌠 bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 716,
+          "like_count": 5922,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T13:09:57.000Z",
+        "description": "精神涣散，智力缺陷/哥德尔可以在我这里行使父权/追求假善美/和我玩是成为君子必做的十件事/\n@XiaYaYou 非情绪号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "XiaYaYou"
+              }
+            ]
+          }
+        },
+        "id": "1580183766906986498",
+        "location": "-0.14m 塞莱斯特山顶",
+        "name": "BaPurple",
+        "pinned_tweet_id": "1868620008387133606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866507372316999680/gLEJRd0u_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 192,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1195
+        },
+        "username": "PacSaury",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1828412971762229458",
+    "created_at": "2024-08-27T14:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T15:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828433727896342529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811373871033102336",
+          "start": 0,
+          "username": "Kaori1628304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828433727896342529",
+    "in_reply_to_user_id": "1811373871033102336",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828412971762229458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaori1628304 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1828412971762229458",
+        "created_at": "2024-08-27T14:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T15:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828433727896342529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811373871033102336",
+              "start": 0,
+              "username": "Kaori1628304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828433727896342529",
+        "in_reply_to_user_id": "1811373871033102336",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828412971762229458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaori1628304 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811373871033102336",
+        "conversation_id": "1828412971762229458",
+        "created_at": "2024-08-27T12:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T13:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828412971762229458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828412971762229458",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞砸了😮‍💨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无的光💫 | 欢迎互fo😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 55,
+          "like_count": 29,
+          "listed_count": 0,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:16:09.000Z",
+        "description": "找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩找我玩😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaori16745",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaori16745",
+                "start": 0,
+                "url": "https://t.co/r38Dj99UvX"
+              }
+            ]
+          }
+        },
+        "id": "1811373871033102336",
+        "location": "Rhodes      ➡️匿名箱",
+        "name": "朵朵玲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823184214944280576/ZGxkGL07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 742,
+          "like_count": 4048,
+          "listed_count": 2,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/r38Dj99UvX",
+        "username": "Kaori1628304",
+        "verified": true
+      }
+    ]
+  }
+}

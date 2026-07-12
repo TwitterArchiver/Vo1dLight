@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1953414762408050785",
+    "created_at": "2025-08-07T14:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T15:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953464685522755650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953464685522755650",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953414762408050785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 罗森感觉就是是营业时间长占模，除此之外感觉也就促销商品有性价比（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953414746549698560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvsXMMawAA2RaE.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953414746524532736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvsXMGawAAT83_.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1953414762408050785",
+        "created_at": "2025-08-07T14:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953464685522755650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953464685522755650",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953414762408050785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 罗森感觉就是是营业时间长占模，除此之外感觉也就促销商品有性价比（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953414746549698560",
+            "3_1953414746524532736"
+          ]
+        },
+        "author_id": "1420072716963520520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1953414762408050785",
+        "created_at": "2025-08-07T11:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953414762408050785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvvHTEqQyb",
+              "end": 165,
+              "expanded_url": "https://x.com/meiqinyuban/status/1953414762408050785/photo/1",
+              "media_key": "3_1953414746549698560",
+              "start": 142,
+              "url": "https://t.co/UvvHTEqQyb"
+            },
+            {
+              "display_url": "pic.x.com/UvvHTEqQyb",
+              "end": 165,
+              "expanded_url": "https://x.com/meiqinyuban/status/1953414762408050785/photo/1",
+              "media_key": "3_1953414746524532736",
+              "start": 142,
+              "url": "https://t.co/UvvHTEqQyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953414762408050785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论我之前说罗森东西镶金了的原因，对比一下吧，前者是罗森里面最便宜的面包，2块钱一个，然而在这边，......魔爪也是\n以上价格均在本土便利店/超市两大巨头美食林拍的，之前我们这边有开几家711便利店，价格方面打不过，让美食林和阳光两面夹击一家都没了，罗森能在这种情况下多开店也是神了 https://t.co/UvvHTEqQyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 1107,
+          "like_count": 23557,
+          "listed_count": 8,
+          "media_count": 188,
+          "tweet_count": 1395
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "河北邯郸 中国CN/EN 双性恋 性别中立 纯爱天下第一！ 娱乐级街机音游玩家/电子DIY  GNU/Linux  把我当男的当女的都行 或许是男娘（？ 在沧州黄骅上学需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "Handan Hebei China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "1936718401839505573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936792054941528065/Mx27AIWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 664,
+          "like_count": 7642,
+          "listed_count": 1,
+          "media_count": 786,
+          "tweet_count": 4678
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

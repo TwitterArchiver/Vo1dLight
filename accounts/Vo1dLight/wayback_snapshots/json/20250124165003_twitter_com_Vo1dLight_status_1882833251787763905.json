@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Boston",
+          "id": "855431757247545346",
+          "name": "Boston"
+        }
+      }
+    ],
+    "conversation_id": "1882833251787763905",
+    "created_at": "2025-01-24T16:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T17:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882833251787763905"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "Ubuntu",
+          "probability": 0.7866,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "Boston",
+          "probability": 0.9123,
+          "start": 56,
+          "type": "Place"
+        },
+        {
+          "end": 112,
+          "normalized_text": "Ubuntu",
+          "probability": 0.9267,
+          "start": 107,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2480951",
+          "start": 3,
+          "username": "ubuntu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882833251787763905",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882794310313119993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ubuntu: Last month, an 11-year-old Ubuntu fan named Boston, sent us this heartfelt letter, sharing how Ubuntu inspires him every day.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Boston",
+              "id": "855431757247545346",
+              "name": "Boston"
+            }
+          }
+        ],
+        "conversation_id": "1882833251787763905",
+        "created_at": "2025-01-24T16:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T17:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882833251787763905"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Ubuntu",
+              "probability": 0.7866,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Boston",
+              "probability": 0.9123,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "Ubuntu",
+              "probability": 0.9267,
+              "start": 107,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2480951",
+              "start": 3,
+              "username": "ubuntu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882833251787763905",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882794310313119993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ubuntu: Last month, an 11-year-old Ubuntu fan named Boston, sent us this heartfelt letter, sharing how Ubuntu inspires him every day.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882794246974869505",
+            "3_1882794267820630016",
+            "3_1882794288804765696"
+          ]
+        },
+        "author_id": "2480951",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1855005763573305344",
+              "name": "The Penguin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1855005763573305344",
+              "name": "The Penguin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Boston",
+              "id": "855431757247545346",
+              "name": "Boston"
+            }
+          }
+        ],
+        "conversation_id": "1882794310313119993",
+        "created_at": "2025-01-24T14:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T15:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882794310313119993"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Ubuntu",
+              "probability": 0.8123,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Boston",
+              "probability": 0.8238,
+              "start": 44,
+              "type": "Place"
+            },
+            {
+              "end": 100,
+              "normalized_text": "Ubuntu",
+              "probability": 0.8745,
+              "start": 95,
+              "type": "Other"
+            },
+            {
+              "end": 183,
+              "normalized_text": "Tux",
+              "probability": 0.6569,
+              "start": 181,
+              "type": "Other"
+            },
+            {
+              "end": 195,
+              "normalized_text": "Penguin",
+              "probability": 0.5529,
+              "start": 189,
+              "type": "Other"
+            },
+            {
+              "end": 234,
+              "normalized_text": "Mark Shuttleworth",
+              "probability": 0.7847,
+              "start": 218,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fNCu6EJzGi",
+              "end": 300,
+              "expanded_url": "https://x.com/ubuntu/status/1882794310313119993/photo/1",
+              "media_key": "3_1882794246974869505",
+              "start": 277,
+              "url": "https://t.co/fNCu6EJzGi"
+            },
+            {
+              "display_url": "pic.x.com/fNCu6EJzGi",
+              "end": 300,
+              "expanded_url": "https://x.com/ubuntu/status/1882794310313119993/photo/1",
+              "media_key": "3_1882794267820630016",
+              "start": 277,
+              "url": "https://t.co/fNCu6EJzGi"
+            },
+            {
+              "display_url": "pic.x.com/fNCu6EJzGi",
+              "end": 300,
+              "expanded_url": "https://x.com/ubuntu/status/1882794310313119993/photo/1",
+              "media_key": "3_1882794288804765696",
+              "start": 277,
+              "url": "https://t.co/fNCu6EJzGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882794310313119993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 940,
+                "start": 927,
+                "tag": "educationday"
+              },
+              {
+                "end": 969,
+                "start": 941,
+                "tag": "internationaldayofeducation"
+              },
+              {
+                "end": 981,
+                "start": 970,
+                "tag": "opensource"
+              },
+              {
+                "end": 989,
+                "start": 982,
+                "tag": "ubuntu"
+              }
+            ]
+          },
+          "text": "Last month, an 11-year-old Ubuntu fan named Boston, sent us this heartfelt letter, sharing how Ubuntu inspires him every day.\n\nHis words touched our entire team, and his hand-drawn Tux the Penguin stole our hearts 🐧🧡\n\nMark Shuttleworth, Canonical CEO and Founder, wrote back, encouraging him to keep exploring, learning, and creating with open source technology. We also sent Boston a special gift package along with the letter 🎁\n\nOn the 24th of January, the world celebrates the International Day of Education, so please join us in celebrating the curiosity and passion of young learners like Boston.\n\nWe believe education and technology go hand in hand, empowering people of all ages to dream big and innovate. Boston’s story reminds us of the incredible impact open source can have on young minds and the future they’ll shape.\n\nHere’s to nurturing the spark of curiosity and supporting the next generation of innovators! 🌟\n\n#educationday #internationaldayofeducation #opensource #ubuntu"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 20466,
+          "like_count": 937,
+          "quote_count": 19,
+          "reply_count": 31,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "Last month, an 11-year-old Ubuntu fan named Boston, sent us this heartfelt letter, sharing how Ubuntu inspires him every day.\n\nHis words touched our entire team, and his hand-drawn Tux the Penguin stole our hearts 🐧🧡\n\nMark Shuttleworth, Canonical CEO and Founder, wrote back,… https://t.co/fNCu6EJzGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 友跨🏳️‍⚧️友所有人🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 820,
+          "like_count": 7122,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-27T12:47:45.000Z",
+        "description": "Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ubuntu.com",
+                "end": 23,
+                "expanded_url": "http://www.ubuntu.com",
+                "start": 0,
+                "url": "https://t.co/cROykoVbKD"
+              }
+            ]
+          }
+        },
+        "id": "2480951",
+        "location": "Desktop Cloud Server Container",
+        "name": "Ubuntu",
+        "pinned_tweet_id": "1844406181206384892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672927,
+          "following_count": 1085,
+          "like_count": 4188,
+          "listed_count": 5894,
+          "media_count": 7015,
+          "tweet_count": 13850
+        },
+        "url": "https://t.co/cROykoVbKD",
+        "username": "ubuntu",
+        "verified": true
+      }
+    ]
+  }
+}

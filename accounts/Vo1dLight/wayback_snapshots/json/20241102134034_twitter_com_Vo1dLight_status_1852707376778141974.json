@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1852333693777678603",
+    "created_at": "2024-11-02T13:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T14:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852707376778141974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1789586690400800769",
+          "start": 0,
+          "username": "ameear005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852707376778141974",
+    "in_reply_to_user_id": "1789586690400800769",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852333693777678603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameear005 中东那一带的烂事我比较推荐赛博朋克时间线里“苏联”/苏石化的做法：直接核平，然后宣布中东问题已彻底解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1852333693777678603",
+        "created_at": "2024-11-02T13:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852707376778141974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852707376778141974",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852333693777678603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear005 中东那一带的烂事我比较推荐赛博朋克时间线里“苏联”/苏石化的做法：直接核平，然后宣布中东问题已彻底解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789586690400800769",
+        "conversation_id": "1852333693777678603",
+        "created_at": "2024-11-01T12:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T13:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852333693777678603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852333693777678603",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11181,
+          "like_count": 152,
+          "quote_count": 5,
+          "reply_count": 70,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以色列 vs 巴勒斯坦\n\n有没有人谁不支持任何一方？像我这样的人。😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 无聊的理工男，视穿小裙子为一种解压与逃避😖 | 183/63 我好羡慕天赋党哇😭 小号 @Vo1dL1ght\nAn average nerd and a crossdresser, trying to live the life I love, but what is it?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 338,
+          "like_count": 2004,
+          "listed_count": 2,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "♦️♦️♦️",
+        "id": "1789586690400800769",
+        "location": "미합중국 해군항공대",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816495461983027200/TBpwUHdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 926,
+          "like_count": 15829,
+          "listed_count": 5,
+          "tweet_count": 4274
+        },
+        "username": "ameear005",
+        "verified": false
+      }
+    ]
+  }
+}

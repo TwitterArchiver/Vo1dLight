@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1935781914323173580",
+    "created_at": "2025-06-20T12:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T13:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936032130582430009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934213219725520896",
+          "start": 0,
+          "username": "7Lumine7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936032130582430009",
+    "in_reply_to_user_id": "1934213219725520896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935781914323173580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7Lumine7 唉唉，汉族，隐忍，汉族，妥协... 😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1935781914323173580",
+        "created_at": "2025-06-20T12:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936032130582430009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934213219725520896",
+              "start": 0,
+              "username": "7Lumine7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936032130582430009",
+        "in_reply_to_user_id": "1934213219725520896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935781914323173580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7Lumine7 唉唉，汉族，隐忍，汉族，妥协... 😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934213219725520896",
+        "conversation_id": "1935781914323173580",
+        "created_at": "2025-06-19T19:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T20:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935781914323173580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935781914323173580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实觉得自己喜欢穿女装的很大一部分原因是真的希望自己是女生😞\n\n但这显然不是我有的选的 能选的次佳方案在cn所面临的压力和阻力也还是太大了 我也没有这个决心和勇气\n\n所以好像也就只剩女装一种方式来缓解这一些性别焦虑了😣😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2580,
+          "following_count": 1054,
+          "like_count": 19176,
+          "listed_count": 8,
+          "media_count": 168,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T11:35:56.000Z",
+        "description": "Master's degree in progress | Majoring in Cyber  Security | Crossdresser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.snowflake.zone",
+                "end": 23,
+                "expanded_url": "https://blog.snowflake.zone/",
+                "start": 0,
+                "url": "https://t.co/Jw985dijrg"
+              }
+            ]
+          }
+        },
+        "id": "1934213219725520896",
+        "location": "China",
+        "name": "Lumine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934213868282404864/URG2FXE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 22,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/Jw985dijrg",
+        "username": "7Lumine7",
+        "verified": false
+      }
+    ]
+  }
+}

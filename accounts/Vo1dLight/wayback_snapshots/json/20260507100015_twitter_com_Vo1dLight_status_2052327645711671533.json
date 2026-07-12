@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052294941565763584"
+      ],
+      "media_source_tweet_id": [
+        "2052295016303997181"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2052327645711671533",
+    "created_at": "2026-05-07T10:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052327645711671533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uIYnA8Tn2n",
+          "end": 43,
+          "expanded_url": "https://x.com/Alice__486/status/2052295016303997181/photo/1",
+          "media_key": "3_2052294941565763584",
+          "start": 20,
+          "url": "https://t.co/uIYnA8Tn2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052327645711671533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052295016303997181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 过膝袜 https://t.co/uIYnA8Tn2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052294941565763584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs3YDZbwAAfkJc.jpg",
+        "width": 2522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052294941565763584"
+          ],
+          "media_source_tweet_id": [
+            "2052295016303997181"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2052327645711671533",
+        "created_at": "2026-05-07T10:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052327645711671533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090136700741812224",
+              "start": 3,
+              "username": "Alice__486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIYnA8Tn2n",
+              "end": 43,
+              "expanded_url": "https://x.com/Alice__486/status/2052295016303997181/photo/1",
+              "media_key": "3_2052294941565763584",
+              "start": 20,
+              "url": "https://t.co/uIYnA8Tn2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052327645711671533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052295016303997181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alice__486: 过膝袜 https://t.co/uIYnA8Tn2n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052294941565763584"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "2052295016303997181",
+        "created_at": "2026-05-07T07:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052295016303997181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIYnA8Tn2n",
+              "end": 27,
+              "expanded_url": "https://x.com/Alice__486/status/2052295016303997181/photo/1",
+              "media_key": "3_2052294941565763584",
+              "start": 4,
+              "url": "https://t.co/uIYnA8Tn2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052295016303997181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 488,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "过膝袜 https://t.co/uIYnA8Tn2n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4199,
+          "following_count": 1710,
+          "like_count": 62904,
+          "listed_count": 11,
+          "media_count": 323,
+          "tweet_count": 3945
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "2024770539202695182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28362,
+          "following_count": 1716,
+          "like_count": 52724,
+          "listed_count": 101,
+          "media_count": 968,
+          "tweet_count": 15521
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2010647325706703120",
+    "created_at": "2026-01-12T13:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T14:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010706111570272642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775547255585673216",
+          "start": 0,
+          "username": "LumaoDoggie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010706111570272642",
+    "in_reply_to_user_id": "1775547255585673216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010647325706703120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumaoDoggie 学生党最免费的其实是GitHub学生认证的gh copilot，而且（目前）认证和使用也是完全合规的，甚至不开梯子都能用（但不开的话没有A一串的模型）\n基本上该有的模型都有，至于你说和最最尖端的比，那你都白嫖了😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2010645109545820160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-c_EwPa4AARogi.png",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2010647325706703120",
+        "created_at": "2026-01-12T13:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T14:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010706111570272642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775547255585673216",
+              "start": 0,
+              "username": "LumaoDoggie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010706111570272642",
+        "in_reply_to_user_id": "1775547255585673216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010647325706703120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumaoDoggie 学生党最免费的其实是GitHub学生认证的gh copilot，而且（目前）认证和使用也是完全合规的，甚至不开梯子都能用（但不开的话没有A一串的模型）\n基本上该有的模型都有，至于你说和最最尖端的比，那你都白嫖了😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010645109545820160"
+          ]
+        },
+        "author_id": "1775547255585673216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2010647325706703120",
+        "created_at": "2026-01-12T09:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010647325706703120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pt2shozb3Q",
+              "end": 206,
+              "expanded_url": "https://x.com/LumaoDoggie/status/2010647325706703120/photo/1",
+              "media_key": "3_2010645109545820160",
+              "start": 183,
+              "url": "https://t.co/Pt2shozb3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010647325706703120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从省钱的角度, 说一下最近的Vibe Coding的 AI选择..\n\n1️⃣. 免费版\n\n学生党囊中羞涩的话, 首选 Google 的 Antigravity IDE, 免费额度慷慨. (用 Antigravity Tools反向代理出来,还可以导入到 Visual Studio Code里用)\n\n之前几元钱闲鱼上的Google pro学生认证你如果没上车的话, 现在买一个带售后的大概要50元+了.  或者 OpenAi的大兵认证也可以考虑. 能用多久就不清楚了.\n\nClaude Code 额度用完了就用 Gemini 3.0 Pro, 这个基本用不完的.\n\n2️⃣. 便宜的中转\n\n正经用Claude Code官方套餐的话,各家中转价格都差不多的, 基本都是0.7 -1 人民币 对应 1美元额度.   之前88code可以做到0.4元,但是最近一波打击后, 已经跑路了.   各家中转也都逐渐涨价. \n\n要便宜的就找各种第三方接入代理出来的. 比如说有贩子养了几千个学生版的Google Pro账号,把里面的 Claude Code 模型代理出来包装一下给你用. 这种就很便宜了, 可能.\n这种三方接口是性价比最高的, 一般都是来自第三方AI IDE的优惠补贴. 前两个月有 Droid免费版被人撸秃,  现在Google Antigravity也受不了, 开始加了每周限额.\n\n我目前用的这个是 packycode 下的, 里面有一个是 AWS Q (可以理解为aws自己出的cursor), 从里面掏出来的 Claude Code 接口.   很便宜,只要 0.15倍率 (也就是1.5折) \n\n试了一周, 稳定性和体验还可以, 和官方 Claude Code接口比, 没有发现明显降智和偷token的现象. 遇到过一次接口出错,过了五分钟自己好了.     明显省钱了很多, 冲了50RMB我做了五个小项目还没用完.  \n\n(packyapi链接我放2楼)\n\n他家Codex 是0.5倍率, 充值额度可以通用的.\n\n我个人习惯是项目开始的时候用 Codex 5.2 high的 plan模式讨论几轮, 然后Opus 4.5具体写代码, 写了一阵子基本功能没问题后.\n\n再用Codex gpt-5.2 extra high 来 review bug 和提意见 (顺便去上个厕所, 喝杯咖啡.. 回来了可能还没跑完, 5.2速度很慢很慢)\n\n一般会review出来一堆问题和提升点, 再喂给opus 4.5去具体改.\n\n当然, Antigravity 也会隔几天用一下, 把里面免费的Claude Code额度给用光. 然后等下一轮刷新额度. \n\n这么便宜的Claude 额度, AWS肯定是亏钱做补贴的, 不知道能玩多久.  要是被封了估计还会有其他新的路子出来.\n\n👇 链接在楼下"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 6713,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "从省钱的角度, 说一下最近的Vibe Coding的 AI选择..\n\n1️⃣. 免费版\n\n学生党囊中羞涩的话, 首选 Google 的 Antigravity IDE, 免费额度慷慨. (用 Antigravity Tools反向代理出来,还可以导入到 Visual Studio Code里用)\n\n之前几元钱闲鱼上的Google pro学生认证你如果没上车的话, https://t.co/Pt2shozb3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 1484,
+          "like_count": 44044,
+          "listed_count": 11,
+          "media_count": 270,
+          "tweet_count": 2655
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T15:33:59.000Z",
+        "description": "前大厂程序员,  Defi  | 空投 | 合约套利 | AI.  有时分享自己写的脚本和工具.",
+        "id": "1775547255585673216",
+        "name": "撸毛小狗",
+        "pinned_tweet_id": "2010647325706703120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979242885816963072/zKExLyMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14962,
+          "following_count": 372,
+          "like_count": 23310,
+          "listed_count": 339,
+          "media_count": 269,
+          "tweet_count": 4461
+        },
+        "username": "LumaoDoggie",
+        "verified": true
+      }
+    ]
+  }
+}

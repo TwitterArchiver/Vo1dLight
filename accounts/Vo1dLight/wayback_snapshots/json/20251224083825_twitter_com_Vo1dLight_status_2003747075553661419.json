@@ -1,0 +1,636 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2003500342680695230",
+    "created_at": "2025-12-24T08:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T09:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003747075553661419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1317494771510775808",
+          "start": 0,
+          "username": "Elaina43114880"
+        },
+        {
+          "end": 26,
+          "id": "22938360",
+          "start": 16,
+          "username": "kevinzhow"
+        },
+        {
+          "end": 42,
+          "id": "284333988",
+          "start": 27,
+          "username": "OfficialLoganK"
+        },
+        {
+          "end": 53,
+          "id": "1806359170830172162",
+          "start": 43,
+          "username": "GeminiApp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003747075553661419",
+    "in_reply_to_user_id": "1317494771510775808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003732352481231080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elaina43114880 @kevinzhow @OfficialLoganK @GeminiApp 甚至gemini的安卓端是和google这个应用程序绑在一起的，是从后者启动的，极其难绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2003732343350272000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86v8zZaoAAOBCV.jpg",
+        "width": 1057
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2003500342680695230",
+        "created_at": "2025-12-24T08:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003747075553661419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1317494771510775808",
+              "start": 0,
+              "username": "Elaina43114880"
+            },
+            {
+              "end": 26,
+              "id": "22938360",
+              "start": 16,
+              "username": "kevinzhow"
+            },
+            {
+              "end": 42,
+              "id": "284333988",
+              "start": 27,
+              "username": "OfficialLoganK"
+            },
+            {
+              "end": 53,
+              "id": "1806359170830172162",
+              "start": 43,
+              "username": "GeminiApp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003747075553661419",
+        "in_reply_to_user_id": "1317494771510775808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003732352481231080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elaina43114880 @kevinzhow @OfficialLoganK @GeminiApp 甚至gemini的安卓端是和google这个应用程序绑在一起的，是从后者启动的，极其难绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003732343350272000"
+          ]
+        },
+        "author_id": "1317494771510775808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2003500342680695230",
+        "created_at": "2025-12-24T07:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003732352481231080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "22938360",
+              "start": 0,
+              "username": "kevinzhow"
+            },
+            {
+              "end": 83,
+              "id": "284333988",
+              "start": 68,
+              "username": "OfficialLoganK"
+            },
+            {
+              "end": 95,
+              "id": "1806359170830172162",
+              "start": 85,
+              "username": "GeminiApp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/goaDJjbvEr",
+              "end": 119,
+              "expanded_url": "https://x.com/Elaina43114880/status/2003732352481231080/photo/1",
+              "media_key": "3_2003732343350272000",
+              "start": 96,
+              "url": "https://t.co/goaDJjbvEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003732352481231080",
+        "in_reply_to_user_id": "22938360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 535,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003500342680695230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevinzhow 你可能不敢相信，都要到6202年了Gemini App在Google自家系统Android甚至还不支持分屏或浮窗\n@OfficialLoganK  @GeminiApp https://t.co/goaDJjbvEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998590742915330049/bN6dR0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 1438,
+          "like_count": 38073,
+          "listed_count": 11,
+          "media_count": 260,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T15:56:59.000Z",
+        "description": "イレイナ🧙‍♀️✨ | Yuri🌸👩‍❤️‍👩 | AI🤖🧠",
+        "id": "1317494771510775808",
+        "name": "Elaina",
+        "pinned_tweet_id": "2000350508637458440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1317495150075994113/Rh9AcdGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 331,
+          "like_count": 44023,
+          "listed_count": 3,
+          "media_count": 637,
+          "tweet_count": 26292
+        },
+        "username": "Elaina43114880",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-05T16:20:19.000Z",
+        "description": "💻 Maker | Making Japanese Learning App | KanaOrigin | Oyomi｜Miraa 👀 @miraa_app",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "miraa_app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/kevinzhow",
+                "end": 23,
+                "expanded_url": "https://bento.me/kevinzhow",
+                "start": 0,
+                "url": "https://t.co/UNYCZ8ae41"
+              }
+            ]
+          }
+        },
+        "id": "22938360",
+        "location": "埼玉 越谷市",
+        "name": "kevinzhow",
+        "pinned_tweet_id": "1772810844117819688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808138216585023490/xQ3u-b4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39008,
+          "following_count": 2169,
+          "like_count": 31070,
+          "listed_count": 475,
+          "media_count": 2904,
+          "tweet_count": 41016
+        },
+        "url": "https://t.co/UNYCZ8ae41",
+        "username": "kevinzhow",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-19T03:00:17.000Z",
+        "description": "Lead product for @GoogleAIStudio & Gemini API. My views!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "GoogleAIStudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "logank.ai",
+                "end": 23,
+                "expanded_url": "https://logank.ai",
+                "start": 0,
+                "url": "https://t.co/p6F6wFrh36"
+              }
+            ]
+          }
+        },
+        "id": "284333988",
+        "location": "Lkilpatrick@google.com",
+        "name": "Logan Kilpatrick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943787288955084800/QOl7OJMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256703,
+          "following_count": 2757,
+          "like_count": 153731,
+          "listed_count": 4112,
+          "media_count": 576,
+          "tweet_count": 10071
+        },
+        "url": "https://t.co/p6F6wFrh36",
+        "username": "OfficialLoganK",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T16:10:25.000Z",
+        "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemini.google.com",
+                "end": 23,
+                "expanded_url": "http://gemini.google.com",
+                "start": 0,
+                "url": "https://t.co/lc7BAJq9fW"
+              }
+            ]
+          }
+        },
+        "id": "1806359170830172162",
+        "location": "Mountain View, CA",
+        "name": "G3mini",
+        "pinned_tweet_id": "2001321503779074077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337093,
+          "following_count": 46,
+          "like_count": 2353,
+          "listed_count": 2863,
+          "media_count": 357,
+          "tweet_count": 14234
+        },
+        "url": "https://t.co/lc7BAJq9fW",
+        "username": "GeminiApp",
+        "verified": true
+      }
+    ]
+  }
+}

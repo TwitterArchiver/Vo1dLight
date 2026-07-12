@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2040437972194222526",
+    "created_at": "2026-04-04T16:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040473150333591765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865403376596606976",
+          "start": 0,
+          "username": "o_oshuishui"
+        },
+        {
+          "end": 23,
+          "id": "1971850577106948097",
+          "start": 13,
+          "username": "Sino_nime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040473150333591765",
+    "in_reply_to_user_id": "1865403376596606976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040468589518770217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o_oshuishui @Sino_nime 🤔🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2040437972194222526",
+        "created_at": "2026-04-04T16:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040473150333591765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865403376596606976",
+              "start": 0,
+              "username": "o_oshuishui"
+            },
+            {
+              "end": 23,
+              "id": "1971850577106948097",
+              "start": 13,
+              "username": "Sino_nime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040473150333591765",
+        "in_reply_to_user_id": "1865403376596606976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040468589518770217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o_oshuishui @Sino_nime 🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865403376596606976",
+        "conversation_id": "2040437972194222526",
+        "created_at": "2026-04-04T16:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040468589518770217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 21,
+              "id": "1971850577106948097",
+              "start": 11,
+              "username": "Sino_nime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040468589518770217",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040437972194222526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight @Sino_nime 这些人都怎么遇到w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3995,
+          "following_count": 1657,
+          "like_count": 60426,
+          "listed_count": 12,
+          "media_count": 304,
+          "tweet_count": 3592
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T14:30:05.000Z",
+        "description": "厭離穢土，欣求净土\n东方Ⅰ音游Ⅰ画画",
+        "id": "1865403376596606976",
+        "location": "紅魔館",
+        "name": "芙兰yo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033951883455594496/v_-6E-ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 25,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 114
+        },
+        "username": "o_oshuishui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T08:13:16.000Z",
+        "description": "收藏日常和碎碎念 To collect daily items and jabber.                                                         medical student",
+        "id": "1971850577106948097",
+        "location": "Hong Kong",
+        "name": "Sinonime Sora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979907907404570624/XqtDX02C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 86,
+          "like_count": 1215,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 670
+        },
+        "username": "Sino_nime",
+        "verified": false
+      }
+    ]
+  }
+}

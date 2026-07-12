@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1963664794642522598",
+    "created_at": "2025-09-06T11:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T12:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964285255835328995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786397664722268160",
+          "start": 0,
+          "username": "proxynova712sec"
+        },
+        {
+          "end": 33,
+          "id": "1701841796547092480",
+          "start": 17,
+          "username": "broccoli_senpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964285255835328995",
+    "in_reply_to_user_id": "1786397664722268160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964282034597089312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@proxynova712sec @broccoli_senpai 先说结论，丰川祥子作为新时代的打单领主......总的来说强度属于超大杯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1963664794642522598",
+        "created_at": "2025-09-06T11:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T12:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964285255835328995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786397664722268160",
+              "start": 0,
+              "username": "proxynova712sec"
+            },
+            {
+              "end": 33,
+              "id": "1701841796547092480",
+              "start": 17,
+              "username": "broccoli_senpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964285255835328995",
+        "in_reply_to_user_id": "1786397664722268160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964282034597089312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@proxynova712sec @broccoli_senpai 先说结论，丰川祥子作为新时代的打单领主......总的来说强度属于超大杯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786397664722268160",
+        "conversation_id": "1963664794642522598",
+        "created_at": "2025-09-06T10:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T11:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964282034597089312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701841796547092480",
+              "start": 0,
+              "username": "broccoli_senpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964282034597089312",
+        "in_reply_to_user_id": "1701841796547092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963664794642522598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broccoli_senpai 大家好啊欢迎来到雪狼破军"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "梦想是成为会写代码的可爱男娘 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3214,
+          "following_count": 1190,
+          "like_count": 25976,
+          "listed_count": 10,
+          "media_count": 204,
+          "tweet_count": 1599
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T14:09:34.000Z",
+        "description": "she/her/2009.3.22出厂/纯情女高（不是）/mtf/抑郁/2023.7.12hrt持证含糖😋/一号机 @proxynova712/互fo\n哈气ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "proxynova712"
+              }
+            ]
+          }
+        },
+        "id": "1786397664722268160",
+        "location": "深圳",
+        "name": "汐诺🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1941864697042538676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951570257451073536/MQ063s1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5451,
+          "following_count": 764,
+          "like_count": 14092,
+          "listed_count": 7,
+          "media_count": 298,
+          "tweet_count": 1366
+        },
+        "username": "proxynova712sec",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T06:14:49.000Z",
+        "description": "男 友Lgbtq+🏳️‍🌈🏳️‍⚧️著名动漫博主喜欢时评和偶尔日常的锐评博主 不会去反任何一个意识形态 但我厌蠢",
+        "id": "1701841796547092480",
+        "location": "距离你5公里",
+        "name": "西兰花前辈🕶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933765631867797504/xT9J28Bu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 69,
+          "like_count": 32767,
+          "listed_count": 8,
+          "media_count": 573,
+          "tweet_count": 13175
+        },
+        "username": "broccoli_senpai",
+        "verified": false
+      }
+    ]
+  }
+}

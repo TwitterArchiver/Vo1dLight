@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2038960845770879034",
+    "created_at": "2026-03-31T12:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038962690702635313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038962690702635313",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038960845770879034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns 恭喜喵🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2726,
+        "media_key": "3_2038958448843563008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvV6AcaIAAc87O.png",
+        "width": 1916
+      },
+      {
+        "height": 772,
+        "media_key": "3_2038958514341896192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvV90cbYAAdb5U.jpg",
+        "width": 2406
+      },
+      {
+        "height": 960,
+        "media_key": "3_2038958528673820672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvV-p1bMAA6eu0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2038960366882025472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvXppsacAAwE-v.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2038960845770879034",
+        "created_at": "2026-03-31T12:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038962690702635313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038962690702635313",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038960845770879034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns 恭喜喵🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038958448843563008",
+            "3_2038958514341896192",
+            "3_2038958528673820672",
+            "3_2038960366882025472"
+          ]
+        },
+        "author_id": "899470193776140289",
+        "conversation_id": "2038960845770879034",
+        "created_at": "2026-03-31T12:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038960845770879034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXi7YOR3Dd",
+              "end": 103,
+              "expanded_url": "https://x.com/hzqsns/status/2038960845770879034/photo/1",
+              "media_key": "3_2038958448843563008",
+              "start": 80,
+              "url": "https://t.co/IXi7YOR3Dd"
+            },
+            {
+              "display_url": "pic.x.com/IXi7YOR3Dd",
+              "end": 103,
+              "expanded_url": "https://x.com/hzqsns/status/2038960845770879034/photo/1",
+              "media_key": "3_2038958514341896192",
+              "start": 80,
+              "url": "https://t.co/IXi7YOR3Dd"
+            },
+            {
+              "display_url": "pic.x.com/IXi7YOR3Dd",
+              "end": 103,
+              "expanded_url": "https://x.com/hzqsns/status/2038960845770879034/photo/1",
+              "media_key": "3_2038958528673820672",
+              "start": 80,
+              "url": "https://t.co/IXi7YOR3Dd"
+            },
+            {
+              "display_url": "pic.x.com/IXi7YOR3Dd",
+              "end": 103,
+              "expanded_url": "https://x.com/hzqsns/status/2038960845770879034/photo/1",
+              "media_key": "3_2038960366882025472",
+              "start": 80,
+              "url": "https://t.co/IXi7YOR3Dd"
+            },
+            {
+              "display_url": "x.com/hzqsns/status/…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/hzqsns/status/1994563511884902746",
+              "start": 104,
+              "url": "https://t.co/pPwst28SlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038960845770879034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "找工作大结局了，历时三个月，面了将近40多场才3个offer，个人感觉运气＞＞努力，顺便写一下Timeline吧，后续抽时间把相关面经到牛客和小红书更新一下。\n\n主要感觉还是换工作太频繁了导致一直被质疑被挂，但是刚毕业遇到螺旋向下发展的互联网你又能怎么样呢，更不用说现在ai再过几年估计全都把低级码农给替代了。\n\n但是最让我开心的不是有了新工作，而是终于能够逃离北京了，终于能够逃离西二旗了，这三个字我记得在什么恋综节目里面有人说出来直接性缩力拉满了。\n\n而且两年来在北京估计病了估计快10次吧，每次病了以后都要吃药甚至输液，甚至已经久病成良医了，比如消炎就是什么头孢克洛/盐酸莫西沙星、止咳吃阿斯美、化痰吃乙酰半胖氨酸、胃不舒服吃奥美拉唑balabala，感觉真的是在这边水土不服，太冷了，而且空气太干燥了，前几天去深圳一下飞机我鼻炎自动就好了，都不用戴口罩😷\n\n总而言之，要脱离自己的舒适圈了，既然当初拒绝了国企和体制内这条路，就要在另外一条路上越走越远啊，得好好学一下英语的口语和听力了，以及我个人强烈感觉未来一两年绝对会迎来大的裁员潮，所以得赶在这个之前去找到除了工作之前也能给自己带来收入的途径了。\n\n感觉我的这一生也真挺坎坷的，最近十年有过高光也有过低谷，感觉完全可以比如上一些采访节目比如峰哥来采访我了hhh所以未来应该会尝试做一下相关的自媒体账号，我个人其实挺向往B站的lks那种up主的，自己想到什么就去做什么内容，我感觉我自己脑子里面还真有挺多想法的，但是每次都是因为工作啊一些外部的压力导致根本没时间和能力去实现，但是以后是真的要花时间多考虑考虑了\n\n最后，祝能够看到这里的推友们祝你们未来也一定要好好的啊！！！\n（第四张图不知道发点什么，来点自己的女装丑照得了（bushi\n（希望以后能多交点长三角那边的朋友hh最好还能教我化妆啥的就更好了XD😇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994563511884902746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找工作大结局了，历时三个月，面了将近40多场才3个offer，个人感觉运气＞＞努力，顺便写一下Timeline吧，后续抽时间把相关面经到牛客和小红书更新一下。 https://t.co/IXi7YOR3Dd https://t.co/pPwst28SlW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3972,
+          "following_count": 1651,
+          "like_count": 59891,
+          "listed_count": 12,
+          "media_count": 302,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "奇迹和魔法并不是免费的。 一个满天星(maybe)",
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2014601533510545626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037298969299263488/nENfHmHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 385,
+          "like_count": 2643,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 1567
+        },
+        "username": "hzqsns",
+        "verified": true
+      }
+    ]
+  }
+}

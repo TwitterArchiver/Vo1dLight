@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2027965351485706398",
+    "created_at": "2026-03-01T04:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T05:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027965351485706398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621759778614812677",
+          "start": 3,
+          "username": "maruko00o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027965351485706398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027949157986505157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maruko00o: 回答下图提问箱问题：\n\n1. \n这个问题恕我不能直接给出准确的回答，因为首先我没有完全清楚你产生这种念头的上下文内容，其次我并不完全支持使用结束自己生命的方法作为处理问题的一种解决方案，当然我也无权决定别人生命的走向。… https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2027949131814375424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCS4_ahbkAA-iVI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2027949131898253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCS4_a1bcAAc4Uh.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2027965351485706398",
+        "created_at": "2026-03-01T04:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027965351485706398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621759778614812677",
+              "start": 3,
+              "username": "maruko00o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027965351485706398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027949157986505157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maruko00o: 回答下图提问箱问题：\n\n1. \n这个问题恕我不能直接给出准确的回答，因为首先我没有完全清楚你产生这种念头的上下文内容，其次我并不完全支持使用结束自己生命的方法作为处理问题的一种解决方案，当然我也无权决定别人生命的走向。… https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027949131814375424",
+            "3_2027949131898253312"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "2027949157986505157",
+        "created_at": "2026-03-01T03:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027949157986505157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BiJTpDZNVf",
+              "end": 133,
+              "expanded_url": "https://x.com/maruko00o/status/2027949157986505157/photo/1",
+              "media_key": "3_2027949131814375424",
+              "start": 110,
+              "url": "https://t.co/BiJTpDZNVf"
+            },
+            {
+              "display_url": "pic.x.com/BiJTpDZNVf",
+              "end": 133,
+              "expanded_url": "https://x.com/maruko00o/status/2027949157986505157/photo/1",
+              "media_key": "3_2027949131898253312",
+              "start": 110,
+              "url": "https://t.co/BiJTpDZNVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027949157986505157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回答下图提问箱问题：\n\n1. \n这个问题恕我不能直接给出准确的回答，因为首先我没有完全清楚你产生这种念头的上下文内容，其次我并不完全支持使用结束自己生命的方法作为处理问题的一种解决方案，当然我也无权决定别人生命的走向。\n\n但是可以从留言里感觉到你目前的疲惫和矛盾感，谢谢你愿意在这种时期还能停下来问我这个问题。\n当一个人纠结、痛苦到想要结束自己生命时，如果周围人只是让你停下，加上现实中曾经遇到过的种种否定，肯定会让人觉得这是连自己最后的选择权都要被他们剥夺殆尽。但很多人听到你的这种想法随之进行否定或者阻拦，一方面是对你这种念头感到恐慌、感到害怕；其次，你身边的人或许也不想失去你。\n\n我，或者他人，不支持或者肯定你去做这样的行为，不代表一定又是在否定你，而是可以看到你的痛苦和不甘。而我觉得，痛苦也不应以这种方式收尾。既然你愿意留下这条留言，我也认为你在乎的其实是被他人肯定和接纳，而不完全是死亡本身，这是很勇敢的做法。\n\n你看，如果现实中的人都在否定你，至少我愿意肯定你这时的感受，如果愿意的话，可以跟我多说一点。\n如果实在无法排解，不如也试试和更专业的人谈一谈（试试拨打 12356 心理援助热线），请再给自己一些被听到的机会。\n祝好。❤️\n\n-\n\n2.\n① 关于是喜欢衣服还是真的想改变性别：\n不妨问一下自己，你是真的渴望拥有另一个性别的生理构造，还是想摆脱当下指派性别所带给你的社会压力？如果你现在能以现在生理性别的身份，也活得可爱、精致，能被允许表现出脆弱，允许不那么上进，还能够被周围人所接纳的话，你还会想变成另一个性别吗？\n\n如果答案是不想的话，你或许只是更多的渴望能够向他人展示自己的柔美，卸下当前性别所带来的巨大的重担。如果那些可爱的衣服，能让你在紧张和压抑之余找到一些放松感，在没有严重对自己身体感到厌恶的前提下，就暂时先把它当作一个爱好，不用上升到「改变性别」的高度。\n\n如果确实认为自己可能有性别焦虑，请务必进行专业咨询，不要根据自我诊断行事。\n\n②关于「没动力」和「感觉自己什么也做不好」\n我觉得，如果你已经进入 985 大学接受教育，某些方面来看，可以证明你是个优秀的人。你并不懒，因为真正的懒惰，其实是心安理得地放弃、躺平。能思考并且提出这个问题，或许可以证明，你只是在这个快节奏、高压的社会里太累了。\n有些事情如果我们不去做，那永远就都有「能做好」的可能性；但一旦实践后发现做不成，那便很容易就会归纳为是自己的「无能」。很多时候「没动力做」其实很多时候是一种自我保护，在周围看似都是「强者」的环境下，我们更会不可避免地去和别人进行比较，反而会愈发加重这种感觉。\n\n为什么「弱者」反而更快乐？他们或许并不「弱」，大概更多的是因为他们能够接受自己的普通，没有那么大的期望和现实之间的差距，不去逼自己成为某种「人上人」的角色。\n\n有时眼界太高，而行动力却不足以匹配这种眼界时，便很容易看得太远，想得太多。\n所以，大可不必对自己过于苛刻，允许自己搞砸一些事情，当一个普通人，先尝试活得舒服一点，天是塌不下来的。你永远有休息一下的权力，请尝试接纳那个暂时不够好的自己。🤗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "回答下图提问箱问题：\n\n1. \n这个问题恕我不能直接给出准确的回答，因为首先我没有完全清楚你产生这种念头的上下文内容，其次我并不完全支持使用结束自己生命的方法作为处理问题的一种解决方案，当然我也无权决定别人生命的走向。 https://t.co/BiJTpDZNVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3902,
+          "following_count": 1594,
+          "like_count": 50912,
+          "listed_count": 11,
+          "media_count": 286,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38281,
+          "following_count": 937,
+          "like_count": 22407,
+          "listed_count": 216,
+          "media_count": 922,
+          "tweet_count": 5707
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

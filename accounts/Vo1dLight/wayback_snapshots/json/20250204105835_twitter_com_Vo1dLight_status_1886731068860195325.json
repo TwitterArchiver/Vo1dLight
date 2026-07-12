@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1886569878837968920",
+    "created_at": "2025-02-04T10:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T11:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886731068860195325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1195900004893908993",
+          "start": 0,
+          "username": "SapphireRapids_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886731068860195325",
+    "in_reply_to_user_id": "1195900004893908993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886569878837968920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SapphireRapids_ 我也想😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1886569878837968920",
+        "created_at": "2025-02-04T10:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886731068860195325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1195900004893908993",
+              "start": 0,
+              "username": "SapphireRapids_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886731068860195325",
+        "in_reply_to_user_id": "1195900004893908993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886569878837968920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SapphireRapids_ 我也想😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886569876539531264"
+          ]
+        },
+        "author_id": "1195900004893908993",
+        "conversation_id": "1886569878837968920",
+        "created_at": "2025-02-04T00:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T01:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886569878837968920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOQ5fstU0Q",
+              "end": 36,
+              "expanded_url": "https://x.com/SapphireRapids_/status/1886569878837968920/photo/1",
+              "media_key": "3_1886569876539531264",
+              "start": 13,
+              "url": "https://t.co/fOQ5fstU0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886569878837968920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1061,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦想是穿女装参加毕业典礼 https://t.co/fOQ5fstU0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 850,
+          "like_count": 7925,
+          "listed_count": 6,
+          "media_count": 106,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-17T03:02:42.000Z",
+        "description": "EE/CS｜OCD｜死肥宅爆改美少女绝赞进行中｜PC发烧友｜固定翼FPV｜云沪国人｜老鼠@LibraryUnoffic1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "LibraryUnoffic1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brightspace.nyu.edu",
+                "end": 23,
+                "expanded_url": "https://brightspace.nyu.edu",
+                "start": 0,
+                "url": "https://t.co/t5blu2xXxk"
+              }
+            ]
+          }
+        },
+        "id": "1195900004893908993",
+        "location": "6 Metrotech Center",
+        "name": "Sapphire Rapids🧨🧧",
+        "pinned_tweet_id": "1883687569034232266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880270199057969154/_44jGlfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 3409,
+          "like_count": 135320,
+          "listed_count": 0,
+          "media_count": 5343,
+          "tweet_count": 23609
+        },
+        "url": "https://t.co/t5blu2xXxk",
+        "username": "SapphireRapids_",
+        "verified": false
+      }
+    ]
+  }
+}

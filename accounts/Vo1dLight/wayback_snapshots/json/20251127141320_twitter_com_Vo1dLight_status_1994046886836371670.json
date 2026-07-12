@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866167440553463808"
+      ],
+      "media_source_tweet_id": [
+        "1866167443388879180"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1994046886836371670",
+    "created_at": "2025-11-27T14:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994046886836371670"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1192742526387720192",
+          "start": 3,
+          "username": "luwwakk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHDCHaHB2p",
+          "end": 48,
+          "expanded_url": "https://x.com/luwwakk/status/1866167443388879180/photo/1",
+          "media_key": "3_1866167440553463808",
+          "start": 25,
+          "url": "https://t.co/XHDCHaHB2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994046886836371670",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1471
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866167443388879180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luwwakk: #prsk_FA 🎀🎧 https://t.co/XHDCHaHB2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1866167440553463808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeX1ZlmW0AAp-ue.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866167440553463808"
+          ],
+          "media_source_tweet_id": [
+            "1866167443388879180"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1994046886836371670",
+        "created_at": "2025-11-27T14:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994046886836371670"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1192742526387720192",
+              "start": 3,
+              "username": "luwwakk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHDCHaHB2p",
+              "end": 48,
+              "expanded_url": "https://x.com/luwwakk/status/1866167443388879180/photo/1",
+              "media_key": "3_1866167440553463808",
+              "start": 25,
+              "url": "https://t.co/XHDCHaHB2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994046886836371670",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1471
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866167443388879180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luwwakk: #prsk_FA 🎀🎧 https://t.co/XHDCHaHB2p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866167440553463808"
+          ]
+        },
+        "author_id": "1192742526387720192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1866167443388879180",
+        "created_at": "2024-12-09T17:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T18:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866167443388879180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHDCHaHB2p",
+              "end": 35,
+              "expanded_url": "https://x.com/luwwakk/status/1866167443388879180/photo/1",
+              "media_key": "3_1866167440553463808",
+              "start": 12,
+              "url": "https://t.co/XHDCHaHB2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866167443388879180",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 840,
+          "impression_count": 110689,
+          "like_count": 9429,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 1471
+        },
+        "reply_settings": "everyone",
+        "text": "#prsk_FA 🎀🎧 https://t.co/XHDCHaHB2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3588,
+          "following_count": 1329,
+          "like_count": 32335,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-08T09:56:06.000Z",
+        "description": "🍓prsk mostly",
+        "id": "1192742526387720192",
+        "name": "🌸",
+        "pinned_tweet_id": "1810002707551297677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915006532967657473/wygkKtxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10306,
+          "following_count": 254,
+          "like_count": 8813,
+          "listed_count": 28,
+          "media_count": 95,
+          "tweet_count": 242
+        },
+        "username": "luwwakk",
+        "verified": false
+      }
+    ]
+  }
+}

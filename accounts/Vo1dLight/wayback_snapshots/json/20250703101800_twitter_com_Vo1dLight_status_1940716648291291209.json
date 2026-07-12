@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940704875811155968"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1940716648291291209",
+    "created_at": "2025-07-03T10:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T11:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940716648291291209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/20e6UQ0czj",
+          "end": 71,
+          "expanded_url": "https://x.com/Vo1dLight/status/1940716648291291209/photo/1",
+          "media_key": "3_1940704875811155968",
+          "start": 48,
+          "url": "https://t.co/20e6UQ0czj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940716648291291209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一个想出在共享单车上装扬声器每次开锁就用最大音量播放3+弱智音乐和小广告的人真的全家活光光了 https://t.co/20e6UQ0czj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1940704875811155968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7EzWCXsAALLFr.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940704875811155968"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1940716648291291209",
+        "created_at": "2025-07-03T10:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940716648291291209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/20e6UQ0czj",
+              "end": 71,
+              "expanded_url": "https://x.com/Vo1dLight/status/1940716648291291209/photo/1",
+              "media_key": "3_1940704875811155968",
+              "start": 48,
+              "url": "https://t.co/20e6UQ0czj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940716648291291209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一个想出在共享单车上装扬声器每次开锁就用最大音量播放3+弱智音乐和小广告的人真的全家活光光了 https://t.co/20e6UQ0czj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 1078,
+          "like_count": 21665,
+          "listed_count": 9,
+          "media_count": 178,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      }
+    ]
+  }
+}

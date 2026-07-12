@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069230715615744000"
+      ],
+      "media_source_tweet_id": [
+        "2069230718312669333"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2069332112285806600",
+    "created_at": "2026-06-23T08:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069332112285806600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774477637534281728",
+          "start": 3,
+          "username": "GeimoGeimo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bR5zdAJZqm",
+          "end": 43,
+          "expanded_url": "https://x.com/GeimoGeimo/status/2069230718312669333/photo/1",
+          "media_key": "3_2069230715615744000",
+          "start": 20,
+          "url": "https://t.co/bR5zdAJZqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069332112285806600",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069230718312669333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GeimoGeimo: 🎋🎋🎋 https://t.co/bR5zdAJZqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069230715615744000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdiX2KakAAK8Lm.jpg",
+        "width": 1540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069230715615744000"
+          ],
+          "media_source_tweet_id": [
+            "2069230718312669333"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2069332112285806600",
+        "created_at": "2026-06-23T08:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069332112285806600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774477637534281728",
+              "start": 3,
+              "username": "GeimoGeimo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bR5zdAJZqm",
+              "end": 43,
+              "expanded_url": "https://x.com/GeimoGeimo/status/2069230718312669333/photo/1",
+              "media_key": "3_2069230715615744000",
+              "start": 20,
+              "url": "https://t.co/bR5zdAJZqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069332112285806600",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069230718312669333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GeimoGeimo: 🎋🎋🎋 https://t.co/bR5zdAJZqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069230715615744000"
+          ]
+        },
+        "author_id": "1774477637534281728",
+        "conversation_id": "2069230718312669333",
+        "created_at": "2026-06-23T01:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069230718312669333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bR5zdAJZqm",
+              "end": 27,
+              "expanded_url": "https://x.com/GeimoGeimo/status/2069230718312669333/photo/1",
+              "media_key": "3_2069230715615744000",
+              "start": 4,
+              "url": "https://t.co/bR5zdAJZqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069230718312669333",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 6166,
+          "like_count": 481,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "🎋🎋🎋 https://t.co/bR5zdAJZqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 1824,
+          "like_count": 68960,
+          "listed_count": 13,
+          "media_count": 340,
+          "tweet_count": 4334
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T16:43:52.000Z",
+        "description": "♂/12时，学校食堂见/臭打游戏的，随缘更新照片/偶尔发点画/信箱链接https://t.co/4ENHs7LoWv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h0risans",
+                "end": 58,
+                "expanded_url": "https://ngl.link/h0risans",
+                "start": 35,
+                "url": "https://t.co/4ENHs7LoWv"
+              }
+            ]
+          }
+        },
+        "id": "1774477637534281728",
+        "location": "在东百读研",
+        "name": "Geimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051922816778616832/tHZsXEtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4844,
+          "following_count": 535,
+          "like_count": 15827,
+          "listed_count": 17,
+          "media_count": 53,
+          "tweet_count": 3215
+        },
+        "url": "",
+        "username": "GeimoGeimo",
+        "verified": false
+      }
+    ]
+  }
+}

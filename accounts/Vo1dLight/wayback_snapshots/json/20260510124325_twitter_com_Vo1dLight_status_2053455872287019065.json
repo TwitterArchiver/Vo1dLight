@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1300480431905673216",
+          "name": "Carnegie Mellon University"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1300480431905673216",
+          "name": "Carnegie Mellon University"
+        }
+      }
+    ],
+    "conversation_id": "2053215159603106140",
+    "created_at": "2026-05-10T12:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053455872287019065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1214351307336667142",
+          "start": 0,
+          "username": "akiyamamizukaze"
+        },
+        {
+          "end": 25,
+          "id": "38701364",
+          "start": 17,
+          "username": "CMU_ECE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053455872287019065",
+    "in_reply_to_user_id": "1214351307336667142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053215159603106140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiyamamizukaze @CMU_ECE 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053215155396227076",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH58TjDXMAQWuve.jpg",
+        "width": 2048
+      },
+      {
+        "height": 878,
+        "media_key": "3_2053215155534606339",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH58TjkWsAMyv_z.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1300480431905673216",
+              "name": "Carnegie Mellon University"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1300480431905673216",
+              "name": "Carnegie Mellon University"
+            }
+          }
+        ],
+        "conversation_id": "2053215159603106140",
+        "created_at": "2026-05-10T12:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053455872287019065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1214351307336667142",
+              "start": 0,
+              "username": "akiyamamizukaze"
+            },
+            {
+              "end": 25,
+              "id": "38701364",
+              "start": 17,
+              "username": "CMU_ECE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053455872287019065",
+        "in_reply_to_user_id": "1214351307336667142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053215159603106140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiyamamizukaze @CMU_ECE 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053215155396227076",
+            "3_2053215155534606339"
+          ]
+        },
+        "author_id": "1214351307336667142",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1300480431905673216",
+              "name": "Carnegie Mellon University"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1300480431905673216",
+              "name": "Carnegie Mellon University"
+            }
+          }
+        ],
+        "conversation_id": "2053215159603106140",
+        "created_at": "2026-05-09T20:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T21:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053215159603106140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "38701364",
+              "start": 20,
+              "username": "CMU_ECE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKVOOqCNE8",
+              "end": 83,
+              "expanded_url": "https://x.com/akiyamamizukaze/status/2053215159603106140/photo/1",
+              "media_key": "3_2053215155396227076",
+              "start": 60,
+              "url": "https://t.co/fKVOOqCNE8"
+            },
+            {
+              "display_url": "pic.x.com/fKVOOqCNE8",
+              "end": 83,
+              "expanded_url": "https://x.com/akiyamamizukaze/status/2053215159603106140/photo/1",
+              "media_key": "3_2053215155534606339",
+              "start": 60,
+              "url": "https://t.co/fKVOOqCNE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053215159603106140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4119,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "just got my BS from @CMU_ECE, another semester left for MS😭 https://t.co/fKVOOqCNE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4226,
+          "following_count": 1717,
+          "like_count": 63126,
+          "listed_count": 11,
+          "media_count": 325,
+          "tweet_count": 3979
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-07T01:01:38.000Z",
+        "description": "休眠中 | enby | CPU Architect | 性取向是半导体 | BS+MS @CMU_ECE | 里: @shiraharamizuki | lang: ZH/EN/JA | 神のまにまに 仰せのままに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "CMU_ECE"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "shiraharamizuki"
+              }
+            ]
+          }
+        },
+        "id": "1214351307336667142",
+        "location": "誰もいないのセカイ",
+        "name": "weak inversion mode mizuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917051820838375424/U355DjSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 576,
+          "like_count": 21552,
+          "listed_count": 2,
+          "media_count": 693,
+          "tweet_count": 11080
+        },
+        "username": "akiyamamizukaze",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-08T17:02:07.000Z",
+        "description": "Department of Electrical and Computer Engineering at CMU. Known for innovative qualities, bold ideas, and unbridled enthusiasm. #cmuece",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 128,
+                "tag": "cmuece"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ece.cmu.edu",
+                "end": 23,
+                "expanded_url": "http://www.ece.cmu.edu",
+                "start": 0,
+                "url": "https://t.co/5y1VHNDE6V"
+              }
+            ]
+          }
+        },
+        "id": "38701364",
+        "location": "Pittsburgh, PA",
+        "name": "Carnegie Mellon ECE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290275243836276736/3skGG9Ui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6317,
+          "following_count": 546,
+          "like_count": 1150,
+          "listed_count": 114,
+          "media_count": 1351,
+          "tweet_count": 2899
+        },
+        "url": "https://t.co/5y1VHNDE6V",
+        "username": "CMU_ECE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1993947931142209562",
+    "created_at": "2025-11-27T09:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993973540983591164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934213219725520896",
+          "start": 0,
+          "username": "7Lumine7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993973540983591164",
+    "in_reply_to_user_id": "1934213219725520896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993947931142209562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7Lumine7 本人，经常看见好看裙子一点开最大M码😭😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1993947928298487808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vtE47bgAANOlG.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1993947931142209562",
+        "created_at": "2025-11-27T09:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993973540983591164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934213219725520896",
+              "start": 0,
+              "username": "7Lumine7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993973540983591164",
+        "in_reply_to_user_id": "1934213219725520896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993947931142209562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7Lumine7 本人，经常看见好看裙子一点开最大M码😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993947928298487808"
+          ]
+        },
+        "author_id": "1934213219725520896",
+        "conversation_id": "1993947931142209562",
+        "created_at": "2025-11-27T07:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993947931142209562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6KIocV0Bi",
+              "end": 48,
+              "expanded_url": "https://x.com/7Lumine7/status/1993947931142209562/photo/1",
+              "media_key": "3_1993947928298487808",
+              "start": 25,
+              "url": "https://t.co/E6KIocV0Bi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993947931142209562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还挺喜欢这件的 但是只有M码了 我恨...😭😭😭 https://t.co/E6KIocV0Bi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 1328,
+          "like_count": 32298,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2036
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T11:35:56.000Z",
+        "description": "Master's degree candidate | Majoring in Cyber  Security | LLM Security | Crossdresser",
+        "id": "1934213219725520896",
+        "location": "China",
+        "name": "Lumine",
+        "pinned_tweet_id": "1992794911905837097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958952476662702080/7090m13o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 177,
+          "like_count": 1378,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 315
+        },
+        "username": "7Lumine7",
+        "verified": false
+      }
+    ]
+  }
+}

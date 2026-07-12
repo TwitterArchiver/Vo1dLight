@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1970316661988401594",
+    "created_at": "2025-09-23T04:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T05:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970351877708751062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1385239266985271299",
+          "start": 0,
+          "username": "ARASHIqianye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970351877708751062",
+    "in_reply_to_user_id": "1385239266985271299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970316661988401594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARASHIqianye 😭😭羡慕rle"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1970316650416312320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1f4jesaEAAXn5v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1970316661988401594",
+        "created_at": "2025-09-23T04:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970351877708751062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1385239266985271299",
+              "start": 0,
+              "username": "ARASHIqianye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970351877708751062",
+        "in_reply_to_user_id": "1385239266985271299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970316661988401594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARASHIqianye 😭😭羡慕rle"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970316650416312320"
+          ]
+        },
+        "author_id": "1385239266985271299",
+        "conversation_id": "1970316661988401594",
+        "created_at": "2025-09-23T02:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T03:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970316661988401594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdLkaMDIub",
+              "end": 73,
+              "expanded_url": "https://x.com/ARASHIqianye/status/1970316661988401594/photo/1",
+              "media_key": "3_1970316650416312320",
+              "start": 50,
+              "url": "https://t.co/BdLkaMDIub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970316661988401594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2271,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经进化到带妆上班了兄弟们\n其实抹点遮瑕+一点点粉底\n然后拿粉饼定个妆就行了\n整个人气色提升蛮大的 https://t.co/BdLkaMDIub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3334,
+          "following_count": 1241,
+          "like_count": 27483,
+          "listed_count": 10,
+          "media_count": 212,
+          "tweet_count": 1710
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T14:29:20.000Z",
+        "description": "预备役QR/副业学园偶像/ISTJ\n\n年年有今日，岁岁有今朝",
+        "id": "1385239266985271299",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "王溪茗",
+        "pinned_tweet_id": "1911970264969331000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793297696918507521/uP2qcPh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7786,
+          "following_count": 1252,
+          "like_count": 29162,
+          "listed_count": 25,
+          "media_count": 404,
+          "tweet_count": 6137
+        },
+        "username": "ARASHIqianye",
+        "verified": false
+      }
+    ]
+  }
+}

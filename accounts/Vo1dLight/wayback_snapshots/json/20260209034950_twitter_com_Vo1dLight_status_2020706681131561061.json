@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2020430456513294657",
+    "created_at": "2026-02-09T03:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T04:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020706681131561061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        },
+        {
+          "end": 27,
+          "id": "1131637435920789504",
+          "start": 15,
+          "username": "CuteDrBunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020706681131561061",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020430456513294657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX @CuteDrBunny 羡慕死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2020429884494168064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoCRnbbwAAOfPk.jpg",
+        "width": 886
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2020430360774062080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoCtVtaMAAB_tL.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2020430456513294657",
+        "created_at": "2026-02-09T03:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020706681131561061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            },
+            {
+              "end": 27,
+              "id": "1131637435920789504",
+              "start": 15,
+              "username": "CuteDrBunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020706681131561061",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020430456513294657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX @CuteDrBunny 羡慕死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020429884494168064",
+            "3_2020430360774062080"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "2020430456513294657",
+        "created_at": "2026-02-08T09:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020430456513294657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1131637435920789504",
+              "start": 3,
+              "username": "CuteDrBunny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eac7Bw5i6A",
+              "end": 87,
+              "expanded_url": "https://x.com/BigglesworthX/status/2020430456513294657/photo/1",
+              "media_key": "3_2020429884494168064",
+              "start": 64,
+              "url": "https://t.co/eac7Bw5i6A"
+            },
+            {
+              "display_url": "pic.x.com/eac7Bw5i6A",
+              "end": 87,
+              "expanded_url": "https://x.com/BigglesworthX/status/2020430456513294657/photo/1",
+              "media_key": "3_2020430360774062080",
+              "start": 64,
+              "url": "https://t.co/eac7Bw5i6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020430456513294657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5877,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天和@CuteDrBunny 随便拍了点奇怪的图 先发几张\n第一张是我拍的她\n第二张是她拍的我，如果你看不太清说明该睡觉了。 https://t.co/eac7Bw5i6A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 1541,
+          "like_count": 47591,
+          "listed_count": 11,
+          "media_count": 281,
+          "tweet_count": 2931
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 807,
+          "like_count": 2569,
+          "listed_count": 4,
+          "media_count": 1010,
+          "tweet_count": 4801
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-23T19:06:04.000Z",
+        "description": "是垂耳兔姐姐🐰 女的 笨蛋卷王小兔 喜歡小動物和料理 不約 禁止搬運轉載 | AI PhD | Bunny | Feminism | Lesbian | Semi-SFW | TransRights | She/Her/她 🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bunnyphd.bsky.social",
+                "end": 23,
+                "expanded_url": "http://bunnyphd.bsky.social",
+                "start": 0,
+                "url": "https://t.co/2hAzxDYzsM"
+              }
+            ]
+          }
+        },
+        "id": "1131637435920789504",
+        "location": "United States",
+        "name": "小動物管理員",
+        "pinned_tweet_id": "2006827433425776801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829691118830690304/wuPCB6vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15815,
+          "following_count": 2322,
+          "like_count": 198080,
+          "listed_count": 73,
+          "media_count": 1745,
+          "tweet_count": 14456
+        },
+        "url": "https://t.co/2hAzxDYzsM",
+        "username": "CuteDrBunny",
+        "verified": false
+      }
+    ]
+  }
+}

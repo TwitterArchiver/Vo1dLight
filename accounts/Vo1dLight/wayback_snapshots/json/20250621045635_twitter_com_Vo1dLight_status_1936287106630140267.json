@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1936078282681991390",
+    "created_at": "2025-06-21T04:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T05:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936287106630140267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        },
+        {
+          "end": 28,
+          "id": "1852363899913527296",
+          "start": 12,
+          "username": "PeacemakerM1873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936287106630140267",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936141774491467814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 @PeacemakerM1873 百事才是涮锅水😠😠😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1936078282681991390",
+        "created_at": "2025-06-21T04:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936287106630140267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            },
+            {
+              "end": 28,
+              "id": "1852363899913527296",
+              "start": 12,
+              "username": "PeacemakerM1873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936287106630140267",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936141774491467814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 @PeacemakerM1873 百事才是涮锅水😠😠😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "1936078282681991390",
+        "created_at": "2025-06-20T19:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T20:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936141774491467814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852363899913527296",
+              "start": 0,
+              "username": "PeacemakerM1873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936141774491467814",
+        "in_reply_to_user_id": "1852363899913527296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936078282681991390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PeacemakerM1873 如果是可口可乐，那我选后者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2580,
+          "following_count": 1053,
+          "like_count": 19445,
+          "listed_count": 8,
+          "media_count": 168,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows平板和Chromebook爱好者/编程一生黑/禁极端歧视仇恨言论/有大量政治内容的账号恕不回fo/避难所@Exusiai159_2/扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/exusiai1592",
+                "end": 23,
+                "expanded_url": "https://ngl.link/exusiai1592",
+                "start": 0,
+                "url": "https://t.co/ZoBj8xEVzX"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916516326706999296/Cqh4R0TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4332,
+          "following_count": 5392,
+          "like_count": 124891,
+          "listed_count": 9,
+          "media_count": 3527,
+          "tweet_count": 34426
+        },
+        "url": "https://t.co/ZoBj8xEVzX",
+        "username": "Exusiai159",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T14:56:02.000Z",
+        "description": "右派左人，天主教伊斯兰主义者，皇汉支黑，精日倭黑，恨国粉红，资本主义共产党，马列毛托洛茨基主义者，威权哈耶克自由主义者，自由市场计划经济主义者，统一分裂主义者，进步保守主义者，董志民女权主义者，皇满民国派，安那其有政府主义者，改良原教旨主义者，前现代后现代主义者，特雷森监狱网评员，左右脑互搏格斗家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fishing.com",
+                "end": 23,
+                "expanded_url": "http://fishing.com",
+                "start": 0,
+                "url": "https://t.co/BMdMIzGfJR"
+              }
+            ]
+          }
+        },
+        "id": "1852363899913527296",
+        "location": "通往特雷森之路",
+        "name": "哈基米修斯",
+        "pinned_tweet_id": "1931574523406790890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931672582392320000/azh30xG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 129,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/BMdMIzGfJR",
+        "username": "PeacemakerM1873",
+        "verified": false
+      }
+    ]
+  }
+}

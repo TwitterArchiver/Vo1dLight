@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1960295889022615661",
+    "created_at": "2025-08-26T17:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960391566641512769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2922785091",
+          "start": 0,
+          "username": "fuyusakaiori_"
+        },
+        {
+          "end": 27,
+          "id": "1880243174272282624",
+          "start": 15,
+          "username": "Yihan292477"
+        },
+        {
+          "end": 39,
+          "id": "1888525572432945152",
+          "start": 28,
+          "username": "CyberAmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960391566641512769",
+    "in_reply_to_user_id": "2922785091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960390137650860189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuyusakaiori_ @Yihan292477 @CyberAmiya 草，我不是很喜欢喝酒😖🍻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1960295889022615661",
+        "created_at": "2025-08-26T17:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960391566641512769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2922785091",
+              "start": 0,
+              "username": "fuyusakaiori_"
+            },
+            {
+              "end": 27,
+              "id": "1880243174272282624",
+              "start": 15,
+              "username": "Yihan292477"
+            },
+            {
+              "end": 39,
+              "id": "1888525572432945152",
+              "start": 28,
+              "username": "CyberAmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960391566641512769",
+        "in_reply_to_user_id": "2922785091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960390137650860189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuyusakaiori_ @Yihan292477 @CyberAmiya 草，我不是很喜欢喝酒😖🍻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2922785091",
+        "conversation_id": "1960295889022615661",
+        "created_at": "2025-08-26T17:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960390137650860189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880243174272282624",
+              "start": 0,
+              "username": "Yihan292477"
+            },
+            {
+              "end": 23,
+              "id": "1657466272240611329",
+              "start": 13,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 35,
+              "id": "1888525572432945152",
+              "start": 24,
+              "username": "CyberAmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960390137650860189",
+        "in_reply_to_user_id": "1880243174272282624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960387669256442316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihan292477 @Vo1dLight @CyberAmiya 我第一眼也看错了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 1141,
+          "like_count": 24448,
+          "listed_count": 8,
+          "media_count": 199,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-15T12:42:07.000Z",
+        "description": "物语厨︱吹吹人︱情绪垃圾桶︱涩图点赞bot",
+        "id": "2922785091",
+        "location": "现实和精神的夹缝",
+        "name": "ふゆさかいおり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936823973607571456/X9hqGLTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 834,
+          "like_count": 63725,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1478
+        },
+        "username": "fuyusakaiori_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T13:18:20.000Z",
+        "description": "Computer Science | RAG, DL | Bullet Chess 2500: https://t.co/LP1F46q08Y | Vibe coder :( | 175cm, 56kg | 目前不吃🍥",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chess.com/member/iloveca…",
+                "end": 71,
+                "expanded_url": "https://www.chess.com/member/ilovecatgirl987",
+                "start": 48,
+                "url": "https://t.co/LP1F46q08Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.neurosama.uk",
+                "end": 23,
+                "expanded_url": "https://blog.neurosama.uk",
+                "start": 0,
+                "url": "https://t.co/hSpX30fwyc"
+              }
+            ]
+          }
+        },
+        "id": "1880243174272282624",
+        "location": "Neuro-sama's Computer",
+        "name": "α",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953412967678296064/Ij_3MJut_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 120,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/hSpX30fwyc",
+        "username": "Yihan292477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T09:49:26.000Z",
+        "description": "",
+        "id": "1888525572432945152",
+        "name": "FCAT",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "CyberAmiya",
+        "verified": false
+      }
+    ]
+  }
+}

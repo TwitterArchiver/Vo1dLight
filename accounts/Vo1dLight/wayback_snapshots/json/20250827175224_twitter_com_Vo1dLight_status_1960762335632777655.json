@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1960726248294113468",
+    "created_at": "2025-08-27T17:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T18:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960762335632777655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960762335632777655",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960726248294113468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ 可爱😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960726238492024832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXmICMa4AAyojt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1960726248294113468",
+        "created_at": "2025-08-27T17:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T18:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960762335632777655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960762335632777655",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960726248294113468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ 可爱😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960726238492024832"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "conversation_id": "1960726248294113468",
+        "created_at": "2025-08-27T15:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960726248294113468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6wsHRsWbW",
+              "end": 28,
+              "expanded_url": "https://x.com/kujirarara_/status/1960726248294113468/photo/1",
+              "media_key": "3_1960726238492024832",
+              "start": 5,
+              "url": "https://t.co/Z6wsHRsWbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960726248294113468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1058,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "女仆装喵 https://t.co/Z6wsHRsWbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 1145,
+          "like_count": 24546,
+          "listed_count": 8,
+          "media_count": 200,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "Cities: Skylines player from China | Luxemburgist | She/Her | MtF | Chinese/English | 天际线相关/铁道相关/日常推 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "Lanjing_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943529284238548992/klMzxP2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 482,
+          "like_count": 72223,
+          "listed_count": 14,
+          "media_count": 1109,
+          "tweet_count": 4305
+        },
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

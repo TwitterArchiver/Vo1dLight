@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988080507087974402"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1987952118276518213",
+    "created_at": "2025-11-11T03:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T04:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988080509663211655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DMXuIUpvVG",
+          "end": 61,
+          "expanded_url": "https://x.com/Vo1dLight/status/1988080509663211655/photo/1",
+          "media_key": "3_1988080507087974402",
+          "start": 38,
+          "url": "https://t.co/DMXuIUpvVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988080509663211655",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987952118276518213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 或许这种可以考虑一下？字节搞的，也是独立于传统大学体系 https://t.co/DMXuIUpvVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988080507087974402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cUsBnbcAIdtzP.jpg",
+        "width": 254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988080507087974402"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1987952118276518213",
+        "created_at": "2025-11-11T03:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988080509663211655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMXuIUpvVG",
+              "end": 61,
+              "expanded_url": "https://x.com/Vo1dLight/status/1988080509663211655/photo/1",
+              "media_key": "3_1988080507087974402",
+              "start": 38,
+              "url": "https://t.co/DMXuIUpvVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988080509663211655",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987952118276518213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 或许这种可以考虑一下？字节搞的，也是独立于传统大学体系 https://t.co/DMXuIUpvVG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1987952118276518213",
+        "created_at": "2025-11-10T18:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987952118276518213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987952118276518213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10013,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反正我确认一件事情：我现在如果要找新工作，走正常面试渠道肯定是找不到的，学历上吃太多瘪了\n我在想我要不要自学一下高考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3515,
+          "following_count": 1276,
+          "like_count": 30788,
+          "listed_count": 10,
+          "media_count": 233,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI/❤️大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9192,
+          "following_count": 2987,
+          "like_count": 2874,
+          "listed_count": 34,
+          "media_count": 1109,
+          "tweet_count": 5641
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

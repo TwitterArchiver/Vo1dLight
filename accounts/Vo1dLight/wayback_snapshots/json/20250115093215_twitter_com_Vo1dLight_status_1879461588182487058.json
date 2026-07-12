@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1879196371250827281",
+    "created_at": "2025-01-15T09:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T10:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879461588182487058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841516630398124032",
+          "start": 0,
+          "username": "paxton696334661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879461588182487058",
+    "in_reply_to_user_id": "1841516630398124032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879196371250827281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paxton696334661 “中美关系希望在人民，基础在民间，未来在青年，活力在地方。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1879196371250827281",
+        "created_at": "2025-01-15T09:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T10:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879461588182487058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841516630398124032",
+              "start": 0,
+              "username": "paxton696334661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879461588182487058",
+        "in_reply_to_user_id": "1841516630398124032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879196371250827281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paxton696334661 “中美关系希望在人民，基础在民间，未来在青年，活力在地方。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841516630398124032",
+        "conversation_id": "1879196371250827281",
+        "created_at": "2025-01-14T15:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T16:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879196371250827281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879196371250827281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 75475,
+          "like_count": 814,
+          "quote_count": 13,
+          "reply_count": 110,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "看到小红书上中美交流\n我是很开心的\n你挺共也好，反共也好\n挺美也好，反美也罢\n\n请不要去打扰这种交流\n特别是下一代的交流\n\n中国人普遍英语很好\n未来会有更多美国人会中文\n\n人类社会就是这样的\n破事一堆却总有希望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but where&what is it? 🌠 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 🌠 bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 763,
+          "like_count": 6501,
+          "listed_count": 5,
+          "media_count": 100,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T16:32:41.000Z",
+        "description": "原维尼叔，复活了，推友找回中。一段神奇的经历，自由民主的政审你抗的住？🤣众所周知，我胆小，敏感话以后咱不说。原则跟以前一样，尊重事实，反双标，反裁剪事实，反瞎🐔帶節奏的。",
+        "id": "1841516630398124032",
+        "location": "Calgary, Alberta",
+        "name": "加拿大小老鼠",
+        "pinned_tweet_id": "1843873958049009854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866161970061463552/koWHjEn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 125,
+          "like_count": 7330,
+          "listed_count": 9,
+          "media_count": 518,
+          "tweet_count": 3674
+        },
+        "username": "paxton696334661",
+        "verified": false
+      }
+    ]
+  }
+}

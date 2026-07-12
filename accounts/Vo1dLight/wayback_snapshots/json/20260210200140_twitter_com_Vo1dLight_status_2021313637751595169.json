@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2021206533372248358",
+    "created_at": "2026-02-10T20:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T21:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021313637751595169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933059068144594944",
+          "start": 0,
+          "username": "Pont082179"
+        },
+        {
+          "end": 23,
+          "id": "1253165636210978817",
+          "start": 12,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021313637751595169",
+    "in_reply_to_user_id": "1933059068144594944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021282121805922304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pont082179 @Exusiai159 在适配但由于pc端本身的限制等maa的开发力度（目前）还比不上模拟器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2021206533372248358",
+        "created_at": "2026-02-10T20:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T21:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021313637751595169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933059068144594944",
+              "start": 0,
+              "username": "Pont082179"
+            },
+            {
+              "end": 23,
+              "id": "1253165636210978817",
+              "start": 12,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021313637751595169",
+        "in_reply_to_user_id": "1933059068144594944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021282121805922304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pont082179 @Exusiai159 在适配但由于pc端本身的限制等maa的开发力度（目前）还比不上模拟器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933059068144594944",
+        "conversation_id": "2021206533372248358",
+        "created_at": "2026-02-10T17:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021282121805922304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021282121805922304",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021276429296832786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 听说在适配🤔不过还好我也不是很依赖maa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 1544,
+          "like_count": 47966,
+          "listed_count": 11,
+          "media_count": 281,
+          "tweet_count": 2945
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T07:09:42.000Z",
+        "description": "A cyber drifter | 可以叫我指针or小特 | 🌈 | 纸片人正态控 | 随缘互fo | 鉴证🚫 | 会清三无账号 | 当朋友圈发 | 认出我请不要说出去",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pont83280",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pont83280",
+                "start": 0,
+                "url": "https://t.co/ySY6nU4iNA"
+              }
+            ]
+          }
+        },
+        "id": "1933059068144594944",
+        "location": "绒宝的萨米雪景球",
+        "name": "P.T. 小特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014060694917009408/2-3E1eQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 152,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/ySY6nU4iNA",
+        "username": "Pont082179",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "正太控，中推鹿野灸和能天使粉丝头子｜会转发正太NSFW🔞，如有介意请不要关注｜推特用来当日记本记录碎碎念｜数码产品迷，Windows平板爱好者，半个车迷｜禁极端歧视仇恨言论｜包含微量政治元素｜有大量政治内容的账号恕不回fo｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 115,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202665618526208/AijwsiNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 6555,
+          "like_count": 164190,
+          "listed_count": 11,
+          "media_count": 4882,
+          "tweet_count": 49444
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

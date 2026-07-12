@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2059877635661127701",
+    "created_at": "2026-05-28T08:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059913586353553444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        },
+        {
+          "end": 28,
+          "id": "1591672354668544000",
+          "start": 14,
+          "username": "TheStarryYoru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059913586353553444",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059895344260116728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage @TheStarryYoru 但味道确实还行，每次回成都都会吃\n不过没在上海吃过🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2059877635661127701",
+        "created_at": "2026-05-28T08:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059913586353553444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            },
+            {
+              "end": 28,
+              "id": "1591672354668544000",
+              "start": 14,
+              "username": "TheStarryYoru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059913586353553444",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059895344260116728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage @TheStarryYoru 但味道确实还行，每次回成都都会吃\n不过没在上海吃过🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1089936552694693889",
+        "conversation_id": "2059877635661127701",
+        "created_at": "2026-05-28T07:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059895344260116728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1591672354668544000",
+              "start": 0,
+              "username": "TheStarryYoru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059895344260116728",
+        "in_reply_to_user_id": "1591672354668544000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059877635661127701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheStarryYoru 排大队太痛苦了，除非有地方玩一玩等号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 1736,
+          "like_count": 65055,
+          "listed_count": 12,
+          "media_count": 329,
+          "tweet_count": 4095
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "家有乖乖小neko🐱: @Neko_65536 | a.k.a.神楽海月🪼 | 00后沪漂trash can主理人＆drudgery操盘手 | 🧀就是力量，法国就是🥓 | 料理＆烘焙爱好者 | 备用@Arti_grok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Neko_65536"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "Arti_grok"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽饭包蛋🥚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033837934999212032/QVUihXJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 405,
+          "like_count": 37183,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 7424
+        },
+        "username": "KaguraKurage",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T06:00:53.000Z",
+        "description": "垃圾专业主理人｜不登校｜二次元｜🏖& 📸& 🥘｜ 何以为我｜熟人勿扰\n等待并心怀希望吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/starmoonnight",
+                "end": 23,
+                "expanded_url": "https://ngl.link/starmoonnight",
+                "start": 0,
+                "url": "https://t.co/VDHIBkdEnJ"
+              }
+            ]
+          }
+        },
+        "id": "1591672354668544000",
+        "name": "Kira Star ✨",
+        "pinned_tweet_id": "2052978526442426866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004375214646595584/b2Ge4U08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 468,
+          "like_count": 5766,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/VDHIBkdEnJ",
+        "username": "TheStarryYoru",
+        "verified": false
+      }
+    ]
+  }
+}

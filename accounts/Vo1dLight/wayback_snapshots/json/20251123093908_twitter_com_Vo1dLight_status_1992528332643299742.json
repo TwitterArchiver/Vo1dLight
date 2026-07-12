@@ -1,0 +1,753 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992479392954740737",
+        "3_1992479477121921025"
+      ],
+      "media_source_tweet_id": [
+        "1992479749965598960",
+        "1992479749965598960"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1992528332643299742",
+    "created_at": "2025-11-23T09:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T10:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992528332643299742"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 70,
+          "normalized_text": "BlueArchive",
+          "probability": 0.7845,
+          "start": 60,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "cosplay"
+        },
+        {
+          "end": 71,
+          "start": 59,
+          "tag": "BlueArchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1364974470595710976",
+          "start": 3,
+          "username": "YunoMaya_Mania"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3U6eRSIIg",
+          "end": 95,
+          "expanded_url": "https://x.com/YunoMaya_Mania/status/1992479749965598960/photo/1",
+          "media_key": "3_1992479392954740737",
+          "start": 72,
+          "url": "https://t.co/Q3U6eRSIIg"
+        },
+        {
+          "display_url": "pic.x.com/Q3U6eRSIIg",
+          "end": 95,
+          "expanded_url": "https://x.com/YunoMaya_Mania/status/1992479749965598960/photo/1",
+          "media_key": "3_1992479477121921025",
+          "start": 72,
+          "url": "https://t.co/Q3U6eRSIIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992528332643299742",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992479749965598960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunoMaya_Mania: oh, how pretty you look, wow.\n#cosplay #BlueArchive https://t.co/Q3U6eRSIIg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2316,
+        "media_key": "3_1992479392954740737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a1c4dacAEB_vI.jpg",
+        "width": 3088
+      },
+      {
+        "height": 2432,
+        "media_key": "3_1992479477121921025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a1hyAbsAElIuS.jpg",
+        "width": 3243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992479392954740737",
+            "3_1992479477121921025"
+          ],
+          "media_source_tweet_id": [
+            "1992479749965598960",
+            "1992479749965598960"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1992528332643299742",
+        "created_at": "2025-11-23T09:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992528332643299742"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "BlueArchive",
+              "probability": 0.7845,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "cosplay"
+            },
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "BlueArchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1364974470595710976",
+              "start": 3,
+              "username": "YunoMaya_Mania"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3U6eRSIIg",
+              "end": 95,
+              "expanded_url": "https://x.com/YunoMaya_Mania/status/1992479749965598960/photo/1",
+              "media_key": "3_1992479392954740737",
+              "start": 72,
+              "url": "https://t.co/Q3U6eRSIIg"
+            },
+            {
+              "display_url": "pic.x.com/Q3U6eRSIIg",
+              "end": 95,
+              "expanded_url": "https://x.com/YunoMaya_Mania/status/1992479749965598960/photo/1",
+              "media_key": "3_1992479477121921025",
+              "start": 72,
+              "url": "https://t.co/Q3U6eRSIIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992528332643299742",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992479749965598960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunoMaya_Mania: oh, how pretty you look, wow.\n#cosplay #BlueArchive https://t.co/Q3U6eRSIIg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992479392954740737",
+            "3_1992479477121921025"
+          ]
+        },
+        "author_id": "1364974470595710976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1992479749965598960",
+        "created_at": "2025-11-23T06:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992479749965598960"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "BlueArchive",
+              "probability": 0.8501,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "cosplay"
+            },
+            {
+              "end": 51,
+              "start": 39,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3U6eRSIIg",
+              "end": 75,
+              "expanded_url": "https://x.com/YunoMaya_Mania/status/1992479749965598960/photo/1",
+              "media_key": "3_1992479392954740737",
+              "start": 52,
+              "url": "https://t.co/Q3U6eRSIIg"
+            },
+            {
+              "display_url": "pic.x.com/Q3U6eRSIIg",
+              "end": 75,
+              "expanded_url": "https://x.com/YunoMaya_Mania/status/1992479749965598960/photo/1",
+              "media_key": "3_1992479477121921025",
+              "start": 52,
+              "url": "https://t.co/Q3U6eRSIIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992479749965598960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 172,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "oh, how pretty you look, wow.\n#cosplay #BlueArchive https://t.co/Q3U6eRSIIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3588,
+          "following_count": 1321,
+          "like_count": 31786,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-25T16:24:12.000Z",
+        "description": "5'9\"(177cm)/147lb(67kg) / osu!mania RANKED mapper / EN/JP / Cosplayer and newbie rope enthusiast! 🪢\n\nFollows are appreciated! I love having new friends! 🤍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/12606730",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/12606730",
+                "start": 0,
+                "url": "https://t.co/xQdETFpwnm"
+              }
+            ]
+          }
+        },
+        "id": "1364974470595710976",
+        "location": "California",
+        "name": "YunoMaya~ゆのまや🏳️‍⚧️",
+        "pinned_tweet_id": "1991307431738290555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869732326580224/cBQUGLmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 218,
+          "like_count": 681,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/xQdETFpwnm",
+        "username": "YunoMaya_Mania",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2008363440625332496",
+    "created_at": "2026-01-06T08:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T09:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008461102225744017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008461102225744017",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008363440625332496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage 我数理方法和信号都没学明白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2008363440625332496",
+        "created_at": "2026-01-06T08:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008461102225744017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008461102225744017",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008363440625332496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage 我数理方法和信号都没学明白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1089936552694693889",
+        "conversation_id": "2008363440625332496",
+        "created_at": "2026-01-06T02:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008363440625332496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KaguraKurage/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/KaguraKurage/status/2008151008199991298",
+              "start": 119,
+              "url": "https://t.co/CxKVyG0PCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008363440625332496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008151008199991298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教训是不应该选一门难度甚至远高于数学物理方法、信号与系统的数学课作为交叉课程₍˄·͈༝·͈˄₎◞  ，还从来不听讲到考前才开始翻ppt学。好在考试只要46分就能不挂（但是主包某个30分大题几乎是一个字没写出来😭😭😭），事到如今只能祈祷了 https://t.co/CxKVyG0PCP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 1469,
+          "like_count": 42616,
+          "listed_count": 11,
+          "media_count": 265,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "neko🐱: @Neko_65536 | 00后沪漂trash can主理人＆drudgery操盘手 | 🧀就是力量，法国就是🥓 | 最耀眼的战绩:在床上和两只🦈搏斗并取胜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽 くらげ （寒假❄️还有16days）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005462955056664576/hgQIOUtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 391,
+          "like_count": 24103,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 5555
+        },
+        "username": "KaguraKurage",
+        "verified": false
+      }
+    ]
+  }
+}

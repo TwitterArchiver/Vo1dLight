@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1955237160837373952"
+      ],
+      "media_source_tweet_id": [
+        "1955237283868840279"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006393467879174443",
+    "created_at": "2025-12-31T15:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T16:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006393467879174443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1403699701774491650",
+          "start": 3,
+          "username": "enmzen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66cNQjP6Ka",
+          "end": 37,
+          "expanded_url": "https://x.com/bossgobu/status/1955237283868840279/video/1",
+          "media_key": "13_1955237160837373952",
+          "start": 14,
+          "url": "https://t.co/66cNQjP6Ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006393467879174443",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006311238599414018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enmzen: 🤯 https://t.co/66cNQjP6Ka"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19336,
+        "height": 386,
+        "media_key": "13_1955237160837373952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955237160837373952/img/2qgRmJJAgCfusM2_.jpg",
+        "public_metrics": {
+          "view_count": 13807
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955237160837373952/vid/avc1/450x270/arXa0r8IKCxYvDx7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955237160837373952/vid/avc1/644x386/-euQrgpKUg6b4y-t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955237160837373952/pl/GnMwGNnFb1RfiLpa.m3u8?v=cfc"
+          }
+        ],
+        "width": 644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955237160837373952"
+          ],
+          "media_source_tweet_id": [
+            "1955237283868840279"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006393467879174443",
+        "created_at": "2025-12-31T15:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006393467879174443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1403699701774491650",
+              "start": 3,
+              "username": "enmzen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/66cNQjP6Ka",
+              "end": 37,
+              "expanded_url": "https://x.com/bossgobu/status/1955237283868840279/video/1",
+              "media_key": "13_1955237160837373952",
+              "start": 14,
+              "url": "https://t.co/66cNQjP6Ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006393467879174443",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006311238599414018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enmzen: 🤯 https://t.co/66cNQjP6Ka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955237160837373952"
+          ],
+          "media_source_tweet_id": [
+            "1955237283868840279"
+          ]
+        },
+        "author_id": "1403699701774491650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006311238599414018",
+        "created_at": "2025-12-31T10:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006311238599414018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66cNQjP6Ka",
+              "end": 25,
+              "expanded_url": "https://x.com/bossgobu/status/1955237283868840279/video/1",
+              "media_key": "13_1955237160837373952",
+              "start": 2,
+              "url": "https://t.co/66cNQjP6Ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006311238599414018",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 5446,
+          "like_count": 550,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "🤯 https://t.co/66cNQjP6Ka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 1453,
+          "like_count": 40715,
+          "listed_count": 11,
+          "media_count": 262,
+          "tweet_count": 2472
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T13:04:37.000Z",
+        "description": "Just talking about what I like\nHinaringo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "troomteoom.straw.page",
+                "end": 23,
+                "expanded_url": "https://troomteoom.straw.page",
+                "start": 0,
+                "url": "https://t.co/e5bmmXRJM4"
+              }
+            ]
+          }
+        },
+        "id": "1403699701774491650",
+        "location": "18 | She/Her",
+        "name": "Cho",
+        "pinned_tweet_id": "1953735905367175569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006063440058552320/gJdBgFNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 116,
+          "like_count": 51494,
+          "listed_count": 4,
+          "media_count": 834,
+          "tweet_count": 40543
+        },
+        "url": "https://t.co/e5bmmXRJM4",
+        "username": "enmzen",
+        "verified": false
+      }
+    ]
+  }
+}

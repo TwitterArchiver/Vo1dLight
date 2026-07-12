@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1946927019339755595",
+    "created_at": "2025-07-21T11:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T12:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947258697211642032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947258697211642032",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 16,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946927019339755595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 欢迎来路对面的闵行交大玩喵（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1582,
+        "media_key": "3_1946927016608968704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTfzmyWsAAsdXm.jpg",
+        "width": 1433
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1946927019339755595",
+        "created_at": "2025-07-21T11:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T12:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947258697211642032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947258697211642032",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946927019339755595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 欢迎来路对面的闵行交大玩喵（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946927016608968704"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "1946927019339755595",
+        "created_at": "2025-07-20T13:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946927019339755595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLvqzGKd1a",
+              "end": 103,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/1946927019339755595/photo/1",
+              "media_key": "3_1946927016608968704",
+              "start": 80,
+              "url": "https://t.co/uLvqzGKd1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946927019339755595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 19768,
+          "like_count": 312,
+          "quote_count": 1,
+          "reply_count": 57,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在高考不理想下的最理想的结果：此分数线下最好的大学+理想的专业\n另外也是成功买上笔电了，华硕天选6Pro Ultra 9+RTX5060🥰\n三分高考，七分志愿 https://t.co/uLvqzGKd1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2908,
+          "following_count": 1094,
+          "like_count": 22960,
+          "listed_count": 8,
+          "media_count": 183,
+          "tweet_count": 1348
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手)｜「止まない雨はなく、明けない夜はない。」｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911369014296612864/trNoKSbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 827,
+          "like_count": 20729,
+          "listed_count": 6,
+          "media_count": 759,
+          "tweet_count": 9260
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

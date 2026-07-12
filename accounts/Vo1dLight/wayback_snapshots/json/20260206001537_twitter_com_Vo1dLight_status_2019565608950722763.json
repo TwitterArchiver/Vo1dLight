@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2019285093781753860",
+    "created_at": "2026-02-06T00:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T01:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019565608950722763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882697857393893376",
+          "start": 0,
+          "username": "8964reckless_"
+        },
+        {
+          "end": 24,
+          "id": "1493798238440538112",
+          "start": 15,
+          "username": "qiuyu_ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019565608950722763",
+    "in_reply_to_user_id": "1882697857393893376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019553960991007225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964reckless_ @qiuyu_ji 不是吧，一般猪肝红要去ww最容易的是证明自己不常住大陆（例如在外留学），和签证无关（？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2019553960991007225].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2019553960991007225",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2019553960991007225"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2019285093781753860",
+        "created_at": "2026-02-06T00:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T01:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019565608950722763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882697857393893376",
+              "start": 0,
+              "username": "8964reckless_"
+            },
+            {
+              "end": 24,
+              "id": "1493798238440538112",
+              "start": 15,
+              "username": "qiuyu_ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019565608950722763",
+        "in_reply_to_user_id": "1882697857393893376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019553960991007225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964reckless_ @qiuyu_ji 不是吧，一般猪肝红要去ww最容易的是证明自己不常住大陆（例如在外留学），和签证无关（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 1537,
+          "like_count": 47262,
+          "listed_count": 11,
+          "media_count": 281,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "温顺，善良，亲近人类：",
+        "id": "1882697857393893376",
+        "location": "Nowhere",
+        "name": "sakuta_02",
+        "pinned_tweet_id": "1994675685655548160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019295072903393284/ZZVojFQP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 202,
+          "like_count": 7688,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 2021
+        },
+        "username": "8964reckless_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T04:04:05.000Z",
+        "description": "男｜ 别问那么多，我们明天就要死亡。",
+        "id": "1493798238440538112",
+        "name": "秋雨夜",
+        "pinned_tweet_id": "2001318918519161010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726173198038061056/_n7qFNEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 881,
+          "like_count": 107699,
+          "listed_count": 16,
+          "media_count": 245,
+          "tweet_count": 5516
+        },
+        "username": "qiuyu_ji",
+        "verified": false
+      }
+    ]
+  }
+}

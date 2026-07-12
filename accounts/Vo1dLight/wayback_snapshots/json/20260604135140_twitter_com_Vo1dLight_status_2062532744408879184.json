@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2062501469216198905",
+    "created_at": "2026-06-04T13:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062532744408879184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564251283984650241",
+          "start": 0,
+          "username": "Citricat_miaow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062532744408879184",
+    "in_reply_to_user_id": "1564251283984650241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062501469216198905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citricat_miaow 眼睛瞎在latex上，电脑黏在latex上♫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2062501469216198905",
+        "created_at": "2026-06-04T13:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062532744408879184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564251283984650241",
+              "start": 0,
+              "username": "Citricat_miaow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062532744408879184",
+        "in_reply_to_user_id": "1564251283984650241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062501469216198905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citricat_miaow 眼睛瞎在latex上，电脑黏在latex上♫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564251283984650241",
+        "conversation_id": "2062501469216198905",
+        "created_at": "2026-06-04T11:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062501469216198905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nankyuseiichi/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/nankyuseiichi/status/2062410187810525267",
+              "start": 15,
+              "url": "https://t.co/zBOhX2L1D0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062501469216198905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062410187810525267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时间都花latex上了怎么办 https://t.co/zBOhX2L1D0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4266,
+          "following_count": 1767,
+          "like_count": 66058,
+          "listed_count": 12,
+          "media_count": 333,
+          "tweet_count": 4188
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T13:59:12.000Z",
+        "description": "bisexual with gf,she/her, Language: Chinese, English, channy. Dynamics",
+        "id": "1564251283984650241",
+        "location": "Mitochondria ",
+        "name": "Citric acid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663411578467938305/ypoACmu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 678,
+          "like_count": 11805,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 5605
+        },
+        "username": "Citricat_miaow",
+        "verified": true
+      }
+    ]
+  }
+}

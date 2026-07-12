@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1842614808169873671",
+    "created_at": "2024-10-05T17:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T18:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842619894103478657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821055353834131456",
+          "start": 0,
+          "username": "mzd1968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842619894103478657",
+    "in_reply_to_user_id": "1821055353834131456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842614808169873671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzd1968 华为么，我记得一般安卓是自带谷歌框架的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1842614808169873671",
+        "created_at": "2024-10-05T17:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T18:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842619894103478657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821055353834131456",
+              "start": 0,
+              "username": "mzd1968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842619894103478657",
+        "in_reply_to_user_id": "1821055353834131456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842614808169873671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzd1968 华为么，我记得一般安卓是自带谷歌框架的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821055353834131456",
+        "conversation_id": "1842614808169873671",
+        "created_at": "2024-10-05T17:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T18:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842614808169873671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842614808169873671",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我下载谷歌框架显示解析包错误？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭 | 不像逃生仓的逃生仓😎 @MillWestCorp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "MillWestCorp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 165,
+          "like_count": 876,
+          "listed_count": 0,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T05:26:52.000Z",
+        "description": "会回关，没回就是没看到可以私信/毛左，倾向于支持建制/毛泽东思想拯救世界/吴非的主人/司马套皮扑街仔@aoxiongdiguo5 @mzd1967 /bot：@xijinping_bot @aoxiongdiguo8/🌟💢@Mizuki_8964 @ANON_SHANGHAI/不再对线",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "aoxiongdiguo5"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "mzd1967"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "xijinping_bot"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "aoxiongdiguo8"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Mizuki_8964"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "ANON_SHANGHAI"
+              }
+            ]
+          }
+        },
+        "id": "1821055353834131456",
+        "location": "就感觉到快",
+        "name": "陈伯达",
+        "pinned_tweet_id": "1835418772254937495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841120918480863232/eBG7MDrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 992,
+          "like_count": 5387,
+          "listed_count": 2,
+          "tweet_count": 4427
+        },
+        "username": "mzd1968",
+        "verified": false
+      }
+    ]
+  }
+}

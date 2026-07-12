@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2070473397570789886",
+    "created_at": "2026-06-27T06:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070755134859309405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1607023699877847040",
+          "start": 0,
+          "username": "justdrowren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070755134859309405",
+    "in_reply_to_user_id": "1607023699877847040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070701693331976434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justdrowren 学外语tv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2070473397570789886",
+        "created_at": "2026-06-27T06:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070755134859309405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1607023699877847040",
+              "start": 0,
+              "username": "justdrowren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070755134859309405",
+        "in_reply_to_user_id": "1607023699877847040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070701693331976434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justdrowren 学外语tv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607023699877847040",
+        "conversation_id": "2070473397570789886",
+        "created_at": "2026-06-27T02:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070701693331976434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070701693331976434",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070473397570789886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 色诱老师让他给满分就能睡个好觉了（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340,
+          "following_count": 1829,
+          "like_count": 69526,
+          "listed_count": 13,
+          "media_count": 341,
+          "tweet_count": 4352
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-25T14:41:29.000Z",
+        "description": "含糖mtf｜泛性恋｜百合が大好き｜我真的很软很乖不信你可以rua一下，也欢迎找我聊天｜随缘写点呓语和文摘\n匿名提问箱📦 https://t.co/Fj89nDTaTw\n学术号@Lumosxacc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "Lumosxacc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/wren29696",
+                "end": 83,
+                "expanded_url": "https://ngl.link/wren29696",
+                "start": 60,
+                "url": "https://t.co/Fj89nDTaTw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/justdrowren",
+                "end": 23,
+                "expanded_url": "http://t.me/justdrowren",
+                "start": 0,
+                "url": "https://t.co/1PvSFTNDj9"
+              }
+            ]
+          }
+        },
+        "id": "1607023699877847040",
+        "name": "Wren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056302297018449920/-fiWndx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 688,
+          "like_count": 803,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/1PvSFTNDj9",
+        "username": "justdrowren",
+        "verified": true
+      }
+    ]
+  }
+}

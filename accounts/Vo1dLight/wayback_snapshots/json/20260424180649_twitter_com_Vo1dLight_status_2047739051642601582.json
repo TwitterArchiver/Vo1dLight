@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2047689590589559150",
+    "created_at": "2026-04-24T18:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047739051642601582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311608169269923841",
+          "start": 0,
+          "username": "g60Yts1kvzO4g8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047739051642601582",
+    "in_reply_to_user_id": "1311608169269923841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047689590589559150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g60Yts1kvzO4g8q 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2047689435798802432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrasVcbkAAWGJd.jpg",
+        "width": 1920
+      },
+      {
+        "height": 960,
+        "media_key": "3_2047689462206152704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrat30bwAAkMwC.jpg",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "media_key": "3_2047689544129249280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGraypAbAAAtdWa.jpg",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "media_key": "3_2047689578212159488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGra0n-a8AAloCz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2047689590589559150",
+        "created_at": "2026-04-24T18:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047739051642601582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311608169269923841",
+              "start": 0,
+              "username": "g60Yts1kvzO4g8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047739051642601582",
+        "in_reply_to_user_id": "1311608169269923841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047689590589559150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g60Yts1kvzO4g8q 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047689435798802432",
+            "3_2047689462206152704",
+            "3_2047689544129249280",
+            "3_2047689578212159488"
+          ]
+        },
+        "author_id": "1311608169269923841",
+        "conversation_id": "2047689590589559150",
+        "created_at": "2026-04-24T14:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047689590589559150"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCLsasR6rY",
+              "end": 40,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2047689590589559150/photo/1",
+              "media_key": "3_2047689435798802432",
+              "start": 17,
+              "url": "https://t.co/aCLsasR6rY"
+            },
+            {
+              "display_url": "pic.x.com/aCLsasR6rY",
+              "end": 40,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2047689590589559150/photo/1",
+              "media_key": "3_2047689462206152704",
+              "start": 17,
+              "url": "https://t.co/aCLsasR6rY"
+            },
+            {
+              "display_url": "pic.x.com/aCLsasR6rY",
+              "end": 40,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2047689590589559150/photo/1",
+              "media_key": "3_2047689544129249280",
+              "start": 17,
+              "url": "https://t.co/aCLsasR6rY"
+            },
+            {
+              "display_url": "pic.x.com/aCLsasR6rY",
+              "end": 40,
+              "expanded_url": "https://x.com/g60Yts1kvzO4g8q/status/2047689590589559150/photo/1",
+              "media_key": "3_2047689578212159488",
+              "start": 17,
+              "url": "https://t.co/aCLsasR6rY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047689590589559150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 811,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子一个人在家会怎么样 #男娘 https://t.co/aCLsasR6rY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4011,
+          "following_count": 1691,
+          "like_count": 62251,
+          "listed_count": 10,
+          "media_count": 316,
+          "tweet_count": 3827
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T10:05:45.000Z",
+        "description": "萌萌人要及时补充萌萌能量…不然就会死翘翘qwq",
+        "id": "1311608169269923841",
+        "location": "Taiwan",
+        "name": "素桐桐桐",
+        "pinned_tweet_id": "2046500844645048431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766384484234969088/yX3_HWYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 503,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 637
+        },
+        "username": "g60Yts1kvzO4g8q",
+        "verified": false
+      }
+    ]
+  }
+}

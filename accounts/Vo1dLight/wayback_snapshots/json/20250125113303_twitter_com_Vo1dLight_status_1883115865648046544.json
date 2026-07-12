@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1883077869620056225",
+    "created_at": "2025-01-25T11:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T12:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883115865648046544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "831495289441628160",
+          "start": 0,
+          "username": "changwei1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883115865648046544",
+    "in_reply_to_user_id": "831495289441628160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883077869620056225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changwei1006 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1883077869620056225",
+        "created_at": "2025-01-25T11:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883115865648046544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883115865648046544",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883077869620056225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883077865832611841",
+            "3_1883077865887211520"
+          ]
+        },
+        "author_id": "831495289441628160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883077869620056225",
+        "created_at": "2025-01-25T09:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T10:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883077869620056225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mza2gT439",
+              "end": 25,
+              "expanded_url": "https://x.com/changwei1006/status/1883077869620056225/photo/1",
+              "media_key": "3_1883077865832611841",
+              "start": 2,
+              "url": "https://t.co/6mza2gT439"
+            },
+            {
+              "display_url": "pic.x.com/6mza2gT439",
+              "end": 25,
+              "expanded_url": "https://x.com/changwei1006/status/1883077869620056225/photo/1",
+              "media_key": "3_1883077865887211520",
+              "start": 2,
+              "url": "https://t.co/6mza2gT439"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00180402799fed03"
+        },
+        "id": "1883077869620056225",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1616,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/6mza2gT439"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 友跨🏳️‍⚧️友所有人🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 823,
+          "like_count": 7203,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "Computer Science&Electronic Engineering💻/CrossDresser🌈/ WSPC/NTUST ECE/PingCAP FrontEnd https://t.co/lHrG2ZN1A4\n\nQQ/WeChat:867597730 Weibo FB 知乎 Instagram同名\n\n无性恋&纯爱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/cw1997",
+                "end": 111,
+                "expanded_url": "http://github.com/cw1997",
+                "start": 88,
+                "url": "https://t.co/lHrG2ZN1A4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "http://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/NH0oiOZsBc"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17342,
+          "following_count": 4202,
+          "like_count": 103809,
+          "listed_count": 137,
+          "media_count": 5151,
+          "tweet_count": 16461
+        },
+        "url": "https://t.co/NH0oiOZsBc",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

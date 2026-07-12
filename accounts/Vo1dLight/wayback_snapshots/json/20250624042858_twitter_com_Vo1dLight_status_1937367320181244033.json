@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937006168804655104",
+        "3_1937006167990919168"
+      ],
+      "media_source_tweet_id": [
+        "1937006172604936267",
+        "1937006172604936267"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1937367320181244033",
+    "created_at": "2025-06-24T04:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T05:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937367320181244033"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "药娘"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "伪娘"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "男娘"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "男の娘"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "过膝袜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1587651127582941185",
+          "start": 3,
+          "username": "xiangweixin123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IiTLnWSPTY",
+          "end": 72,
+          "expanded_url": "https://x.com/xiangweixin123/status/1937006172604936267/photo/1",
+          "media_key": "3_1937006168804655104",
+          "start": 49,
+          "url": "https://t.co/IiTLnWSPTY"
+        },
+        {
+          "display_url": "pic.x.com/IiTLnWSPTY",
+          "end": 72,
+          "expanded_url": "https://x.com/xiangweixin123/status/1937006172604936267/photo/1",
+          "media_key": "3_1937006167990919168",
+          "start": 49,
+          "url": "https://t.co/IiTLnWSPTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937367320181244033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937006172604936267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiangweixin123: 条纹yyds\n#药娘 #伪娘 #男娘 #男の娘 #过膝袜 https://t.co/IiTLnWSPTY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1937006168804655104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGg2QtXgAAeVNG.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1937006167990919168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGg2NrW4AAN0La.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937006168804655104",
+            "3_1937006167990919168"
+          ],
+          "media_source_tweet_id": [
+            "1937006172604936267",
+            "1937006172604936267"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1937367320181244033",
+        "created_at": "2025-06-24T04:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937367320181244033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "药娘"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "伪娘"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "男娘"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "男の娘"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "过膝袜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1587651127582941185",
+              "start": 3,
+              "username": "xiangweixin123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiTLnWSPTY",
+              "end": 72,
+              "expanded_url": "https://x.com/xiangweixin123/status/1937006172604936267/photo/1",
+              "media_key": "3_1937006168804655104",
+              "start": 49,
+              "url": "https://t.co/IiTLnWSPTY"
+            },
+            {
+              "display_url": "pic.x.com/IiTLnWSPTY",
+              "end": 72,
+              "expanded_url": "https://x.com/xiangweixin123/status/1937006172604936267/photo/1",
+              "media_key": "3_1937006167990919168",
+              "start": 49,
+              "url": "https://t.co/IiTLnWSPTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937367320181244033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937006172604936267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiangweixin123: 条纹yyds\n#药娘 #伪娘 #男娘 #男の娘 #过膝袜 https://t.co/IiTLnWSPTY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937006168804655104",
+            "3_1937006167990919168"
+          ]
+        },
+        "author_id": "1587651127582941185",
+        "conversation_id": "1937006172604936267",
+        "created_at": "2025-06-23T04:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T05:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937006172604936267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "药娘"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "伪娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "男の娘"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "过膝袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiTLnWSPTY",
+              "end": 52,
+              "expanded_url": "https://x.com/xiangweixin123/status/1937006172604936267/photo/1",
+              "media_key": "3_1937006168804655104",
+              "start": 29,
+              "url": "https://t.co/IiTLnWSPTY"
+            },
+            {
+              "display_url": "pic.x.com/IiTLnWSPTY",
+              "end": 52,
+              "expanded_url": "https://x.com/xiangweixin123/status/1937006172604936267/photo/1",
+              "media_key": "3_1937006167990919168",
+              "start": 29,
+              "url": "https://t.co/IiTLnWSPTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937006172604936267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1102,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "条纹yyds\n#药娘 #伪娘 #男娘 #男の娘 #过膝袜 https://t.co/IiTLnWSPTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 1062,
+          "like_count": 20273,
+          "listed_count": 8,
+          "media_count": 170,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:42:08.000Z",
+        "description": "我一直在哭💦07年mtf｜161cm 41kg｜od｜水色系好き｜圆角中｜坐标山西↔️北京（可空降）｜互推互fo🉑｜阴暗逼🔪致歉",
+        "id": "1587651127582941185",
+        "location": "🚪58r 日常＆定制＆问价➕小福利",
+        "name": "巷尾信🏳️‍⚧️",
+        "pinned_tweet_id": "1913655643287982589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936768392171511808/5IRPC6-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 91,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 59
+        },
+        "username": "xiangweixin123",
+        "verified": false
+      }
+    ]
+  }
+}

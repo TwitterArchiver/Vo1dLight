@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2032446304580690326",
+    "created_at": "2026-03-13T18:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T19:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032519020587716636"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Microsoft",
+          "probability": 0.9227,
+          "start": 22,
+          "type": "Organization"
+        },
+        {
+          "end": 78,
+          "normalized_text": "Microsoft Copilot",
+          "probability": 0.8342,
+          "start": 62,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836490059417006081",
+          "start": 0,
+          "username": "scheminglunatic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032519020587716636",
+    "in_reply_to_user_id": "1657466272240611329",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032518379983221134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scheminglunatic Then Microsoft can replace the compiler with Microsoft Copilot and source code passed into a llm and it will output the executable. So now we have an \"AI-native\" compiler."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2032446304580690326",
+        "created_at": "2026-03-13T18:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032519020587716636"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Microsoft",
+              "probability": 0.9227,
+              "start": 22,
+              "type": "Organization"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Microsoft Copilot",
+              "probability": 0.8342,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836490059417006081",
+              "start": 0,
+              "username": "scheminglunatic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032519020587716636",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032518379983221134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scheminglunatic Then Microsoft can replace the compiler with Microsoft Copilot and source code passed into a llm and it will output the executable. So now we have an \"AI-native\" compiler."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          }
+        ],
+        "conversation_id": "2032446304580690326",
+        "created_at": "2026-03-13T18:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032518379983221134"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Microsoft",
+              "probability": 0.9298,
+              "start": 47,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836490059417006081",
+              "start": 0,
+              "username": "scheminglunatic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032518379983221134",
+        "in_reply_to_user_id": "1836490059417006081",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032446304580690326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scheminglunatic It's \"visual\" C++, so I think Microsoft should add multimodal support."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3889,
+          "following_count": 1602,
+          "like_count": 54473,
+          "listed_count": 11,
+          "media_count": 293,
+          "tweet_count": 3307
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T19:38:52.000Z",
+        "description": "pure, lazy, immutable ✝️ \n\n#TRAD_YAOI🇸🇱🚬\n#AuDHD_NetSlop🧩🚂 \n#I_Heil_The_Black_Cube🕋🪐\n#Frutiger_Klepto🎸🏦\n#Alcuinian_Ultrafinitism🏭🔢",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 27,
+                "tag": "TRAD_YAOI"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "tag": "AuDHD_NetSlop"
+              },
+              {
+                "end": 81,
+                "start": 59,
+                "tag": "I_Heil_The_Black_Cube"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "tag": "Frutiger_Klepto"
+              },
+              {
+                "end": 127,
+                "start": 103,
+                "tag": "Alcuinian_Ultrafinitism"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "langsec.org",
+                "end": 23,
+                "expanded_url": "https://langsec.org/",
+                "start": 0,
+                "url": "https://t.co/C9cxRsKJkn"
+              }
+            ]
+          }
+        },
+        "id": "1836490059417006081",
+        "location": "washington dc",
+        "name": "alcuin ❄️",
+        "pinned_tweet_id": "2032458424932307106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836491906877947904/1XYrXkDk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6572,
+          "following_count": 1433,
+          "like_count": 47387,
+          "listed_count": 68,
+          "media_count": 12125,
+          "tweet_count": 128515
+        },
+        "url": "https://t.co/C9cxRsKJkn",
+        "username": "scheminglunatic",
+        "verified": true
+      }
+    ]
+  }
+}

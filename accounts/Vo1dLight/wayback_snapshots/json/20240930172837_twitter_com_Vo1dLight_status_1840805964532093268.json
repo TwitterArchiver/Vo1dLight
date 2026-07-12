@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1834815126895271957",
+    "created_at": "2024-09-30T17:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T18:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840805964532093268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1251683064100446209",
+          "start": 0,
+          "username": "XOXIIIXX1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840805964532093268",
+    "in_reply_to_user_id": "1251683064100446209",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840800378990051451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XOXIIIXX1 歌词😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1834815126895271957",
+        "created_at": "2024-09-30T17:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T18:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840805964532093268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1251683064100446209",
+              "start": 0,
+              "username": "XOXIIIXX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840805964532093268",
+        "in_reply_to_user_id": "1251683064100446209",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840800378990051451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XOXIIIXX1 歌词😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251683064100446209",
+        "conversation_id": "1834815126895271957",
+        "created_at": "2024-09-30T17:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T18:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840800378990051451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840800378990051451",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834815126895271957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 别机翻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 157,
+          "like_count": 823,
+          "listed_count": 0,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T01:24:43.000Z",
+        "description": "",
+        "id": "1251683064100446209",
+        "name": "鈴屋ピ子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840799163568832514/5JQinzUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 172,
+          "like_count": 818,
+          "listed_count": 2,
+          "tweet_count": 8
+        },
+        "username": "XOXIIIXX1",
+        "verified": false
+      }
+    ]
+  }
+}

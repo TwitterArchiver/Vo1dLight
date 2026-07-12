@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1983867505451164104",
+    "created_at": "2025-10-30T12:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983871486424453503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        },
+        {
+          "end": 27,
+          "id": "2840236608",
+          "start": 14,
+          "username": "MilkStarNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983871486424453503",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983870787481383001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage @MilkStarNeko 上海也要收，可能是江浙沪分公司的规矩吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1983867505451164104",
+        "created_at": "2025-10-30T12:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983871486424453503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            },
+            {
+              "end": 27,
+              "id": "2840236608",
+              "start": 14,
+              "username": "MilkStarNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983871486424453503",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983870787481383001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage @MilkStarNeko 上海也要收，可能是江浙沪分公司的规矩吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1089936552694693889",
+        "conversation_id": "1983867505451164104",
+        "created_at": "2025-10-30T12:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983870787481383001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkStarNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983870787481383001",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983867505451164104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkStarNeko 诶 一直以为萨纸巾都要收费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3543,
+          "following_count": 1275,
+          "like_count": 30212,
+          "listed_count": 11,
+          "media_count": 228,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "neko🐱: @Neko_65536",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽 くらげ （snoozing💤）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978787829577891840/LHYVPwuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 315,
+          "like_count": 8996,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2485
+        },
+        "username": "KaguraKurage",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "牛奶貓🐈系統&水母🪼系統。バグバウンティハンター（見習い）Rust🦀。Co-Founder of @0xSomeLab。貓抓板 @StarNekOvO。杭州・シンガポール・東京・深圳・重慶あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜已失去夢想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "0xSomeLab"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBbua"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979924394630619136/ScimS47h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4198,
+          "following_count": 1951,
+          "like_count": 29875,
+          "listed_count": 16,
+          "media_count": 1239,
+          "tweet_count": 10402
+        },
+        "url": "https://t.co/nVL53sBbua",
+        "username": "MilkStarNeko",
+        "verified": true
+      }
+    ]
+  }
+}

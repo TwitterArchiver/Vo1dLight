@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1870495338240585948",
+    "created_at": "2024-12-21T18:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T19:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870536389496099174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。. Contribute to Predidit/Kazumi development by creating an account on GitHub.",
+          "display_url": "github.com/Predidit/Kazumi",
+          "end": 46,
+          "expanded_url": "https://github.com/Predidit/Kazumi",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1870536395506528257/VgqnP4CS?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1870536395506528257/VgqnP4CS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 23,
+          "status": 200,
+          "title": "GitHub - Predidit/Kazumi: 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。",
+          "unwound_url": "https://github.com/Predidit/Kazumi",
+          "url": "https://t.co/zv53HcH1Tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870536389496099174",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870495338240585948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 楼上提到的kazumi+1\nhttps://t.co/zv53HcH1Tv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1870495338240585948",
+        "created_at": "2024-12-21T18:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T19:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870536389496099174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。. Contribute to Predidit/Kazumi development by creating an account on GitHub.",
+              "display_url": "github.com/Predidit/Kazumi",
+              "end": 46,
+              "expanded_url": "https://github.com/Predidit/Kazumi",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1870536395506528257/VgqnP4CS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1870536395506528257/VgqnP4CS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "GitHub - Predidit/Kazumi: 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。",
+              "unwound_url": "https://github.com/Predidit/Kazumi",
+              "url": "https://t.co/zv53HcH1Tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870536389496099174",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870495338240585948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 楼上提到的kazumi+1\nhttps://t.co/zv53HcH1Tv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1870495338240585948",
+        "created_at": "2024-12-21T15:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T16:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870495338240585948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870495338240585948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 331,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说泥门现在用什么资源站看番\n窝记得之前omofun挺好的弹幕也多\n后面跑路了（悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 无聊的理工男，视穿小裙子为解压与逃避😖 | 183/63 我好羡慕天赋党哇😭 | 小号@Vo1dL1ght\nAn average nerd and a crossdresser, trying to live the life I love, but where is it?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869077503278813184/1c3WnOzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 657,
+          "like_count": 4694,
+          "listed_count": 6,
+          "media_count": 88,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998,
+          "following_count": 1744,
+          "like_count": 114851,
+          "listed_count": 13,
+          "media_count": 1822,
+          "tweet_count": 27662
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

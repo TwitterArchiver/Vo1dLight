@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934955275599183872"
+      ],
+      "media_source_tweet_id": [
+        "1934955279143391599"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1935199810833002813",
+    "created_at": "2025-06-18T04:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T05:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935199810833002813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1934213219725520896",
+          "start": 3,
+          "username": "7Lumine7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HEzLfCr3lx",
+          "end": 45,
+          "expanded_url": "https://x.com/7Lumine7/status/1934955279143391599/photo/1",
+          "media_key": "3_1934955275599183872",
+          "start": 22,
+          "url": "https://t.co/HEzLfCr3lx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935199810833002813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934955279143391599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7Lumine7: 下一套拍什么🤔 https://t.co/HEzLfCr3lx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1934955275599183872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtpXkkJbgAAy3FD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934955275599183872"
+          ],
+          "media_source_tweet_id": [
+            "1934955279143391599"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1935199810833002813",
+        "created_at": "2025-06-18T04:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T05:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935199810833002813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934213219725520896",
+              "start": 3,
+              "username": "7Lumine7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEzLfCr3lx",
+              "end": 45,
+              "expanded_url": "https://x.com/7Lumine7/status/1934955279143391599/photo/1",
+              "media_key": "3_1934955275599183872",
+              "start": 22,
+              "url": "https://t.co/HEzLfCr3lx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935199810833002813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934955279143391599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7Lumine7: 下一套拍什么🤔 https://t.co/HEzLfCr3lx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934955275599183872"
+          ]
+        },
+        "author_id": "1934213219725520896",
+        "conversation_id": "1934955279143391599",
+        "created_at": "2025-06-17T12:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934955279143391599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEzLfCr3lx",
+              "end": 31,
+              "expanded_url": "https://x.com/7Lumine7/status/1934955279143391599/photo/1",
+              "media_key": "3_1934955275599183872",
+              "start": 8,
+              "url": "https://t.co/HEzLfCr3lx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934955279143391599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "下一套拍什么🤔 https://t.co/HEzLfCr3lx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 1048,
+          "like_count": 18447,
+          "listed_count": 8,
+          "media_count": 168,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T11:35:56.000Z",
+        "description": "Master's degree in progress | Majoring in Cyber  Security | Crossdresser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.snowflake.zone",
+                "end": 23,
+                "expanded_url": "https://blog.snowflake.zone/",
+                "start": 0,
+                "url": "https://t.co/Jw985dijrg"
+              }
+            ]
+          }
+        },
+        "id": "1934213219725520896",
+        "location": "China",
+        "name": "Lumine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934213868282404864/URG2FXE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/Jw985dijrg",
+        "username": "7Lumine7",
+        "verified": false
+      }
+    ]
+  }
+}

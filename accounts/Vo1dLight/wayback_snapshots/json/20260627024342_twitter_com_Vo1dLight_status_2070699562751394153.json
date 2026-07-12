@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2070633076750000282",
+    "created_at": "2026-06-27T02:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070699562751394153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1165672819",
+          "start": 0,
+          "username": "shibainu_vodka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070699562751394153",
+    "in_reply_to_user_id": "1165672819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070633076750000282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shibainu_vodka 还有泥七的事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 306,
+        "media_key": "3_2070633073927213056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxdz1-bUAAfPYf.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2070633076750000282",
+        "created_at": "2026-06-27T02:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070699562751394153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1165672819",
+              "start": 0,
+              "username": "shibainu_vodka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070699562751394153",
+        "in_reply_to_user_id": "1165672819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070633076750000282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shibainu_vodka 还有泥七的事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070633073927213056"
+          ]
+        },
+        "author_id": "1165672819",
+        "conversation_id": "2070633076750000282",
+        "created_at": "2026-06-26T22:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070633076750000282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ObsHEaZdu",
+              "end": 109,
+              "expanded_url": "https://x.com/shibainu_vodka/status/2070633076750000282/photo/1",
+              "media_key": "3_2070633073927213056",
+              "start": 86,
+              "url": "https://t.co/7ObsHEaZdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070633076750000282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 809,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "So fucking cringe. 一辈子活在自己的小“精英”圈子里不去接触其他人有啥好拿出来吹的。\n点进去一看，果然底下有北京四中的留言。是专门给大家提供吐槽素材吗。 https://t.co/7ObsHEaZdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 1827,
+          "like_count": 69471,
+          "listed_count": 13,
+          "media_count": 341,
+          "tweet_count": 4350
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-10T11:33:11.000Z",
+        "description": "Falling star in EECS。粗糙理想主义的柴犬。发学术(Theoretical CS)/ACG/电影/文学相关推。喜欢古典和爵士乐，喜欢Lo/JK/vintage穿搭。Very cynical, 来推特上构造一个理想的地狱。粉红和川粉会直接拉黑。",
+        "id": "1165672819",
+        "location": "Cannes, France",
+        "name": "A Pervert’s Guide to Quantum Mechanics",
+        "pinned_tweet_id": "1345773529502019586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600922255495729160/3KGqJSMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4492,
+          "following_count": 3247,
+          "like_count": 176010,
+          "listed_count": 22,
+          "media_count": 1508,
+          "tweet_count": 25197
+        },
+        "url": "",
+        "username": "shibainu_vodka",
+        "verified": false
+      }
+    ]
+  }
+}

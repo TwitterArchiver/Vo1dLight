@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875158188309598209"
+      ],
+      "media_source_tweet_id": [
+        "1875160572049961137"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1875915077377032275",
+    "created_at": "2025-01-05T14:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T15:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875915077377032275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TewcUshtun",
+          "end": 42,
+          "expanded_url": "https://x.com/Alice__486/status/1875160572049961137/photo/1",
+          "media_key": "3_1875158188309598209",
+          "start": 19,
+          "url": "https://t.co/TewcUshtun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875915077377032275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875160572049961137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 小爱 https://t.co/TewcUshtun"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875915077377032275].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875915077377032275",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875915077377032275"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1875158188309598209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgXmb-_b0AEEN2B.jpg",
+        "width": 2744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875158188309598209"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "1875160572049961137",
+        "created_at": "2025-01-03T12:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T13:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875160572049961137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TewcUshtun",
+              "end": 26,
+              "expanded_url": "https://x.com/Alice__486/status/1875160572049961137/photo/1",
+              "media_key": "3_1875158188309598209",
+              "start": 3,
+              "url": "https://t.co/TewcUshtun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875160572049961137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1690,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "小爱 https://t.co/TewcUshtun"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but where&what is it? 🌠 理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 🌠 bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 732,
+          "like_count": 6201,
+          "listed_count": 5,
+          "media_count": 94,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "B站同名",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "1873758680073834847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20417,
+          "following_count": 1541,
+          "like_count": 51812,
+          "listed_count": 66,
+          "media_count": 714,
+          "tweet_count": 15008
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

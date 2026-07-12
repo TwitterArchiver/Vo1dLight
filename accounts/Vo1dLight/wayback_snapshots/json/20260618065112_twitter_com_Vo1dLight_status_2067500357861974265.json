@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2067491266489983145",
+    "created_at": "2026-06-18T06:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067500357861974265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        },
+        {
+          "end": 21,
+          "id": "1815768206910668800",
+          "start": 8,
+          "username": "aoidailylife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067500357861974265",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067491266489983145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns @aoidailylife 小可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067491158339776512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLE0QSUacAA1Lb0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2067491266489983145",
+        "created_at": "2026-06-18T06:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067500357861974265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            },
+            {
+              "end": 21,
+              "id": "1815768206910668800",
+              "start": 8,
+              "username": "aoidailylife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067500357861974265",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067491266489983145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns @aoidailylife 小可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067491158339776512"
+          ]
+        },
+        "author_id": "899470193776140289",
+        "conversation_id": "2067491266489983145",
+        "created_at": "2026-06-18T06:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067491266489983145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 145,
+              "id": "1815768206910668800",
+              "start": 132,
+              "username": "aoidailylife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnsyDIEMGX",
+              "end": 169,
+              "expanded_url": "https://x.com/hzqsns/status/2067491266489983145/photo/1",
+              "media_key": "3_2067491158339776512",
+              "start": 146,
+              "url": "https://t.co/ZnsyDIEMGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491266489983145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 145,
+                "id": "1815768206910668800",
+                "start": 132,
+                "username": "aoidailylife"
+              }
+            ]
+          },
+          "text": "我发现上班总有各种难以用中文翻译出来的英语词汇，比如最让我印象深的就是Regression这个词，我看他们有的时候开会一直说什么千万不要造成Regression\n\n但是我看中文意思这不就是什么回归测试的意思吗，为什么又说是造成回归是啥意思？？然后一脸懵逼\n\n最后问@aoidailylife 小可爱跟我说这个意思就是以前上线的代码work但是这次上线不work了就叫Regression（\n\n感觉英语这一块我还得有很大的学习空间啊，果然学校教的和工作用的日常说的都差距好大"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现上班总有各种难以用中文翻译出来的英语词汇，比如最让我印象深的就是Regression这个词，我看他们有的时候开会一直说什么千万不要造成Regression\n\n但是我看中文意思这不就是什么回归测试的意思吗，为什么又说是造成回归是啥意思？？然后一脸懵逼\n\n最后问@aoidailylife https://t.co/ZnsyDIEMGX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 1820,
+          "like_count": 68536,
+          "listed_count": 13,
+          "media_count": 338,
+          "tweet_count": 4310
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "ISFJ | mtx | 奇迹和魔法并不是免费的\n🐧：第40542075个质数\n欢迎和我交朋友ww\n自我介绍请看亮点置顶喵",
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2061076825389019435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060627202182651904/RO0pQWPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 538,
+          "like_count": 3484,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 2245
+        },
+        "url": "",
+        "username": "hzqsns",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T15:17:41.000Z",
+        "description": "intp | 🏳️‍⚧️ |🪴| 赛博猫猫 | 热爱探索一切未知的东西 | 全职维修炼丹炉的三流魔法使 | 日本語の勉強をしています",
+        "id": "1815768206910668800",
+        "name": "aoi今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908049464939679744/Y6R33B7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3125,
+          "following_count": 5139,
+          "like_count": 104366,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 3680
+        },
+        "url": "",
+        "username": "aoidailylife",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2024440102705881423",
+    "created_at": "2026-02-20T03:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024683189017448453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1451898340262645760",
+          "start": 0,
+          "username": "Naiwenel"
+        },
+        {
+          "end": 22,
+          "id": "1743620466231640064",
+          "start": 10,
+          "username": "lingodotdev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024683189017448453",
+    "in_reply_to_user_id": "1451898340262645760",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024682859626131919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiwenel @lingodotdev j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2024440102705881423",
+        "created_at": "2026-02-20T03:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024683189017448453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1451898340262645760",
+              "start": 0,
+              "username": "Naiwenel"
+            },
+            {
+              "end": 22,
+              "id": "1743620466231640064",
+              "start": 10,
+              "username": "lingodotdev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024683189017448453",
+        "in_reply_to_user_id": "1451898340262645760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024682859626131919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiwenel @lingodotdev j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451898340262645760",
+        "conversation_id": "2024440102705881423",
+        "created_at": "2026-02-20T03:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024682859626131919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743620466231640064",
+              "start": 0,
+              "username": "lingodotdev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024682859626131919",
+        "in_reply_to_user_id": "1743620466231640064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024440102705881423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingodotdev Then what should we use?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3900,
+          "following_count": 1574,
+          "like_count": 49305,
+          "listed_count": 11,
+          "media_count": 285,
+          "tweet_count": 3058
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T13:08:43.000Z",
+        "description": "这里是小涵~希望你能天天开心哦~ | they&them | 个人势Vup&Vtuber | 开源独立游戏开发者 | 发布的作品默认均遵循GPLv3协议",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naiwenel.com",
+                "end": 23,
+                "expanded_url": "http://www.naiwenel.com",
+                "start": 0,
+                "url": "https://t.co/pjAQTrYBYG"
+              }
+            ]
+          }
+        },
+        "id": "1451898340262645760",
+        "location": "乌托邦 Utopia ",
+        "name": "小涵Naiwenel",
+        "pinned_tweet_id": "1763787971818594679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843883663496458240/GypnDc1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 310,
+          "like_count": 105183,
+          "listed_count": 14,
+          "media_count": 2166,
+          "tweet_count": 22387
+        },
+        "url": "https://t.co/pjAQTrYBYG",
+        "username": "Naiwenel",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T13:08:25.000Z",
+        "description": "Create perfect translations for apps and content using the best LLM models.\n\nUsed by devs at @solana, @MistralAI, @Calcom and more. Backed by @ycombinator.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 93,
+                "username": "solana"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "MistralAI"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "Calcom"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "ycombinator"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lingo.dev",
+                "end": 23,
+                "expanded_url": "https://lingo.dev",
+                "start": 0,
+                "url": "https://t.co/MlMdlGIsKq"
+              }
+            ]
+          }
+        },
+        "id": "1743620466231640064",
+        "location": "The Internet",
+        "name": "Lingo.dev",
+        "pinned_tweet_id": "2024440102705881423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912969826303463424/fl7jlLlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10601,
+          "following_count": 2648,
+          "like_count": 59328,
+          "listed_count": 52,
+          "media_count": 7401,
+          "tweet_count": 50818
+        },
+        "url": "https://t.co/MlMdlGIsKq",
+        "username": "lingodotdev",
+        "verified": true
+      }
+    ]
+  }
+}

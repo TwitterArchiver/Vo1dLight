@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060244041368055808"
+      ],
+      "media_source_tweet_id": [
+        "2060244180149100555"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2060249105113477279",
+    "created_at": "2026-05-29T06:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060249105113477279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0UmmWYPMbl",
+          "end": 43,
+          "expanded_url": "https://x.com/Alice__486/status/2060244180149100555/photo/1",
+          "media_key": "3_2060244041368055808",
+          "start": 20,
+          "url": "https://t.co/0UmmWYPMbl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060249105113477279",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060244180149100555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 小外套 https://t.co/0UmmWYPMbl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3754,
+        "media_key": "3_2060244041368055808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd1CjxbsAAu0C7.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060244041368055808"
+          ],
+          "media_source_tweet_id": [
+            "2060244180149100555"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2060249105113477279",
+        "created_at": "2026-05-29T06:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060249105113477279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090136700741812224",
+              "start": 3,
+              "username": "Alice__486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UmmWYPMbl",
+              "end": 43,
+              "expanded_url": "https://x.com/Alice__486/status/2060244180149100555/photo/1",
+              "media_key": "3_2060244041368055808",
+              "start": 20,
+              "url": "https://t.co/0UmmWYPMbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060249105113477279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060244180149100555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alice__486: 小外套 https://t.co/0UmmWYPMbl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060244041368055808"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "2060244180149100555",
+        "created_at": "2026-05-29T06:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060244180149100555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UmmWYPMbl",
+              "end": 27,
+              "expanded_url": "https://x.com/Alice__486/status/2060244180149100555/photo/1",
+              "media_key": "3_2060244041368055808",
+              "start": 4,
+              "url": "https://t.co/0UmmWYPMbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060244180149100555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 88,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小外套 https://t.co/0UmmWYPMbl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 1739,
+          "like_count": 65250,
+          "listed_count": 12,
+          "media_count": 329,
+          "tweet_count": 4104
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "2024770539202695182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29188,
+          "following_count": 1711,
+          "like_count": 52837,
+          "listed_count": 101,
+          "media_count": 989,
+          "tweet_count": 15566
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

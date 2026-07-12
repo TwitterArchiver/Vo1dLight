@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1963147042739703935",
+    "created_at": "2025-09-03T08:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T09:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963162772038119730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        },
+        {
+          "end": 24,
+          "id": "1821784225420603393",
+          "start": 10,
+          "username": "watashikina77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963162772038119730",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963153465427025955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A @watashikina77 😍🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1963147042739703935",
+        "created_at": "2025-09-03T08:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963162772038119730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            },
+            {
+              "end": 24,
+              "id": "1821784225420603393",
+              "start": 10,
+              "username": "watashikina77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963162772038119730",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963153465427025955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A @watashikina77 😍🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812363069487742976",
+        "conversation_id": "1963147042739703935",
+        "created_at": "2025-09-03T08:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963153465427025955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 25,
+              "id": "1821784225420603393",
+              "start": 11,
+              "username": "watashikina77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963153465427025955",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963148266561741248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight @watashikina77 贴贴🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "梦想是成为会写代码的可爱男娘 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3197,
+          "following_count": 1175,
+          "like_count": 25433,
+          "listed_count": 10,
+          "media_count": 202,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候。",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812363217642967040/m7BCW6K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 979,
+          "like_count": 41837,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 7694
+        },
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T05:43:11.000Z",
+        "description": "诶嘿嘿嘿嘿……\n你好呀！这里是Kina，也可以叫我小木、七七，当然也可以用你喜欢的方式称呼我，但是请不要用些骚扰性及人身攻击性的叫法哦～\n目前主要在玩VRC，与推特为同一ID，可以加我为好友一起游玩，也可以尝试在中文吧、咖啡厅及蜜雪冰城等中文社区逮捕野生的Kina哟～\nemmm……就这么多了，祝你开心！",
+        "id": "1821784225420603393",
+        "location": "银河系 太阳星区 太阳星域 太阳系 神圣泰拉",
+        "name": "KInarin77",
+        "pinned_tweet_id": "1944262195162099811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936954869820039168/SJI2PYQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 188,
+          "like_count": 1036,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 455
+        },
+        "username": "watashikina77",
+        "verified": false
+      }
+    ]
+  }
+}

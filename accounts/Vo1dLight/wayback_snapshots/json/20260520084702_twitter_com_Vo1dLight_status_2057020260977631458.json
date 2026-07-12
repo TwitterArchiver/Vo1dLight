@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056950489666002944"
+      ],
+      "media_source_tweet_id": [
+        "2056950501435179119"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057020260977631458",
+    "created_at": "2026-05-20T08:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T09:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057020260977631458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1488888757717590016",
+          "start": 3,
+          "username": "shenggemoxiang1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0kleTi1ds9",
+          "end": 53,
+          "expanded_url": "https://x.com/shenggemoxiang1/status/2056950501435179119/photo/1",
+          "media_key": "3_2056950489666002944",
+          "start": 30,
+          "url": "https://t.co/0kleTi1ds9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057020260977631458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056950501435179119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shenggemoxiang1: 520抽卡这一块 https://t.co/0kleTi1ds9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2056950489666002944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvBknkboAAIusG.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056950489666002944"
+          ],
+          "media_source_tweet_id": [
+            "2056950501435179119"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057020260977631458",
+        "created_at": "2026-05-20T08:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057020260977631458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1488888757717590016",
+              "start": 3,
+              "username": "shenggemoxiang1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kleTi1ds9",
+              "end": 53,
+              "expanded_url": "https://x.com/shenggemoxiang1/status/2056950501435179119/photo/1",
+              "media_key": "3_2056950489666002944",
+              "start": 30,
+              "url": "https://t.co/0kleTi1ds9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057020260977631458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056950501435179119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shenggemoxiang1: 520抽卡这一块 https://t.co/0kleTi1ds9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056950489666002944"
+          ]
+        },
+        "author_id": "1488888757717590016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056950501435179119",
+        "created_at": "2026-05-20T04:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056950501435179119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kleTi1ds9",
+              "end": 32,
+              "expanded_url": "https://x.com/shenggemoxiang1/status/2056950501435179119/photo/1",
+              "media_key": "3_2056950489666002944",
+              "start": 9,
+              "url": "https://t.co/0kleTi1ds9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056950501435179119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1128,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520抽卡这一块 https://t.co/0kleTi1ds9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 1729,
+          "like_count": 64059,
+          "listed_count": 12,
+          "media_count": 328,
+          "tweet_count": 4056
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T14:55:28.000Z",
+        "description": "事i人（？）\n我是星极的狗\n疯狂转发喜欢的扣死普雷捆绑\n会复刻一些扣死普雷捆绑图\n喜欢二次元+捆绑捏，喜cos+绳\n私信不容易打开，还可能会有被过滤的...\n会些绳子 坐标0459/0451(所有行为均经过知情同意，无真实暴力或胁迫)\n暂不接稿\nq3591288713 扩列请标注推号 不加小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/shenggemoxiang1",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/shenggemoxiang1",
+                "start": 0,
+                "url": "https://t.co/mm2K3urn00"
+              }
+            ]
+          }
+        },
+        "id": "1488888757717590016",
+        "location": "黑色龙的河",
+        "name": "陌巷",
+        "pinned_tweet_id": "2037466407085228537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015463483455021056/nlP09hni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4248,
+          "following_count": 888,
+          "like_count": 33161,
+          "listed_count": 13,
+          "media_count": 217,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/mm2K3urn00",
+        "username": "shenggemoxiang1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1989667447067046138",
+    "created_at": "2025-11-17T03:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T04:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990255965749555509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1542508277497331716",
+          "start": 0,
+          "username": "Nitro_Haya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990255965749555509",
+    "in_reply_to_user_id": "1542508277497331716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990255255251222828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nitro_Haya 小底边不用限都没流量😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1989667447067046138",
+        "created_at": "2025-11-17T03:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990255965749555509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1542508277497331716",
+              "start": 0,
+              "username": "Nitro_Haya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990255965749555509",
+        "in_reply_to_user_id": "1542508277497331716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990255255251222828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nitro_Haya 小底边不用限都没流量😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542508277497331716",
+        "conversation_id": "1989667447067046138",
+        "created_at": "2025-11-17T03:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990255255251222828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990255255251222828",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989667447067046138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 快進到限流（不是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3534,
+          "following_count": 1287,
+          "like_count": 30940,
+          "listed_count": 10,
+          "media_count": 234,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T14:00:15.000Z",
+        "description": "美少女ゲーム/地下アイドル/イラスト/グラビア",
+        "id": "1542508277497331716",
+        "location": "🗣️中国語/英語/日本語",
+        "name": "はや○か",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986065264170184704/SGNq4tI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 7500,
+          "like_count": 69353,
+          "listed_count": 3,
+          "media_count": 701,
+          "tweet_count": 27760
+        },
+        "username": "Nitro_Haya",
+        "verified": false
+      }
+    ]
+  }
+}

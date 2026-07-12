@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1960612162810077326",
+    "created_at": "2025-08-27T09:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T10:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960631713748639874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580545728602333185",
+          "start": 0,
+          "username": "JINGZHI__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960631713748639874",
+    "in_reply_to_user_id": "1580545728602333185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960612162810077326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINGZHI__ 可爱小男娘😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3611,
+        "media_key": "3_1960611972573224961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzV-M4ea4AERisd.jpg",
+        "width": 1710
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1960609519798771712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzV7-HLa4AAyfsa.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3611,
+        "media_key": "3_1960612023856979968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzV-P3ha4AA-14M.jpg",
+        "width": 1895
+      },
+      {
+        "height": 999,
+        "media_key": "3_1960610192535773191",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzV8lRUa4AcXV2v.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1960612162810077326",
+        "created_at": "2025-08-27T09:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T10:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960631713748639874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580545728602333185",
+              "start": 0,
+              "username": "JINGZHI__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960631713748639874",
+        "in_reply_to_user_id": "1580545728602333185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960612162810077326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINGZHI__ 可爱小男娘😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960611972573224961",
+            "3_1960609519798771712",
+            "3_1960612023856979968",
+            "3_1960610192535773191"
+          ]
+        },
+        "author_id": "1580545728602333185",
+        "conversation_id": "1960612162810077326",
+        "created_at": "2025-08-27T07:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960612162810077326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXhREg1Q5P",
+              "end": 52,
+              "expanded_url": "https://x.com/JINGZHI__/status/1960612162810077326/photo/1",
+              "media_key": "3_1960611972573224961",
+              "start": 29,
+              "url": "https://t.co/SXhREg1Q5P"
+            },
+            {
+              "display_url": "pic.x.com/SXhREg1Q5P",
+              "end": 52,
+              "expanded_url": "https://x.com/JINGZHI__/status/1960612162810077326/photo/1",
+              "media_key": "3_1960609519798771712",
+              "start": 29,
+              "url": "https://t.co/SXhREg1Q5P"
+            },
+            {
+              "display_url": "pic.x.com/SXhREg1Q5P",
+              "end": 52,
+              "expanded_url": "https://x.com/JINGZHI__/status/1960612162810077326/photo/1",
+              "media_key": "3_1960612023856979968",
+              "start": 29,
+              "url": "https://t.co/SXhREg1Q5P"
+            },
+            {
+              "display_url": "pic.x.com/SXhREg1Q5P",
+              "end": 52,
+              "expanded_url": "https://x.com/JINGZHI__/status/1960612162810077326/photo/1",
+              "media_key": "3_1960610192535773191",
+              "start": 29,
+              "url": "https://t.co/SXhREg1Q5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960612162810077326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "致敬北宇治吹奏副部长中川夏纪🫡\n忠诚！\n想你了夏紀先輩😭 https://t.co/SXhREg1Q5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 1143,
+          "like_count": 24520,
+          "listed_count": 8,
+          "media_count": 199,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T13:07:32.000Z",
+        "description": "历史系在读/主攻日本近世史、江户幕府政治史/ Galgame重度爱好者/白学家/雪菜党/ 朽木冬子/寒蝉痴/東方Project/日语苦手 ,N1已过/ 社会自由主义/雀魂豪一(已淡)\n@JINGZHI_2\n＜(´vﾟ)ビシィ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "JINGZHI_2"
+              }
+            ]
+          }
+        },
+        "id": "1580545728602333185",
+        "location": "京都二条城",
+        "name": "静志",
+        "pinned_tweet_id": "1899733643033284747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930453091222204417/PP-pYp0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 391,
+          "like_count": 9268,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2852
+        },
+        "username": "JINGZHI__",
+        "verified": false
+      }
+    ]
+  }
+}

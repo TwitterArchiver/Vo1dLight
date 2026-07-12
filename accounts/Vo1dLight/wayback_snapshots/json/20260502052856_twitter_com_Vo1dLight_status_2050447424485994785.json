@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050168897375227904",
+        "3_2050168897371062272"
+      ],
+      "media_source_tweet_id": [
+        "2050169048273711291",
+        "2050169048273711291"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2050447424485994785",
+    "created_at": "2026-05-02T05:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050447424485994785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "722430818421858304",
+          "start": 3,
+          "username": "Rimomochan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRNubyzqSZ",
+          "end": 45,
+          "expanded_url": "https://x.com/Rimomochan/status/2050169048273711291/photo/1",
+          "media_key": "3_2050168897375227904",
+          "start": 22,
+          "url": "https://t.co/BRNubyzqSZ"
+        },
+        {
+          "display_url": "pic.x.com/BRNubyzqSZ",
+          "end": 45,
+          "expanded_url": "https://x.com/Rimomochan/status/2050169048273711291/photo/1",
+          "media_key": "3_2050168897371062272",
+          "start": 22,
+          "url": "https://t.co/BRNubyzqSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050447424485994785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050169048273711291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rimomochan: 假期快乐~ https://t.co/BRNubyzqSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2050168897375227904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOpv_ma0AAk2EC.jpg",
+        "width": 2560
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2050168897371062272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOpv_lbQAA_H0v.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050168897375227904",
+            "3_2050168897371062272"
+          ],
+          "media_source_tweet_id": [
+            "2050169048273711291",
+            "2050169048273711291"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2050447424485994785",
+        "created_at": "2026-05-02T05:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050447424485994785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "722430818421858304",
+              "start": 3,
+              "username": "Rimomochan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRNubyzqSZ",
+              "end": 45,
+              "expanded_url": "https://x.com/Rimomochan/status/2050169048273711291/photo/1",
+              "media_key": "3_2050168897375227904",
+              "start": 22,
+              "url": "https://t.co/BRNubyzqSZ"
+            },
+            {
+              "display_url": "pic.x.com/BRNubyzqSZ",
+              "end": 45,
+              "expanded_url": "https://x.com/Rimomochan/status/2050169048273711291/photo/1",
+              "media_key": "3_2050168897371062272",
+              "start": 22,
+              "url": "https://t.co/BRNubyzqSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050447424485994785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050169048273711291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rimomochan: 假期快乐~ https://t.co/BRNubyzqSZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050168897375227904",
+            "3_2050168897371062272"
+          ]
+        },
+        "author_id": "722430818421858304",
+        "conversation_id": "2050169048273711291",
+        "created_at": "2026-05-01T11:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050169048273711291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRNubyzqSZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Rimomochan/status/2050169048273711291/photo/1",
+              "media_key": "3_2050168897375227904",
+              "start": 6,
+              "url": "https://t.co/BRNubyzqSZ"
+            },
+            {
+              "display_url": "pic.x.com/BRNubyzqSZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Rimomochan/status/2050169048273711291/photo/1",
+              "media_key": "3_2050168897371062272",
+              "start": 6,
+              "url": "https://t.co/BRNubyzqSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050169048273711291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 20628,
+          "like_count": 651,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "假期快乐~ https://t.co/BRNubyzqSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4154,
+          "following_count": 1706,
+          "like_count": 62576,
+          "listed_count": 12,
+          "media_count": 321,
+          "tweet_count": 3904
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-19T14:25:04.000Z",
+        "description": "Love And Peace",
+        "id": "722430818421858304",
+        "name": "Rimorimo",
+        "pinned_tweet_id": "1929076733069713827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797600501837750273/OIuX18U1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42724,
+          "following_count": 424,
+          "like_count": 539,
+          "listed_count": 165,
+          "media_count": 118,
+          "tweet_count": 2059
+        },
+        "username": "Rimomochan",
+        "verified": true
+      }
+    ]
+  }
+}

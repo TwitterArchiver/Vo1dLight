@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994264958394355715"
+      ],
+      "media_source_tweet_id": [
+        "1994264967659573502"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1994269549609537930",
+    "created_at": "2025-11-28T04:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994269549609537930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1593669512548655106",
+          "start": 3,
+          "username": "anananchyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hvk1UoeUZv",
+          "end": 44,
+          "expanded_url": "https://x.com/anananchyan/status/1994264967659573502/photo/1",
+          "media_key": "3_1994264958394355715",
+          "start": 21,
+          "url": "https://t.co/Hvk1UoeUZv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994269549609537930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994264967659573502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anananchyan: 使い？ https://t.co/Hvk1UoeUZv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994269549609537930].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994269549609537930",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994269549609537930"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2134,
+        "media_key": "3_1994264958394355715",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60NaeEa0AMfX5o.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994264958394355715"
+          ]
+        },
+        "author_id": "1593669512548655106",
+        "conversation_id": "1994264967659573502",
+        "created_at": "2025-11-28T04:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994264967659573502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hvk1UoeUZv",
+              "end": 27,
+              "expanded_url": "https://x.com/anananchyan/status/1994264967659573502/photo/1",
+              "media_key": "3_1994264958394355715",
+              "start": 4,
+              "url": "https://t.co/Hvk1UoeUZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994264967659573502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "使い？ https://t.co/Hvk1UoeUZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 1334,
+          "like_count": 32472,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T18:16:47.000Z",
+        "description": "沈まない空が眩しかった\n🚪50\n偷偷接定制",
+        "id": "1593669512548655106",
+        "location": "移動書架",
+        "name": "已讀郵件",
+        "pinned_tweet_id": "1850735469317022195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949684475035852800/AyM5XXYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6674,
+          "following_count": 4281,
+          "like_count": 74495,
+          "listed_count": 30,
+          "media_count": 721,
+          "tweet_count": 17100
+        },
+        "username": "anananchyan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2055517232265138683",
+    "created_at": "2026-05-16T07:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055548146873512092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541221043594993664",
+          "start": 0,
+          "username": "CocoYui2003"
+        },
+        {
+          "end": 25,
+          "id": "1898791422339461121",
+          "start": 13,
+          "username": "qiaoqiao150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055548146873512092",
+    "in_reply_to_user_id": "1541221043594993664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055517620015968489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CocoYui2003 @qiaoqiao150 我现在还躺在床上一动不动。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2055517232265138683",
+        "created_at": "2026-05-16T07:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055548146873512092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541221043594993664",
+              "start": 0,
+              "username": "CocoYui2003"
+            },
+            {
+              "end": 25,
+              "id": "1898791422339461121",
+              "start": 13,
+              "username": "qiaoqiao150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055548146873512092",
+        "in_reply_to_user_id": "1541221043594993664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055517620015968489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CocoYui2003 @qiaoqiao150 我现在还躺在床上一动不动。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541221043594993664",
+        "conversation_id": "2055517232265138683",
+        "created_at": "2026-05-16T05:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055517620015968489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898791422339461121",
+              "start": 0,
+              "username": "qiaoqiao150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055517620015968489",
+        "in_reply_to_user_id": "1898791422339461121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055517232265138683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiaoqiao150 我也是躺在床上一动不动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4226,
+          "following_count": 1725,
+          "like_count": 63555,
+          "listed_count": 11,
+          "media_count": 328,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T00:45:26.000Z",
+        "description": "♂，coser和萌新kiger欢迎和我多互动🔞。孩子喜欢聊天！，欢迎畅聊！一般不扩列，想和我聊天直接私信就行啦！没粉丝没头像的空白账号和广告不回复（DMをお待ちしています！ファンがいない空白アカウントやロボットはDMしません！）。寻找工作中【仕事を探して，Looking for a job】",
+        "id": "1541221043594993664",
+        "location": "杜王町",
+        "name": "羽衣瑞希yui",
+        "pinned_tweet_id": "1953617774749921657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775974550678941696/qob2DUjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 2567,
+          "like_count": 125193,
+          "listed_count": 11,
+          "media_count": 361,
+          "tweet_count": 4592
+        },
+        "username": "CocoYui2003",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T17:42:24.000Z",
+        "description": "仍缠绵地发愿要铁树开花",
+        "id": "1898791422339461121",
+        "name": "由我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037873824621006848/IgH9ESNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9074,
+          "following_count": 12,
+          "like_count": 204,
+          "listed_count": 15,
+          "media_count": 76,
+          "tweet_count": 264
+        },
+        "username": "qiaoqiao150",
+        "verified": false
+      }
+    ]
+  }
+}

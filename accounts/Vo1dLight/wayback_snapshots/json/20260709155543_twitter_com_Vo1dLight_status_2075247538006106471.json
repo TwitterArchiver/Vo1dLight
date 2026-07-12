@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2075185135331545552",
+    "created_at": "2026-07-09T15:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075247538006106471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 26,
+          "id": "1271652280438308864",
+          "start": 17,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 40,
+          "id": "1618324076992548865",
+          "start": 27,
+          "username": "Rosmontis233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075247538006106471",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075243021852143693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @Jaciezyt @Rosmontis233 我想玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2075185135331545552",
+        "created_at": "2026-07-09T15:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075247538006106471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 26,
+              "id": "1271652280438308864",
+              "start": 17,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 40,
+              "id": "1618324076992548865",
+              "start": 27,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075247538006106471",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075243021852143693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @Jaciezyt @Rosmontis233 我想玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "2075185135331545552",
+        "created_at": "2026-07-09T15:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075243021852143693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            },
+            {
+              "end": 20,
+              "id": "1271652280438308864",
+              "start": 11,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 34,
+              "id": "1618324076992548865",
+              "start": 21,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075243021852143693",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075235314994708774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight @Jaciezyt @Rosmontis233 想玩你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4902,
+          "following_count": 1870,
+          "like_count": 70712,
+          "listed_count": 15,
+          "media_count": 347,
+          "tweet_count": 4506
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 3073,
+          "like_count": 86700,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 6899
+        },
+        "url": "",
+        "username": "Technology80420",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 JK刚刚退役😭 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身(仅互fo) @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 953,
+          "like_count": 65354,
+          "listed_count": 11,
+          "media_count": 1424,
+          "tweet_count": 16468
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大二｜🍥｜CB77 BBCD 4455 31AB CFEA 7149 2F72 C711 BB0F 4E78｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 80,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 57,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "2018305302052151518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906737688025411584/NWUJFhEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 511,
+          "like_count": 8376,
+          "listed_count": 10,
+          "media_count": 715,
+          "tweet_count": 7468
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": true
+      }
+    ]
+  }
+}

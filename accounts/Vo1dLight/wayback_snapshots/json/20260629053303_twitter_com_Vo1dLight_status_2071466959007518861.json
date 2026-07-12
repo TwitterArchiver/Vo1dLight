@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2071457003747397908",
+    "created_at": "2026-06-29T05:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071466959007518861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071466959007518861",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071457003747397908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI 不过gpt的群聊功能似乎用的人也不多？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1262,
+        "media_key": "3_2071456714013163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9K6AZaQAA295x.jpg",
+        "width": 978
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071456762545487872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9K81MawAATpDD.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2071457003747397908",
+        "created_at": "2026-06-29T05:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071466959007518861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071466959007518861",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071457003747397908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 不过gpt的群聊功能似乎用的人也不多？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071456714013163520",
+            "3_2071456762545487872"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "conversation_id": "2071457003747397908",
+        "created_at": "2026-06-29T04:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071457003747397908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vjGqOec7d",
+              "end": 163,
+              "expanded_url": "https://x.com/MaxForAI/status/2071457003747397908/photo/1",
+              "media_key": "3_2071456714013163520",
+              "start": 140,
+              "url": "https://t.co/7vjGqOec7d"
+            },
+            {
+              "display_url": "pic.x.com/7vjGqOec7d",
+              "end": 163,
+              "expanded_url": "https://x.com/MaxForAI/status/2071457003747397908/photo/1",
+              "media_key": "3_2071456762545487872",
+              "start": 140,
+              "url": "https://t.co/7vjGqOec7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071457003747397908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "突发，字节国民级应用豆包开始灰度社交功能！\n\n根据群友的分享，豆包开始内测社交功能了👀\n\n现在豆包里面出现了一个类似IM的“对话”页，从现在看到的界面看，豆包可以添加飞书好友，也可以添加豆包好友。\n对方加你之后，列表里会出现“新联系人申请”，有些消息会显示“你好，由豆包发送”。\n\n更有意思的是，豆包账号现在还能登录飞书网页版🤔\n\n但登录进去之后，不像一个完整飞书账号，更像一个被阉割过的新飞书租户，很多飞书功能还不能用。\n\n有热心群友还有去看了一下飞书的用户服务协议，里面已经把豆包相关内容写进去了。\n\n协议里大概有两层意思：\n\n第一，你可以用豆包账号登录飞书。\n使用豆包账号登录飞书的时候，豆包账号里的昵称、头像，以及你在豆包账号里设置的其他信息，可以在飞书里使用和展示。\n\n第二，你可以用飞书账号登录豆包企业版。\n这时候，飞书可以把你在飞书里的数据，比如姓名、文档、组织信息、消息，以及你在飞书里有权限的数据，传给豆包进行处理。\n\n中国第一个国民级AI应用，终于开始往IM里入侵了。\n\n过去AI应用的核心交互是聊天框，用户要主动打开App，主动输入问题，主动把上下文喂给AI。\n但IM本来就是人类协作的主入口。\n人在里面发消息、拉群、同步进展、分配任务、传文档、讨论项目。\nAI一旦进入IM，它就不只是回答问题了，它开始进入人的消息流、任务流和协作流。\n\n飞书这样的产品是一个特别好的入口。\n\n因为飞书本来就是生产力场景里最完整的一层：\n组织架构、通讯录、文档、消息、会议、知识库、权限系统，全都在里面。\n豆包自己从零做关系链和工作上下文很难。\n但飞书天然就有，所以豆包和飞书打通，本质上是把豆包接进字节已有的工作关系链和组织权限系统里。\n这件事要是真跑通，豆包就不只是一个AI助手，它会变成字节体系里的AI消息入口、AI通讯录和AI工作身份层。\n\n国外其实已经开始往这个方向走了。\n\nAnthropic最近出了ClaudeTag，可以让Claude直接进入Slack，在频道里被@，读取上下文，拆任务，做协作。\n\n微信的小微助手要切人与人的生活场景，飞书的豆包助手要切人与人的工作场景。\n\n果然所有人都在给腾讯和字节打工啊🤷‍♂️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 953,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突发，字节国民级应用豆包开始灰度社交功能！\n\n根据群友的分享，豆包开始内测社交功能了👀\n\n现在豆包里面出现了一个类似IM的“对话”页，从现在看到的界面看，豆包可以添加飞书好友，也可以添加豆包好友。\n对方加你之后，列表里会出现“新联系人申请”，有些消息会显示“你好，由豆包发送”。 https://t.co/7vjGqOec7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4342,
+          "following_count": 1835,
+          "like_count": 69849,
+          "listed_count": 13,
+          "media_count": 341,
+          "tweet_count": 4366
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（79K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15923,
+          "following_count": 2178,
+          "like_count": 13761,
+          "listed_count": 150,
+          "media_count": 726,
+          "tweet_count": 6071
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

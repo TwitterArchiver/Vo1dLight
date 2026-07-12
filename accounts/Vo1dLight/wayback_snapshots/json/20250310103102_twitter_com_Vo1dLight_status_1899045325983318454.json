@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898868095160303616"
+      ],
+      "media_source_tweet_id": [
+        "1898868260726358428"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1899045325983318454",
+    "created_at": "2025-03-10T10:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T11:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899045325983318454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863530755713806336",
+          "start": 3,
+          "username": "Zhou4Vw50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bnX9fMOgap",
+          "end": 42,
+          "expanded_url": "https://x.com/Zhou4Vw50/status/1898868260726358428/photo/1",
+          "media_key": "3_1898868095160303616",
+          "start": 19,
+          "url": "https://t.co/bnX9fMOgap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899045325983318454",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898868260726358428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhou4Vw50: 厚白丝 https://t.co/bnX9fMOgap"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899045325983318454].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899045325983318454",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899045325983318454"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_1898868095160303616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GloieM9aQAAI-wt.jpg",
+        "width": 2493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898868095160303616"
+          ]
+        },
+        "author_id": "1863530755713806336",
+        "conversation_id": "1898868260726358428",
+        "created_at": "2025-03-09T22:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T23:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898868260726358428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnX9fMOgap",
+              "end": 27,
+              "expanded_url": "https://x.com/Zhou4Vw50/status/1898868260726358428/photo/1",
+              "media_key": "3_1898868095160303616",
+              "start": 4,
+              "url": "https://t.co/bnX9fMOgap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898868260726358428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 10373,
+          "like_count": 335,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "厚白丝 https://t.co/bnX9fMOgap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、虚拟现实与脑机接口推崇者、男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 913,
+          "like_count": 9269,
+          "listed_count": 7,
+          "media_count": 115,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T10:28:57.000Z",
+        "description": "火焰风车\n\nQQ1249195746",
+        "id": "1863530755713806336",
+        "location": "奥林匹斯山",
+        "name": "白某某白",
+        "pinned_tweet_id": "1886732741267612161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892994582297620480/49-W-ED5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 1720,
+          "like_count": 1004,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 330
+        },
+        "username": "Zhou4Vw50",
+        "verified": false
+      }
+    ]
+  }
+}

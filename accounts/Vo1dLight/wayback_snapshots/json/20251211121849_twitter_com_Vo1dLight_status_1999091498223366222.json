@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1998691147229593857",
+    "created_at": "2025-12-11T12:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T13:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999091498223366222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561593418425413632",
+          "start": 0,
+          "username": "MeiStingray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999091498223366222",
+    "in_reply_to_user_id": "1561593418425413632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998691147229593857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiStingray 真好哇，可爱捏~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1998691043445977089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zG6hxaMAEu9e9.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1998691147229593857",
+        "created_at": "2025-12-11T12:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999091498223366222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561593418425413632",
+              "start": 0,
+              "username": "MeiStingray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999091498223366222",
+        "in_reply_to_user_id": "1561593418425413632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998691147229593857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiStingray 真好哇，可爱捏~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998691043445977089"
+          ]
+        },
+        "author_id": "1561593418425413632",
+        "conversation_id": "1998691147229593857",
+        "created_at": "2025-12-10T09:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998691147229593857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UW4IcqvaA",
+              "end": 29,
+              "expanded_url": "https://x.com/MeiStingray/status/1998691147229593857/photo/1",
+              "media_key": "3_1998691043445977089",
+              "start": 6,
+              "url": "https://t.co/1UW4IcqvaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998691147229593857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7849,
+          "like_count": 168,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恋爱日常。 https://t.co/1UW4IcqvaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998590742915330049/bN6dR0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 1364,
+          "like_count": 34665,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 2181
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:57:43.000Z",
+        "description": "一般女装男子/梅装梅子.\n自我拍摄. Sachima-Eater.\n宇宙的第1颗星 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kicity.com",
+                "end": 23,
+                "expanded_url": "http://kicity.com",
+                "start": 0,
+                "url": "https://t.co/YnaWc6KAWV"
+              }
+            ]
+          }
+        },
+        "id": "1561593418425413632",
+        "location": "The \"Bebop\"",
+        "name": "青梅定理⭐",
+        "pinned_tweet_id": "1897574302020727075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908429654941487104/HBUqAg_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 489,
+          "like_count": 50155,
+          "listed_count": 17,
+          "media_count": 371,
+          "tweet_count": 12154
+        },
+        "url": "https://t.co/YnaWc6KAWV",
+        "username": "MeiStingray",
+        "verified": false
+      }
+    ]
+  }
+}

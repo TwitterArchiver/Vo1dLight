@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2050417955696177296",
+    "created_at": "2026-05-02T09:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050502409194238084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "751424811276967937",
+          "start": 0,
+          "username": "suchichi1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050502409194238084",
+    "in_reply_to_user_id": "751424811276967937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050417955696177296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suchichi1207 我之前也有点刻板印象，但吃过一次之后感觉还可以接受……？感觉确实是重度改良，但或许真的还算中餐（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050417949086044160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSMQthb0AAAOIT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2050417955696177296",
+        "created_at": "2026-05-02T09:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050502409194238084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "751424811276967937",
+              "start": 0,
+              "username": "suchichi1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050502409194238084",
+        "in_reply_to_user_id": "751424811276967937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050417955696177296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suchichi1207 我之前也有点刻板印象，但吃过一次之后感觉还可以接受……？感觉确实是重度改良，但或许真的还算中餐（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050417949086044160"
+          ]
+        },
+        "author_id": "751424811276967937",
+        "conversation_id": "2050417955696177296",
+        "created_at": "2026-05-02T03:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050417955696177296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GjBQ8Jf1d",
+              "end": 43,
+              "expanded_url": "https://x.com/suchichi1207/status/2050417955696177296/photo/1",
+              "media_key": "3_2050417949086044160",
+              "start": 20,
+              "url": "https://t.co/8GjBQ8Jf1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050417955696177296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9660,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这对于中国人来说是一个违背祖宗的决定（ https://t.co/8GjBQ8Jf1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4155,
+          "following_count": 1706,
+          "like_count": 62605,
+          "listed_count": 12,
+          "media_count": 321,
+          "tweet_count": 3908
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-08T14:36:50.000Z",
+        "description": "#春から日大商 日本在学 ピアノ独学中 24 性别未知 退休去把儿男娘 SRS-2024.7.24 日本語勉強中 日本語 En ok 清水日常博主 真的真的很清 有对象啦，可以的话请不要骚扰捏 ✨保持谦虚，保持纯真，保持善良 𓆡𓆝𓆟𓆜𓆞𓆝𓆟𓆜𓆞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "春から日大商"
+              }
+            ]
+          }
+        },
+        "id": "751424811276967937",
+        "location": "Toshima-ku, Tokyo",
+        "name": "池池睡不醒@ピアノ独学中🎹",
+        "pinned_tweet_id": "1822369845788418262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966468029258334208/-OOe6NGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9509,
+          "following_count": 273,
+          "like_count": 2284,
+          "listed_count": 26,
+          "media_count": 681,
+          "tweet_count": 2721
+        },
+        "username": "suchichi1207",
+        "verified": false
+      }
+    ]
+  }
+}

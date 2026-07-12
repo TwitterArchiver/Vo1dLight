@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998969376490532864"
+      ],
+      "media_source_tweet_id": [
+        "1998969408887332912"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1998976207292182565",
+    "created_at": "2025-12-11T04:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998976207292182565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EAmPkbiaLM",
+          "end": 44,
+          "expanded_url": "https://x.com/Alice__486/status/1998969408887332912/photo/1",
+          "media_key": "3_1998969376490532864",
+          "start": 21,
+          "url": "https://t.co/EAmPkbiaLM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998976207292182565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998969408887332912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 随便试试 https://t.co/EAmPkbiaLM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998976207292182565].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998976207292182565",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998976207292182565"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2711,
+        "media_key": "3_1998969376490532864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73EDpKaMAAy7Py.jpg",
+        "width": 1722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998969376490532864"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "1998969408887332912",
+        "created_at": "2025-12-11T04:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998969408887332912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAmPkbiaLM",
+              "end": 28,
+              "expanded_url": "https://x.com/Alice__486/status/1998969408887332912/photo/1",
+              "media_key": "3_1998969376490532864",
+              "start": 5,
+              "url": "https://t.co/EAmPkbiaLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998969408887332912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 132,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "随便试试 https://t.co/EAmPkbiaLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998590742915330049/bN6dR0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3583,
+          "following_count": 1360,
+          "like_count": 34432,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "1878774496057836005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27157,
+          "following_count": 1705,
+          "like_count": 52384,
+          "listed_count": 91,
+          "media_count": 906,
+          "tweet_count": 15415
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

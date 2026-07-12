@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1979555608534855937",
+    "created_at": "2025-10-18T20:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T21:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979639290725568843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        },
+        {
+          "end": 32,
+          "id": "1771562039485534208",
+          "start": 16,
+          "username": "soyorin_chihaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979639290725568843",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979556927823810844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 @soyorin_chihaya 妈妈妈妈妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1979555608534855937",
+        "created_at": "2025-10-18T20:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T21:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979639290725568843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            },
+            {
+              "end": 32,
+              "id": "1771562039485534208",
+              "start": 16,
+              "username": "soyorin_chihaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979639290725568843",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979556927823810844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 @soyorin_chihaya 妈妈妈妈妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956567270739828736",
+        "conversation_id": "1979555608534855937",
+        "created_at": "2025-10-18T14:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979556927823810844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771562039485534208",
+              "start": 0,
+              "username": "soyorin_chihaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979556927823810844",
+        "in_reply_to_user_id": "1771562039485534208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979555608534855937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyorin_chihaya 这个真得叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3403,
+          "following_count": 1267,
+          "like_count": 29130,
+          "listed_count": 10,
+          "media_count": 226,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生（⚠️）喜欢电影🎦 不限类型 不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），问豆包（低质的内容风格制作历史讨论），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆 二次元马娘少女乐队特摄车万古早动画都涉猎/喜欢拍cos和女装，纯高p，实际丑蛆🐛/",
+        "id": "1956567270739828736",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1979563877655613664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969769601384022016/D7d4y2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4121,
+          "following_count": 699,
+          "like_count": 1761,
+          "listed_count": 9,
+          "media_count": 34,
+          "tweet_count": 789
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T15:38:07.000Z",
+        "description": "硬硬的，原来是祥木😇|MyGO!!!!!一生推！|素/祥/爱|电吉他苦手 新人练习影色舞中......|进小团体小窗说一声熟的会给过|提问箱：https://t.co/Ws2mymEYPp|",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/soyorin_chihaya",
+                "end": 94,
+                "expanded_url": "https://ngl.link/soyorin_chihaya",
+                "start": 71,
+                "url": "https://t.co/Ws2mymEYPp"
+              }
+            ]
+          }
+        },
+        "id": "1771562039485534208",
+        "location": "羽丘女子学园",
+        "name": "嘴硬不过Soyo木硬不过Kiko",
+        "pinned_tweet_id": "1979512537663361298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921068183345094656/a-W8bW6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 719,
+          "like_count": 48934,
+          "listed_count": 1,
+          "media_count": 1247,
+          "tweet_count": 11764
+        },
+        "username": "soyorin_chihaya",
+        "verified": false
+      }
+    ]
+  }
+}

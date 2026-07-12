@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1995311578175217838",
+    "created_at": "2025-12-01T01:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T02:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995311578175217838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1026969482382782465",
+          "start": 3,
+          "username": "djneyoru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995311578175217838",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6631
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994875268503113899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @djneyoru: Men should be forced to dress like this"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1995311578175217838",
+        "created_at": "2025-12-01T01:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995311578175217838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1026969482382782465",
+              "start": 3,
+              "username": "djneyoru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995311578175217838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6631
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994875268503113899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @djneyoru: Men should be forced to dress like this"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026969482382782465",
+        "conversation_id": "1994875268503113899",
+        "created_at": "2025-11-29T21:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T22:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994875268503113899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maid__mia/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/maid__mia/status/1994724996388995519",
+              "start": 40,
+              "url": "https://t.co/Y0AqxqYSLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994875268503113899",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7450,
+          "impression_count": 3082979,
+          "like_count": 64406,
+          "quote_count": 523,
+          "reply_count": 592,
+          "retweet_count": 6631
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994724996388995519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Men should be forced to dress like this https://t.co/Y0AqxqYSLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "找自己 | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/g0D6Yuj9NH"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965707163353194496/zO9KXFTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3583,
+          "following_count": 1346,
+          "like_count": 33027,
+          "listed_count": 11,
+          "media_count": 245,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/g0D6Yuj9NH",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-07T23:12:59.000Z",
+        "description": "🇵🇱 | rhythm games | doujin music, touhou, vn | uj szef | I cosplay sometimes\nSupport me here: https://t.co/6hp0gajyyK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/sakujoy",
+                "end": 117,
+                "expanded_url": "https://throne.com/sakujoy",
+                "start": 94,
+                "url": "https://t.co/6hp0gajyyK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "djneyoru.straw.page",
+                "end": 23,
+                "expanded_url": "https://djneyoru.straw.page",
+                "start": 0,
+                "url": "https://t.co/JjdKBpN8n6"
+              }
+            ]
+          }
+        },
+        "id": "1026969482382782465",
+        "name": "sakujoy",
+        "pinned_tweet_id": "1991287159299469352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934950558894305280/rZM8vZQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7412,
+          "following_count": 2086,
+          "like_count": 22516,
+          "listed_count": 13,
+          "media_count": 2401,
+          "tweet_count": 17618
+        },
+        "url": "https://t.co/JjdKBpN8n6",
+        "username": "djneyoru",
+        "verified": false
+      }
+    ]
+  }
+}

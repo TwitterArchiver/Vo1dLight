@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829645477677326336"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "1829645480269398364",
+    "created_at": "2024-08-30T22:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T23:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829645480269398364"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "CS61B"
+        },
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "CSDIY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1flexig8og",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Vo1dLight/status/1829645480269398364/photo/1",
+          "media_key": "3_1829645477677326336",
+          "start": 28,
+          "url": "https://t.co/1fLexiG8Og"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829645480269398364",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出分那刻比高超还爽😋😋😭😭 #CS61B #CSDIY https://t.co/1fLexiG8Og"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_1829645477677326336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWQ03jnbYAAiTsR.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829645477677326336"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "1829645480269398364",
+        "created_at": "2024-08-30T22:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T23:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829645480269398364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "CS61B"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "CSDIY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1flexig8og",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Vo1dLight/status/1829645480269398364/photo/1",
+              "media_key": "3_1829645477677326336",
+              "start": 28,
+              "url": "https://t.co/1fLexiG8Og"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829645480269398364",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出分那刻比高超还爽😋😋😭😭 #CS61B #CSDIY https://t.co/1fLexiG8Og"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "璀璨而空无💫 | 互fo欢迎😉 | 实际上是一个很符合刻板印象的理工男🤓 | 穿小裙子是一种爱好和一种逃避😖 | 183/63 我好羡慕天赋党哇😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826730117273714691/EKRi_yo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 66,
+          "listed_count": 0,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      }
+    ]
+  }
+}

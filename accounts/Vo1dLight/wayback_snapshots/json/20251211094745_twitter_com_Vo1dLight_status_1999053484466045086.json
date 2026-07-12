@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1999053484466045086",
+    "created_at": "2025-12-11T09:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999053484466045086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ji_chunsheng/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/ji_chunsheng/status/1998928074449064342",
+          "start": 45,
+          "url": "https://t.co/LSxtQIgGGB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999053484466045086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998928074449064342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "srds，我确实挺喜欢衬线字体的，我vscode的ui字体甚至还是noto serif（ https://t.co/LSxtQIgGGB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_1998928014642417664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72ecERWkAA7x_D.jpg",
+        "width": 1262
+      },
+      {
+        "height": 900,
+        "media_key": "3_1998928014634082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72ecEPXYAAf70h.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1999053484466045086",
+        "created_at": "2025-12-11T09:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999053484466045086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ji_chunsheng/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/ji_chunsheng/status/1998928074449064342",
+              "start": 45,
+              "url": "https://t.co/LSxtQIgGGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999053484466045086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998928074449064342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "srds，我确实挺喜欢衬线字体的，我vscode的ui字体甚至还是noto serif（ https://t.co/LSxtQIgGGB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998928014642417664",
+            "3_1998928014634082304"
+          ]
+        },
+        "author_id": "1547289009201844228",
+        "conversation_id": "1998928074449064342",
+        "created_at": "2025-12-11T01:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T02:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998928074449064342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/keVVcR6phR",
+              "end": 196,
+              "expanded_url": "https://x.com/ji_chunsheng/status/1998928074449064342/photo/1",
+              "media_key": "3_1998928014642417664",
+              "start": 173,
+              "url": "https://t.co/keVVcR6phR"
+            },
+            {
+              "display_url": "pic.x.com/keVVcR6phR",
+              "end": 196,
+              "expanded_url": "https://x.com/ji_chunsheng/status/1998928074449064342/photo/1",
+              "media_key": "3_1998928014634082304",
+              "start": 173,
+              "url": "https://t.co/keVVcR6phR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998928074449064342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "美国国务卿Rubio近日下令，全面停止国务院使用Calibri字体，恢复使用Times New Roman，从而推翻了2023 年拜登时期的决定。\n\nRubio批评当初改用Calibri字体是迎合多元、公平、包容与可及性（D.E.I.A.）项目的“浪费”，并称这一变化并没有真正改善无障碍阅读，只让官方文件变得更不正式。他指出Times New Roman曾作为国务院官方字体近20年，而布林肯当年的更换字体的初衷，是为了让视力受损、阅读障碍者以及依赖屏幕阅读器等辅助技术的人，更方便阅读官方文件。\n\n呼应川普要求联邦建筑采用古典风格的主张，Rubio在这份命令中提到Times New Roman这种衬线字体起源于古罗马。支持者认为，衬线字体的笔画让字母看起来更优雅，也更容易彼此区分，尽管它们有时也会带来些许视觉上的拥挤感。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 18904,
+          "like_count": 77,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "美国国务卿Rubio近日下令，全面停止国务院使用Calibri字体，恢复使用Times New Roman，从而推翻了2023 年拜登时期的决定。\n\nRubio批评当初改用Calibri字体是迎合多元、公平、包容与可及性（D.E.I.A.）项目的“浪费”，并称这一变化并没有真正改善无障碍阅读，只让官方文件变得更不正式。他指出Times New https://t.co/keVVcR6phR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998590742915330049/bN6dR0AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 1363,
+          "like_count": 34552,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T18:37:07.000Z",
+        "description": "tech & media | co-host of pretty nuts https://t.co/WSv6ZPezen",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/prettynuts",
+                "end": 61,
+                "expanded_url": "http://linktr.ee/prettynuts",
+                "start": 38,
+                "url": "https://t.co/WSv6ZPezen"
+              }
+            ]
+          }
+        },
+        "id": "1547289009201844228",
+        "location": "New York",
+        "name": "紀春生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608312424825851904/NNjbRcmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8665,
+          "following_count": 2227,
+          "like_count": 27374,
+          "listed_count": 50,
+          "media_count": 4349,
+          "tweet_count": 8036
+        },
+        "username": "ji_chunsheng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "1960658051759006181",
+    "created_at": "2025-08-27T15:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960733439768060258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660976882861621254",
+          "start": 0,
+          "username": "h20_chemistry2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960733439768060258",
+    "in_reply_to_user_id": "1660976882861621254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960701936279371945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h20_chemistry2 🫠🫠手机挡脸还不够还要加马赛克这一块"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960701936279371945].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960701936279371945",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960701936279371945"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "1960658051759006181",
+        "created_at": "2025-08-27T15:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960733439768060258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660976882861621254",
+              "start": 0,
+              "username": "h20_chemistry2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960733439768060258",
+        "in_reply_to_user_id": "1660976882861621254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960701936279371945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h20_chemistry2 🫠🫠手机挡脸还不够还要加马赛克这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "An average nerd and a crossdresser, trying to live the life I love, but what is it? | 社恐理工做题蛆、#男娘、普通人 | 🏳️‍⚧️友好🥰 | bsky同名，小号@Vo1dL1ght",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellarlane.github.io",
+                "end": 23,
+                "expanded_url": "https://stellarlane.github.io/",
+                "start": 0,
+                "url": "https://t.co/KBGu4UFqgU"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/home",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872179895323004928/h0vsHgPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3119,
+          "following_count": 1145,
+          "like_count": 24536,
+          "listed_count": 8,
+          "media_count": 200,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/KBGu4UFqgU",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T11:52:14.000Z",
+        "description": "某种意义上来讲这才是大号（\n本体：@H20_chemistry_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "H20_chemistry_x"
+              }
+            ]
+          }
+        },
+        "id": "1660976882861621254",
+        "name": "百里香酚蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867041691246661634/lOIVZQ0G_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 176,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 306
+        },
+        "username": "h20_chemistry2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019082442163040256"
+      ],
+      "media_source_tweet_id": [
+        "2019082445451100422"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2024287825777115254",
+    "created_at": "2026-02-19T01:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024287825777115254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1252064283946438656",
+          "start": 3,
+          "username": "JLaststardust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zboYlNYVuV",
+          "end": 46,
+          "expanded_url": "https://x.com/JLaststardust/status/2019082445451100422/photo/1",
+          "media_key": "3_2019082442163040256",
+          "start": 23,
+          "url": "https://t.co/zboYlNYVuV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024287825777115254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019082445451100422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JLaststardust: 水手服 https://t.co/zboYlNYVuV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019082442163040256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAU4yJlbMAAH9qG.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019082442163040256"
+          ],
+          "media_source_tweet_id": [
+            "2019082445451100422"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2024287825777115254",
+        "created_at": "2026-02-19T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024287825777115254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1252064283946438656",
+              "start": 3,
+              "username": "JLaststardust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zboYlNYVuV",
+              "end": 46,
+              "expanded_url": "https://x.com/JLaststardust/status/2019082445451100422/photo/1",
+              "media_key": "3_2019082442163040256",
+              "start": 23,
+              "url": "https://t.co/zboYlNYVuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024287825777115254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019082445451100422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JLaststardust: 水手服 https://t.co/zboYlNYVuV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019082442163040256"
+          ]
+        },
+        "author_id": "1252064283946438656",
+        "conversation_id": "2019082445451100422",
+        "created_at": "2026-02-04T16:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019082445451100422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zboYlNYVuV",
+              "end": 27,
+              "expanded_url": "https://x.com/JLaststardust/status/2019082445451100422/photo/1",
+              "media_key": "3_2019082442163040256",
+              "start": 4,
+              "url": "https://t.co/zboYlNYVuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019082445451100422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4434,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "水手服 https://t.co/zboYlNYVuV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "𝐈𝐭'𝐬 𝐭𝐨𝐨 𝐛𝐚𝐝 𝐬𝐡𝐞 𝐜𝐚𝐧'𝐭 𝐥𝐢𝐯𝐞, 𝐛𝐮𝐭 𝐭𝐡𝐞𝐧 𝐚𝐠𝐚𝐢𝐧 𝐰𝐡𝐨 𝐝𝐨𝐞𝐬? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "/mnt/c/",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3897,
+          "following_count": 1570,
+          "like_count": 49094,
+          "listed_count": 11,
+          "media_count": 285,
+          "tweet_count": 3049
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-20T02:39:38.000Z",
+        "description": "🕹Gameplay Programmer｜UE/UNITY｜新晋社畜\n｜Cosplay学习中\n｜武裝jk/少女前线/明日方舟/合金装备MGS/现代个人装备/后朋克｜绘画：https://t.co/jM1iBjVkjA\n“我将用一生来回答这个问题。”",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/33032884/",
+                "end": 108,
+                "expanded_url": "https://www.pixiv.net/users/33032884/",
+                "start": 85,
+                "url": "https://t.co/jM1iBjVkjA"
+              }
+            ]
+          }
+        },
+        "id": "1252064283946438656",
+        "location": "罗克萨特主义合众国联盟",
+        "name": "JK_降谷羽",
+        "pinned_tweet_id": "1788562004371964347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531136963348074496/TbfePWTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 3266,
+          "like_count": 99844,
+          "listed_count": 21,
+          "media_count": 2376,
+          "tweet_count": 11924
+        },
+        "username": "JLaststardust",
+        "verified": false
+      }
+    ]
+  }
+}
