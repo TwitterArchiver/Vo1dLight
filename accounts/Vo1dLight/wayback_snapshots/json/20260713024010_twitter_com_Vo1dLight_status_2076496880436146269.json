@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2076467210604966300",
+    "created_at": "2026-07-13T02:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076496880436146269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "756779273155858432",
+          "start": 0,
+          "username": "ScarletKc_"
+        },
+        {
+          "end": 24,
+          "id": "1165044876297134080",
+          "start": 12,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076496880436146269",
+    "in_reply_to_user_id": "756779273155858432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076477929652101402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletKc_ @realNyarime 我在被封号之前也是怎么认为的\n（不过我claude是free plan，今年二月创的六月封的，参考价值相当有限"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2076467210604966300",
+        "created_at": "2026-07-13T02:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076496880436146269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc_"
+            },
+            {
+              "end": 24,
+              "id": "1165044876297134080",
+              "start": 12,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076496880436146269",
+        "in_reply_to_user_id": "756779273155858432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076477929652101402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc_ @realNyarime 我在被封号之前也是怎么认为的\n（不过我claude是free plan，今年二月创的六月封的，参考价值相当有限"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "conversation_id": "2076467210604966300",
+        "created_at": "2026-07-13T01:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076477929652101402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076477929652101402",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076477271230259408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 封号我倒是没封过 一直正常用 只有少数人封吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4979,
+          "following_count": 1875,
+          "like_count": 70814,
+          "listed_count": 16,
+          "media_count": 347,
+          "tweet_count": 4523
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "All in AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPj9oL"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "name": "KC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 1031,
+          "like_count": 78363,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 7062
+        },
+        "url": "https://t.co/YTKXMPj9oL",
+        "username": "ScarletKc_",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40102,
+          "following_count": 663,
+          "like_count": 19292,
+          "listed_count": 185,
+          "media_count": 2354,
+          "tweet_count": 16266
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}
