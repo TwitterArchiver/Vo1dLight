@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2087523419349012750",
+    "created_at": "2026-08-12T17:44:44.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087596160261435871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "834003897765081088",
+          "start": 0,
+          "username": "tsurugi______"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087596160261435871",
+    "in_reply_to_user_id": "834003897765081088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087523419349012750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsurugi______ 小葱可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087523409848860672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhfeyhagAABg2d.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2087523419349012750",
+        "created_at": "2026-08-12T17:44:44.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087596160261435871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "834003897765081088",
+              "start": 0,
+              "username": "tsurugi______"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087596160261435871",
+        "in_reply_to_user_id": "834003897765081088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087523419349012750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsurugi______ 小葱可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087523409848860672"
+          ]
+        },
+        "author_id": "834003897765081088",
+        "conversation_id": "2087523419349012750",
+        "created_at": "2026-08-12T12:55:42.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087523419349012750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 17,
+              "tag": "祀"
+            },
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "明日方舟终未地"
+            },
+            {
+              "end": 48,
+              "start": 30,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 58,
+              "start": 49,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sZlsidq8S",
+              "end": 82,
+              "expanded_url": "https://x.com/tsurugi______/status/2087523419349012750/photo/1",
+              "media_key": "3_2087523409848860672",
+              "start": 59,
+              "url": "https://t.co/6sZlsidq8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087523419349012750",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087523409848860672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 12297,
+          "like_count": 884,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "gay 哥这集是生死难料了）\n\n #祀  #明日方舟终未地 #ArknightsEndfield #エンドフィールド https://t.co/6sZlsidq8S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2087596160261435871",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1785567890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4981,
+          "following_count": 1898,
+          "like_count": 72378,
+          "listed_count": 16,
+          "media_count": 354,
+          "tweet_count": 4636
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-21T11:36:39.000Z",
+        "description": "男的纯底边搞 cos 的｜随便玩玩而已啦｜各种 ip 都有看\nLanguages：中文◎ / English○ / 日本語◎",
+        "id": "834003897765081088",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2087523419349012750",
+        "name": "Tsurugi_ご飯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/834003897765081088/1775732527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042204794333605888/xs8TUInX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1073,
+          "like_count": 153,
+          "listed_count": 7,
+          "media_count": 10,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "tsurugi______",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

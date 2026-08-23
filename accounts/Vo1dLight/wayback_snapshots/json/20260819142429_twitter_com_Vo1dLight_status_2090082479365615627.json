@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2090057461021696353",
+    "created_at": "2026-08-19T14:24:29.000Z",
+    "display_text_range": [
+      7,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090082479365615627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1823331804902051841",
+          "start": 0,
+          "username": "0z5aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090082479365615627",
+    "in_reply_to_user_id": "1823331804902051841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090057461021696353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0z5aa 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2090057461021696353",
+        "created_at": "2026-08-19T14:24:29.000Z",
+        "display_text_range": [
+          7,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090082479365615627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1823331804902051841",
+              "start": 0,
+              "username": "0z5aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090082479365615627",
+        "in_reply_to_user_id": "1823331804902051841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090057461021696353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0z5aa 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823331804902051841",
+        "conversation_id": "2090057461021696353",
+        "created_at": "2026-08-19T12:45:04.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090057461021696353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090057461021696353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1710,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面过了一家深圳infra初创，后天准备上岗了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2090082479365615627",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1785567890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5155,
+          "following_count": 1907,
+          "like_count": 72525,
+          "listed_count": 18,
+          "media_count": 358,
+          "tweet_count": 4707
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T12:12:41.000Z",
+        "description": "B.A. Complinguistics @uni_tue 非二元ADHD 全栈LLM开发偏爱Infra/NLP方向 找实习中望推友捞 正在从事开源推理库Mega kenrel开发 皮下精神小妹偶尔弄点低质Cos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "uni_tue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/0z5a",
+                "end": 23,
+                "expanded_url": "https://github.com/0z5a",
+                "start": 0,
+                "url": "https://t.co/E9ct6Rx8mJ"
+              }
+            ]
+          }
+        },
+        "id": "1823331804902051841",
+        "is_identity_verified": false,
+        "location": "Tübingen, Deutschland",
+        "most_recent_tweet_id": "2090081458430132254",
+        "name": "天使向量機🖤⁺˚",
+        "pinned_tweet_id": "2082267536314528166",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823331804902051841/1785157194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089362262045892608/egbL9d9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 261,
+          "like_count": 7476,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 3026
+        },
+        "url": "https://t.co/E9ct6Rx8mJ",
+        "username": "0z5aa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

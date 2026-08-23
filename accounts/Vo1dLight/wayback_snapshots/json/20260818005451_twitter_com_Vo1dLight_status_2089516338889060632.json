@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2089516338889060632",
+    "created_at": "2026-08-18T00:54:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T01:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089516338889060632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2084138733172097024",
+          "start": 3,
+          "username": "Hoshikawa_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089516338889060632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089447117119254567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshikawa_12: 各位老师好~是新来的兔兔~🥰\n以后应该也会时不时在这里发一些照片的\n然后然后手机上不会挂梯子qwq，所以只能偶尔在电脑上看了……消息可能会隔很长时间才能回复果咩纳塞！\n角色ooc致歉，房间脏乱差致歉\n嘛嘛我还是第一次用推特不知道该说什么捏ww…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089444148164395008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8yYeVbgAAmFZA.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089444148172722176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8yYeXakAA3AN2.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089444148155936768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8yYeTacAAQwXp.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089444148168601600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8yYeWbsAA6x0_.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2089516338889060632",
+        "created_at": "2026-08-18T00:54:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089516338889060632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2084138733172097024",
+              "start": 3,
+              "username": "Hoshikawa_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089516338889060632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089447117119254567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hoshikawa_12: 各位老师好~是新来的兔兔~🥰\n以后应该也会时不时在这里发一些照片的\n然后然后手机上不会挂梯子qwq，所以只能偶尔在电脑上看了……消息可能会隔很长时间才能回复果咩纳塞！\n角色ooc致歉，房间脏乱差致歉\n嘛嘛我还是第一次用推特不知道该说什么捏ww…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089444148164395008",
+            "3_2089444148172722176",
+            "3_2089444148155936768",
+            "3_2089444148168601600"
+          ]
+        },
+        "author_id": "2084138733172097024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2089447117119254567",
+        "created_at": "2026-08-17T20:19:47.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089447117119254567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "男娘"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "伪娘"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zcc0RBjBKN",
+              "end": 175,
+              "expanded_url": "https://x.com/Hoshikawa_12/status/2089447117119254567/photo/1",
+              "media_key": "3_2089444148164395008",
+              "start": 152,
+              "url": "https://t.co/Zcc0RBjBKN"
+            },
+            {
+              "display_url": "pic.x.com/Zcc0RBjBKN",
+              "end": 175,
+              "expanded_url": "https://x.com/Hoshikawa_12/status/2089447117119254567/photo/1",
+              "media_key": "3_2089444148172722176",
+              "start": 152,
+              "url": "https://t.co/Zcc0RBjBKN"
+            },
+            {
+              "display_url": "pic.x.com/Zcc0RBjBKN",
+              "end": 175,
+              "expanded_url": "https://x.com/Hoshikawa_12/status/2089447117119254567/photo/1",
+              "media_key": "3_2089444148155936768",
+              "start": 152,
+              "url": "https://t.co/Zcc0RBjBKN"
+            },
+            {
+              "display_url": "pic.x.com/Zcc0RBjBKN",
+              "end": 175,
+              "expanded_url": "https://x.com/Hoshikawa_12/status/2089447117119254567/photo/1",
+              "media_key": "3_2089444148168601600",
+              "start": 152,
+              "url": "https://t.co/Zcc0RBjBKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089447117119254567",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089444148164395008"
+          },
+          {
+            "media_key": "3_2089444148172722176"
+          },
+          {
+            "media_key": "3_2089444148155936768"
+          },
+          {
+            "media_key": "3_2089444148168601600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位老师好~是新来的兔兔~🥰\n以后应该也会时不时在这里发一些照片的\n然后然后手机上不会挂梯子qwq，所以只能偶尔在电脑上看了……消息可能会隔很长时间才能回复果咩纳塞！\n角色ooc致歉，房间脏乱差致歉\n嘛嘛我还是第一次用推特不知道该说什么捏ww\n请多多指教喵~这里是小千代子❤\n#男娘 #伪娘 #明日方舟 https://t.co/Zcc0RBjBKN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2089516338889060632",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1785567890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 1898,
+          "like_count": 72369,
+          "listed_count": 16,
+          "media_count": 356,
+          "tweet_count": 4666
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T04:47:36.000Z",
+        "description": "霜红晚穗，露染尘襟，千秋种我一粟青",
+        "id": "2084138733172097024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089449338632310841",
+        "name": "星川千代子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084138733172097024/1785855565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084139540244312064/x8npbN3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "Hoshikawa_12",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

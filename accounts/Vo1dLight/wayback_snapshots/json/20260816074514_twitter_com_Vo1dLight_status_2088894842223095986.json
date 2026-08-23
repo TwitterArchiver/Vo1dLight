@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2088857806439154001",
+    "created_at": "2026-08-16T07:45:14.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088894842223095986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496714588918026242",
+          "start": 0,
+          "username": "using_YueCheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088894842223095986",
+    "in_reply_to_user_id": "1496714588918026242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088857806439154001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@using_YueCheng 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088857793080242176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0dGHbasAAnZa4.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2088857806439154001",
+        "created_at": "2026-08-16T07:45:14.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088894842223095986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496714588918026242",
+              "start": 0,
+              "username": "using_YueCheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088894842223095986",
+        "in_reply_to_user_id": "1496714588918026242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088857806439154001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@using_YueCheng 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088857793080242176"
+          ]
+        },
+        "author_id": "1496714588918026242",
+        "conversation_id": "2088857806439154001",
+        "created_at": "2026-08-16T05:18:04.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088857806439154001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jI2D9A3vR1",
+              "end": 31,
+              "expanded_url": "https://x.com/using_YueCheng/status/2088857806439154001/photo/1",
+              "media_key": "3_2088857793080242176",
+              "start": 8,
+              "url": "https://t.co/jI2D9A3vR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088857806439154001",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088857793080242176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会一直喜欢你 https://t.co/jI2D9A3vR1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2088894842223095986",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1785567890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4984,
+          "following_count": 1897,
+          "like_count": 72272,
+          "listed_count": 16,
+          "media_count": 354,
+          "tweet_count": 4642
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-24T05:12:38.000Z",
+        "description": "笨蛋楠娘后端程序员兼职VUP绝赞营业中",
+        "id": "1496714588918026242",
+        "is_identity_verified": false,
+        "location": "死信队列",
+        "most_recent_tweet_id": "2088857806439154001",
+        "name": "梓沫zimo",
+        "pinned_tweet_id": "2071449178312704285",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1496714588918026242/1767075805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063145493048467456/Gpi3RmDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 817,
+          "like_count": 12558,
+          "listed_count": 7,
+          "media_count": 496,
+          "tweet_count": 4821
+        },
+        "url": "",
+        "username": "using_YueCheng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

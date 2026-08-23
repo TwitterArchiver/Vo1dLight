@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2083094631492075747",
+    "created_at": "2026-07-31T08:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083106891786486041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815768206910668800",
+          "start": 0,
+          "username": "aoidailylife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083106891786486041",
+    "in_reply_to_user_id": "1815768206910668800",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083094631492075747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoidailylife xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1688,
+        "media_key": "3_2083094615507554304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOijhB7bUAANNrC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2083094631492075747",
+        "created_at": "2026-07-31T08:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083106891786486041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815768206910668800",
+              "start": 0,
+              "username": "aoidailylife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083106891786486041",
+        "in_reply_to_user_id": "1815768206910668800",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083094631492075747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoidailylife xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083094615507554304"
+          ]
+        },
+        "author_id": "1815768206910668800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083094631492075747",
+        "created_at": "2026-07-31T07:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083094631492075747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAdX2APMSg",
+              "end": 37,
+              "expanded_url": "https://x.com/aoidailylife/status/2083094631492075747/photo/1",
+              "media_key": "3_2083094615507554304",
+              "start": 14,
+              "url": "https://t.co/tAdX2APMSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083094631492075747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "月底了，该客串小蛋糕了🍰🫣 https://t.co/tAdX2APMSg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "location": "Somewhere in between",
+        "name": "空光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4989,
+          "following_count": 1885,
+          "like_count": 71799,
+          "listed_count": 16,
+          "media_count": 349,
+          "tweet_count": 4580
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T15:17:41.000Z",
+        "description": "intp | 🏳️‍⚧️ | 赛博猫猫 | 热爱探索一切未知的东西 | 全职维修炼丹炉的三流魔法使 | 日本語の勉強をしています",
+        "id": "1815768206910668800",
+        "name": "aoi今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908049464939679744/Y6R33B7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3178,
+          "following_count": 5196,
+          "like_count": 111657,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 3843
+        },
+        "url": "",
+        "username": "aoidailylife",
+        "verified": false
+      }
+    ]
+  }
+}

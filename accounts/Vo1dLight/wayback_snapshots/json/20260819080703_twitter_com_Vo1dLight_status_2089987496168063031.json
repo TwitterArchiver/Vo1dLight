@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2089724640868651117",
+    "created_at": "2026-08-19T08:07:03.000Z",
+    "display_text_range": [
+      13,
+      155
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089987496168063031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1122177599940096000",
+          "start": 0,
+          "username": "realWeZZard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089987496168063031",
+    "in_reply_to_user_id": "1122177599940096000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089724640868651117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realWeZZard A社那个Jspace我自己当时看到的时候也研究过，感觉是挺有意思的东西\n我一直觉得可解释性和模型性能其实是一个trade-off，至少说很难有什么很简单的方式又兼顾可解释性又能有核弹爆炸瘫坐级的性能提升，所以这个插件出来的时候我还以为这两个只是巧合重名了而已，不过我也不用dsh就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2089724640868651117",
+        "created_at": "2026-08-19T08:07:03.000Z",
+        "display_text_range": [
+          13,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089987496168063031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1122177599940096000",
+              "start": 0,
+              "username": "realWeZZard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089987496168063031",
+        "in_reply_to_user_id": "1122177599940096000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089724640868651117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realWeZZard A社那个Jspace我自己当时看到的时候也研究过，感觉是挺有意思的东西\n我一直觉得可解释性和模型性能其实是一个trade-off，至少说很难有什么很简单的方式又兼顾可解释性又能有核弹爆炸瘫坐级的性能提升，所以这个插件出来的时候我还以为这两个只是巧合重名了而已，不过我也不用dsh就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122177599940096000",
+        "conversation_id": "2089724640868651117",
+        "created_at": "2026-08-18T14:42:34.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:41:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089724320088305682",
+          "2089724640868651117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089724640868651117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这次 DeepSeek x J-Space 的 hype 我想了一下：\n\n是不是我把技术文章写得太浅显易懂了导致鱼龙混杂？\n随便谁看了然后望文生义就可以水一点东西出来\n\n不过我想了想，看了但是不说话的人应该占多数\n他们可以被称为沉默的大多数\n对这些人而言，浅显易懂的写作是有益的\n\n另外，这也提醒我们\n在 AI slop 泛滥的年代，虽然用 AI 产出很容易\n我们还是要做长期正确的事情\n坚持高质量的产出\n坚持真人写作\n涉及真人镜头应该真人出镜\n并且构建自己的 distribution channel\n\n你的 distribution channel 就是你的长期信任资产\n构建自己长期的信任资产是对冲任何 AI 冲击最好的方式"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5642,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次 DeepSeek x J-Space 的 hype 我想了一下：\n\n是不是我把技术文章写得太浅显易懂了导致鱼龙混杂？\n随便谁看了然后望文生义就可以水一点东西出来\n\n不过我想了想，看了但是不说话的人应该占多数\n他们可以被称为沉默的大多数\n对这些人而言，浅显易懂的写作是有益的\n\n另外，这也提醒我们\n在 AI slop"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2089987496168063031",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1785567890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5129,
+          "following_count": 1899,
+          "like_count": 72500,
+          "listed_count": 16,
+          "media_count": 357,
+          "tweet_count": 4691
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-27T16:36:03.000Z",
+        "description": "The crazy one.\nBuilding @readycheckdev , ex-ByteDance\nFeel free to grab my skills: https://t.co/y99vQ4RS67",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "readycheckdev"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skills.wezzard.com",
+                "end": 106,
+                "expanded_url": "http://skills.wezzard.com",
+                "start": 83,
+                "url": "https://t.co/y99vQ4RS67"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wezzard.com",
+                "end": 23,
+                "expanded_url": "https://wezzard.com",
+                "start": 0,
+                "url": "https://t.co/2TSsdsVubs"
+              }
+            ]
+          }
+        },
+        "id": "1122177599940096000",
+        "is_identity_verified": false,
+        "location": "SZ, CHN / SYD, AU",
+        "most_recent_tweet_id": "2089981731411759596",
+        "name": "WeZZard",
+        "pinned_tweet_id": "2074929320192274599",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122177599940096000/1783935293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1122177923635499008/uWb83ckB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4471,
+          "following_count": 636,
+          "like_count": 4451,
+          "listed_count": 27,
+          "media_count": 538,
+          "tweet_count": 6785
+        },
+        "url": "https://t.co/2TSsdsVubs",
+        "username": "realWeZZard",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
