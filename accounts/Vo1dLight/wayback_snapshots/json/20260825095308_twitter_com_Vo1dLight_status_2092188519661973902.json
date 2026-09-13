@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2092167573483971022",
+    "created_at": "2026-08-25T09:53:08.000Z",
+    "display_text_range": [
+      8,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092188519661973902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "147786784",
+          "start": 0,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092188519661973902",
+    "in_reply_to_user_id": "147786784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092167573483971022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yetone 看哭十万llm和真人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2092167573483971022",
+        "created_at": "2026-08-25T09:53:08.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092188519661973902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "147786784",
+              "start": 0,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092188519661973902",
+        "in_reply_to_user_id": "147786784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092167573483971022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yetone 看哭十万llm和真人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147786784",
+        "conversation_id": "2092167573483971022",
+        "created_at": "2026-08-25T08:29:54.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092167573483971022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yetone/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/yetone/status/2092160941962219664",
+              "start": 29,
+              "url": "https://t.co/FNCtppbWpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092167573483971022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6849,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092160941962219664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我的 AGENTS .md 里只有一句话：会好起来的 https://t.co/FNCtppbWpl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2092188530479100263",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1785567890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5400,
+          "following_count": 1918,
+          "like_count": 72847,
+          "listed_count": 22,
+          "media_count": 361,
+          "tweet_count": 4781
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Built: avante.nvim\n\nBuilding:\n\nhttps://t.co/pfq9srNgsd\n\nhttps://t.co/fpGnPR5t9C\n\nhttps://t.co/cBN1yzJPIG\n\nhttps://t.co/6ERz2HMx0f\n\nhttps://t.co/QhQRLD4zQo\n\nhttps://t.co/ln9CVeagWC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 54,
+                "expanded_url": "https://alma.now",
+                "start": 31,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 79,
+                "expanded_url": "https://confirmo.love",
+                "start": 56,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 104,
+                "expanded_url": "https://swordgame.ai",
+                "start": 81,
+                "url": "https://t.co/cBN1yzJPIG"
+              },
+              {
+                "display_url": "yansu.app",
+                "end": 129,
+                "expanded_url": "https://yansu.app",
+                "start": 106,
+                "url": "https://t.co/6ERz2HMx0f"
+              },
+              {
+                "display_url": "cumora.ai",
+                "end": 154,
+                "expanded_url": "https://cumora.ai",
+                "start": 131,
+                "url": "https://t.co/QhQRLD4zQo"
+              },
+              {
+                "display_url": "killaislop.com",
+                "end": 179,
+                "expanded_url": "https://killaislop.com",
+                "start": 156,
+                "url": "https://t.co/ln9CVeagWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "is_identity_verified": true,
+        "location": "无",
+        "most_recent_tweet_id": "2092187487724875917",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/147786784/1635109454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88324,
+          "following_count": 4543,
+          "like_count": 19436,
+          "listed_count": 1074,
+          "media_count": 2301,
+          "tweet_count": 20160
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096476613592707074"
+      ],
+      "media_source_tweet_id": [
+        "2096477100689809729"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2096846912834175078",
+    "created_at": "2026-09-07T06:23:56.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096846912834175078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090136700741812224",
+          "start": 3,
+          "username": "Alice__486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CV1vVTYpF7",
+          "end": 47,
+          "expanded_url": "https://x.com/Alice__486/status/2096477100689809729/photo/1",
+          "media_key": "3_2096476613592707074",
+          "start": 24,
+          "url": "https://t.co/CV1vVTYpF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096846912834175078",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096476613592707074"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096477100689809729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alice__486: 无袖款的连身袜 https://t.co/CV1vVTYpF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096476613592707074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRguX1kbcAI7oce.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096476613592707074"
+          ],
+          "media_source_tweet_id": [
+            "2096477100689809729"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2096846912834175078",
+        "created_at": "2026-09-07T06:23:56.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096846912834175078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090136700741812224",
+              "start": 3,
+              "username": "Alice__486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CV1vVTYpF7",
+              "end": 47,
+              "expanded_url": "https://x.com/Alice__486/status/2096477100689809729/photo/1",
+              "media_key": "3_2096476613592707074",
+              "start": 24,
+              "url": "https://t.co/CV1vVTYpF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096846912834175078",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096476613592707074"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096477100689809729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alice__486: 无袖款的连身袜 https://t.co/CV1vVTYpF7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096476613592707074"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "2096477100689809729",
+        "created_at": "2026-09-06T05:54:26.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096477100689809729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CV1vVTYpF7",
+              "end": 31,
+              "expanded_url": "https://x.com/Alice__486/status/2096477100689809729/photo/1",
+              "media_key": "3_2096476613592707074",
+              "start": 8,
+              "url": "https://t.co/CV1vVTYpF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096477100689809729",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096476613592707074"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3747,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "无袖款的连身袜 https://t.co/CV1vVTYpF7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2096846912834175078",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1785567890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5524,
+          "following_count": 1962,
+          "like_count": 73925,
+          "listed_count": 23,
+          "media_count": 362,
+          "tweet_count": 4839
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096845181366743357",
+        "name": "Alice_486",
+        "pinned_tweet_id": "2024770539202695182",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090136700741812224/1617759807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30290,
+          "following_count": 1711,
+          "like_count": 52778,
+          "listed_count": 115,
+          "media_count": 1017,
+          "tweet_count": 15580
+        },
+        "url": "",
+        "username": "Alice__486",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
