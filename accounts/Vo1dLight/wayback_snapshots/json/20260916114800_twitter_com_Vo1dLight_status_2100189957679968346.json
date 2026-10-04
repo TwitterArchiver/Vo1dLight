@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100179676547428352"
+      ]
+    },
+    "author_id": "1657466272240611329",
+    "conversation_id": "2100189957679968346",
+    "created_at": "2026-09-16T11:48:00.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100189957679968346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Srxfu4n48t",
+          "end": 171,
+          "expanded_url": "https://x.com/Vo1dLight/status/2100189957679968346/photo/1",
+          "media_key": "3_2100179676547428352",
+          "start": 148,
+          "url": "https://t.co/Srxfu4n48t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100189957679968346",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100179676547428352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "似乎codex里用自带的附加上下文（ `@` 键）搜索文件的时候会默认忽略所有被gitignore的文件\n\n虽然在绝大部分时候这个都不怎么影响，不过有时候比如想让他分析一下报错信息/实验结果的时候就还是挺希望有个开关能调整这个是否忽略的。。。。。。不然有时候还要去finder找文件还挺麻烦的（ https://t.co/Srxfu4n48t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2100179676547428352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVWSeEasAAfb3J.png",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100179676547428352"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "conversation_id": "2100189957679968346",
+        "created_at": "2026-09-16T11:48:00.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100189957679968346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Srxfu4n48t",
+              "end": 171,
+              "expanded_url": "https://x.com/Vo1dLight/status/2100189957679968346/photo/1",
+              "media_key": "3_2100179676547428352",
+              "start": 148,
+              "url": "https://t.co/Srxfu4n48t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100189957679968346",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100179676547428352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似乎codex里用自带的附加上下文（ `@` 键）搜索文件的时候会默认忽略所有被gitignore的文件\n\n虽然在绝大部分时候这个都不怎么影响，不过有时候比如想让他分析一下报错信息/实验结果的时候就还是挺希望有个开关能调整这个是否忽略的。。。。。。不然有时候还要去finder找文件还挺麻烦的（ https://t.co/Srxfu4n48t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2100189957679968346",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5544,
+          "following_count": 1965,
+          "like_count": 74431,
+          "listed_count": 23,
+          "media_count": 365,
+          "tweet_count": 4875
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

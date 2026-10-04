@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2100952132073795862",
+    "created_at": "2026-09-18T14:16:37.000Z",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100952136708415732"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100952136708415732",
+    "in_reply_to_user_id": "1657466272240611329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100952132073795862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "复盘：1. 虽然我不追求全供，但确实感觉不期供需要尽早走，不然会占一个不期（你的追忆/黑蛋/鸭本/+5火/仙人跳在天上伤心地看着你）特别是全追的情况下，黑诞的猎印是非常强力的生存藏；2. 自认为是胡局（e.g. &gt;2 板藤）且以多藏/高分为目标时可以考虑五层甚至四层就要开始搬商店了，以免最后钱烂手里"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2100952015635681280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgUuhYbEAAFC1V.jpg",
+        "width": 1200
+      },
+      {
+        "height": 838,
+        "media_key": "3_2100952015576907776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgUuhKaQAALeqk.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2100952015581089792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgUuhLaEAAk3u6.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2100952132073795862",
+        "created_at": "2026-09-18T14:16:37.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100952136708415732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100952136708415732",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100952132073795862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "复盘：1. 虽然我不追求全供，但确实感觉不期供需要尽早走，不然会占一个不期（你的追忆/黑蛋/鸭本/+5火/仙人跳在天上伤心地看着你）特别是全追的情况下，黑诞的猎印是非常强力的生存藏；2. 自认为是胡局（e.g. &gt;2 板藤）且以多藏/高分为目标时可以考虑五层甚至四层就要开始搬商店了，以免最后钱烂手里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100952015635681280",
+            "3_2100952015576907776",
+            "3_2100952015581089792"
+          ]
+        },
+        "author_id": "1657466272240611329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100952132073795862",
+        "created_at": "2026-09-18T14:16:36.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100952132073795862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "光小妹的黑流树海"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRae2c7k3c",
+              "end": 67,
+              "expanded_url": "https://x.com/Vo1dLight/status/2100952132073795862/photo/1",
+              "media_key": "3_2100952015635681280",
+              "start": 44,
+              "url": "https://t.co/CRae2c7k3c"
+            },
+            {
+              "display_url": "pic.x.com/CRae2c7k3c",
+              "end": 67,
+              "expanded_url": "https://x.com/Vo1dLight/status/2100952132073795862/photo/1",
+              "media_key": "3_2100952015576907776",
+              "start": 44,
+              "url": "https://t.co/CRae2c7k3c"
+            },
+            {
+              "display_url": "pic.x.com/CRae2c7k3c",
+              "end": 67,
+              "expanded_url": "https://x.com/Vo1dLight/status/2100952132073795862/photo/1",
+              "media_key": "3_2100952015581089792",
+              "start": 44,
+              "url": "https://t.co/CRae2c7k3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100952132073795862",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100952015635681280"
+          },
+          {
+            "media_key": "3_2100952015576907776"
+          },
+          {
+            "media_key": "3_2100952015581089792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#光小妹的黑流树海 昨晚在yj技术交流沙龙开的一把超爽全追无削13，200藏4k8结算 https://t.co/CRae2c7k3c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2100952136708415732",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 1966,
+          "like_count": 74649,
+          "listed_count": 23,
+          "media_count": 367,
+          "tweet_count": 4896
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2104865537608339600",
+    "created_at": "2026-09-29T10:29:34.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T11:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104881264562213375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1451494188063735811",
+          "start": 0,
+          "username": "roifex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104881264562213375",
+    "in_reply_to_user_id": "1451494188063735811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104865537608339600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roifex 保密本质保落后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2104865537608339600",
+        "created_at": "2026-09-29T10:29:34.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104881264562213375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1451494188063735811",
+              "start": 0,
+              "username": "roifex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104881264562213375",
+        "in_reply_to_user_id": "1451494188063735811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104865537608339600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roifex 保密本质保落后"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451494188063735811",
+        "conversation_id": "2104865537608339600",
+        "created_at": "2026-09-29T09:27:05.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104865537608339600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2104838506363408740",
+              "start": 83,
+              "url": "https://t.co/lTs22uFa4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104865537608339600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4083,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104838506363408740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "语言的艺术： \n我们炸了，前沿模型被 Anthropic 轻松打败，新模型延期了，还要砍用户额度，现在根本拿不出好消息。\n ➡️ 我很惊讶我们竟然把好消息都保密了。 https://t.co/lTs22uFa4l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2104881264562213375",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5648,
+          "following_count": 1971,
+          "like_count": 75185,
+          "listed_count": 23,
+          "media_count": 370,
+          "tweet_count": 4965
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-22T10:22:50.000Z",
+        "description": "编译器, 静态分析, 程序语言理论, Rust / 摄影 / Furry",
+        "id": "1451494188063735811",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104865537608339600",
+        "name": "roife",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451494188063735811/1721366418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060691024822075392/uDYaDUyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7702,
+          "following_count": 465,
+          "like_count": 5730,
+          "listed_count": 30,
+          "media_count": 294,
+          "tweet_count": 1996
+        },
+        "url": "",
+        "username": "roifex",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

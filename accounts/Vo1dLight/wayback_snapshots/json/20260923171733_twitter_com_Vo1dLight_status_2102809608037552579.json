@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2102654493909463248",
+    "created_at": "2026-09-23T17:17:33.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T18:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102809608037552579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1935589483417939970",
+          "start": 0,
+          "username": "uu_remote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102809608037552579",
+    "in_reply_to_user_id": "1935589483417939970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102654493909463248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uu_remote UU远程确实很好用捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90140,
+        "height": 1080,
+        "media_key": "13_2102654004568412160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102654004568412160/img/KX5GiTW9OlGhJiuG.jpg",
+        "public_metrics": {
+          "view_count": 26060
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102654004568412160/vid/avc1/1920x1080/bUQfse-9g808EFMy.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102654004568412160/vid/avc1/480x270/wAqwFOzUyR4Y_A7P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102654004568412160/vid/avc1/1280x720/HZ6Zc3dCDV4c8XSx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102654004568412160/vid/avc1/640x360/_NSQaYifHnQe6TGN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102654004568412160/pl/RxVHjDCASJh6dLLw.m3u8?v=6f6"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2102654493909463248",
+        "created_at": "2026-09-23T17:17:33.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102809608037552579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1935589483417939970",
+              "start": 0,
+              "username": "uu_remote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102809608037552579",
+        "in_reply_to_user_id": "1935589483417939970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102654493909463248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uu_remote UU远程确实很好用捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102654004568412160"
+          ]
+        },
+        "author_id": "1935589483417939970",
+        "conversation_id": "2102654493909463248",
+        "created_at": "2026-09-23T07:01:11.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102654493909463248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyHcf8kUBN",
+              "end": 120,
+              "expanded_url": "https://x.com/uu_remote/status/2102654493909463248/video/1",
+              "media_key": "13_2102654004568412160",
+              "start": 97,
+              "url": "https://t.co/XyHcf8kUBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102654493909463248",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102654004568412160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 57975,
+          "like_count": 417,
+          "quote_count": 25,
+          "reply_count": 228,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "终端听劝式更新，多会话、TUI等等全都有\nUU远程终端功能更新，广泛听取大家的建议。现已支持多会话、会话继承、TUI、语音输入、Mac自动解锁等多项新功能。欢迎大家在体验后给我们提出改进建议~ https://t.co/XyHcf8kUBN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2102809608037552579",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 1972,
+          "like_count": 75001,
+          "listed_count": 23,
+          "media_count": 368,
+          "tweet_count": 4929
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-19T06:44:39.000Z",
+        "description": "真4K、真免费、真好用的远程控制软件\n产品建议/Bug反馈等，欢迎投递至uuyc@188.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uuyc.163.com",
+                "end": 23,
+                "expanded_url": "http://uuyc.163.com",
+                "start": 0,
+                "url": "https://t.co/mGdwyHROcI"
+              }
+            ]
+          }
+        },
+        "id": "1935589483417939970",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102654493909463248",
+        "name": "网易UU远程",
+        "pinned_tweet_id": "2036737619930091970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935589483417939970/1789874976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935589759323123712/yTYwehdF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/mGdwyHROcI",
+        "username": "uu_remote",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2102654466831036910",
+    "created_at": "2026-09-23T08:08:46.000Z",
+    "display_text_range": [
+      39,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102671500914692383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        },
+        {
+          "end": 22,
+          "id": "1499442786453663745",
+          "start": 13,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 38,
+          "id": "787936194050994176",
+          "start": 23,
+          "username": "DD_Hibiki_1933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102671500914692383",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102654466831036910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ @Ted_yeet @DD_Hibiki_1933 xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2102654342344089600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4g--jaIAAlJnD.jpg",
+        "width": 3963
+      },
+      {
+        "height": 2813,
+        "media_key": "3_2102654305769791488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4g82TaoAAc13o.jpg",
+        "width": 3942
+      },
+      {
+        "height": 2785,
+        "media_key": "3_2102654287843397632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4g7zhbkAAw_Rb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2834,
+        "media_key": "3_2102654259510775808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4g6J-aEAAVOWo.jpg",
+        "width": 3753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2102654466831036910",
+        "created_at": "2026-09-23T08:08:46.000Z",
+        "display_text_range": [
+          39,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102671500914692383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            },
+            {
+              "end": 22,
+              "id": "1499442786453663745",
+              "start": 13,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 38,
+              "id": "787936194050994176",
+              "start": 23,
+              "username": "DD_Hibiki_1933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102671500914692383",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102654466831036910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ @Ted_yeet @DD_Hibiki_1933 xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102654342344089600",
+            "3_2102654305769791488",
+            "3_2102654287843397632",
+            "3_2102654259510775808"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "conversation_id": "2102654466831036910",
+        "created_at": "2026-09-23T07:01:04.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102654466831036910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aY3LUYOszS",
+              "end": 32,
+              "expanded_url": "https://x.com/kujirarara_/status/2102654466831036910/photo/1",
+              "media_key": "3_2102654342344089600",
+              "start": 9,
+              "url": "https://t.co/aY3LUYOszS"
+            },
+            {
+              "display_url": "pic.x.com/aY3LUYOszS",
+              "end": 32,
+              "expanded_url": "https://x.com/kujirarara_/status/2102654466831036910/photo/1",
+              "media_key": "3_2102654305769791488",
+              "start": 9,
+              "url": "https://t.co/aY3LUYOszS"
+            },
+            {
+              "display_url": "pic.x.com/aY3LUYOszS",
+              "end": 32,
+              "expanded_url": "https://x.com/kujirarara_/status/2102654466831036910/photo/1",
+              "media_key": "3_2102654287843397632",
+              "start": 9,
+              "url": "https://t.co/aY3LUYOszS"
+            },
+            {
+              "display_url": "pic.x.com/aY3LUYOszS",
+              "end": 32,
+              "expanded_url": "https://x.com/kujirarara_/status/2102654466831036910/photo/1",
+              "media_key": "3_2102654259510775808",
+              "start": 9,
+              "url": "https://t.co/aY3LUYOszS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102654466831036910",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102654342344089600"
+          },
+          {
+            "media_key": "3_2102654305769791488"
+          },
+          {
+            "media_key": "3_2102654287843397632"
+          },
+          {
+            "media_key": "3_2102654259510775808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "弦理论学习成果（ https://t.co/aY3LUYOszS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2102671500914692383",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5542,
+          "following_count": 1971,
+          "like_count": 74995,
+          "listed_count": 23,
+          "media_count": 368,
+          "tweet_count": 4928
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 轨道交通/城市规划/历史研究/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "is_identity_verified": false,
+        "location": "すみだ水族館",
+        "most_recent_tweet_id": "2102654466831036910",
+        "name": "くじら",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510601261019631618/1749778162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083164170384769024/D6klotBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3019,
+          "following_count": 638,
+          "like_count": 124085,
+          "listed_count": 18,
+          "media_count": 1522,
+          "tweet_count": 8402
+        },
+        "url": "",
+        "username": "kujirarara_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "Power by meat, alcohol and lesbian sex with my wives",
+        "id": "1499442786453663745",
+        "is_identity_verified": false,
+        "location": "Cantonia",
+        "most_recent_tweet_id": "2102664843140722749",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499442786453663745/1696346242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6911,
+          "following_count": 1832,
+          "like_count": 56811,
+          "listed_count": 24,
+          "media_count": 588,
+          "tweet_count": 13679
+        },
+        "url": "",
+        "username": "Ted_yeet",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-17T08:40:02.000Z",
+        "description": "Згинуть наші воріженьки,\nяк роса на сонці.",
+        "id": "787936194050994176",
+        "is_identity_verified": false,
+        "location": "港口鎮駅",
+        "most_recent_tweet_id": "2102651075283275946",
+        "name": "信頼",
+        "pinned_tweet_id": "2018220698012102966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/787936194050994176/1783838521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036127469510754304/_rK856Dd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 423,
+          "like_count": 6292,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 1544
+        },
+        "url": "",
+        "username": "DD_Hibiki_1933",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

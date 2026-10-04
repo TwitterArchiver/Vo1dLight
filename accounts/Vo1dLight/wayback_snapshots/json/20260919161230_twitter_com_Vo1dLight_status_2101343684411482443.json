@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2101339040197083217",
+    "created_at": "2026-09-19T16:12:30.000Z",
+    "display_text_range": [
+      10,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101343684411482443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101343684411482443",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101339040197083217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 我发现，让Jev输出他对一句话下一个词的候选输出及每个输出的可信度，然后再选出这里面可信度最高的一个，就可以平替LLM诶 🤓☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2101339040197083217",
+        "created_at": "2026-09-19T16:12:30.000Z",
+        "display_text_range": [
+          10,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101343684411482443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101343684411482443",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101339040197083217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 我发现，让Jev输出他对一句话下一个词的候选输出及每个输出的可信度，然后再选出这里面可信度最高的一个，就可以平替LLM诶 🤓☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2101339040197083217",
+        "created_at": "2026-09-19T15:54:02.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:53:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101338866481557817",
+          "2101339040197083217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/goan999999/sta…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/goan999999/status/2101255278935388594",
+              "start": 50,
+              "url": "https://t.co/9Ve0KfxiXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101339040197083217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101255278935388594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神经病，jev和chatgpt一个是classifier一个是llm他们两放在一起有什么可比性吗？ https://t.co/9Ve0KfxiXY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2101343684411482443",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5538,
+          "following_count": 1966,
+          "like_count": 74710,
+          "listed_count": 23,
+          "media_count": 368,
+          "tweet_count": 4918
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "https://t.co/hUTrNH9tjK\nCo-founder of https://t.co/gLiVpv7NbV https://t.co/PSLnUgtUxO\n家里有大猫和两只小猫",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/hUTrNH9tjK"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 61,
+                "expanded_url": "http://memoh.ai",
+                "start": 38,
+                "url": "https://t.co/gLiVpv7NbV"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 85,
+                "expanded_url": "http://felinic.ai",
+                "start": 62,
+                "url": "https://t.co/PSLnUgtUxO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpSBMs"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "is_identity_verified": false,
+        "location": "上海/深圳",
+        "most_recent_tweet_id": "2101339860196102615",
+        "name": "📦Acbox",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1764649898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13536,
+          "following_count": 1539,
+          "like_count": 3669,
+          "listed_count": 67,
+          "media_count": 376,
+          "tweet_count": 5146
+        },
+        "url": "https://t.co/UNw6tpSBMs",
+        "username": "AcboxLiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

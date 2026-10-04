@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2100810201486209086",
+    "created_at": "2026-09-18T07:46:33.000Z",
+    "display_text_range": [
+      9,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100853970180944139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "137946654",
+          "start": 0,
+          "username": "zzxwill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100853970180944139",
+    "in_reply_to_user_id": "137946654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100810201486209086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzxwill 真的能打过Harvey这种垂类startup吗，律所这种对数据外流看得更重吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2100810201486209086",
+        "created_at": "2026-09-18T07:46:33.000Z",
+        "display_text_range": [
+          9,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100853970180944139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "137946654",
+              "start": 0,
+              "username": "zzxwill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100853970180944139",
+        "in_reply_to_user_id": "137946654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100810201486209086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzxwill 真的能打过Harvey这种垂类startup吗，律所这种对数据外流看得更重吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "137946654",
+        "conversation_id": "2100810201486209086",
+        "created_at": "2026-09-18T04:52:37.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100810201486209086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/openai/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/openai/status/2100679992720142459",
+              "start": 8,
+              "url": "https://t.co/A2rzLNA6RF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100810201486209086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 754,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100679992720142459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "律师瑟瑟发抖？ https://t.co/A2rzLNA6RF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2100853970180944139",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5540,
+          "following_count": 1964,
+          "like_count": 74628,
+          "listed_count": 23,
+          "media_count": 365,
+          "tweet_count": 4883
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-28T06:06:33.000Z",
+        "description": "AI Infra engineer @alibaba_cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "alibaba_cloud"
+              }
+            ]
+          }
+        },
+        "id": "137946654",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2100830151340953639",
+        "name": "zzxwill",
+        "pinned_tweet_id": "2003695377963450815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137946654/1765117397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671671675678720/Pu87BRd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6866,
+          "following_count": 3603,
+          "like_count": 18866,
+          "listed_count": 35,
+          "media_count": 2777,
+          "tweet_count": 17927
+        },
+        "url": "",
+        "username": "zzxwill",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

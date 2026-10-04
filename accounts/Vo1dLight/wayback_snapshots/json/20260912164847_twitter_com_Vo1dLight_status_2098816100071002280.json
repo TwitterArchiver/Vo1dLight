@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2098806151819276656",
+    "created_at": "2026-09-12T16:48:47.000Z",
+    "display_text_range": [
+      12,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098816100071002280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098816100071002280",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098806151819276656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 &gt; 在本书的开始，我不得不遗憾地告诉大家一个消息。国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2098805701175025665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB0qk8aIAEdl8m.png",
+        "width": 1933
+      },
+      {
+        "height": 994,
+        "media_key": "3_2098805761484984320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB0uFnbEAAETMU.png",
+        "width": 1960
+      },
+      {
+        "height": 1122,
+        "media_key": "3_2098805851989397514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB0zWxW0AooxDt.png",
+        "width": 1909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2098806151819276656",
+        "created_at": "2026-09-12T16:48:47.000Z",
+        "display_text_range": [
+          12,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098816100071002280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098816100071002280",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098806151819276656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 &gt; 在本书的开始，我不得不遗憾地告诉大家一个消息。国内绝大部分大学的本科教学，不是濒临崩溃，而是早已崩溃。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098805701175025665",
+            "3_2098805761484984320",
+            "3_2098805851989397514"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2098806151819276656",
+        "created_at": "2026-09-12T16:09:15.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098806151819276656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTj3wrhbfI",
+              "end": 166,
+              "expanded_url": "https://x.com/mario_2333/status/2098806151819276656/photo/1",
+              "media_key": "3_2098805701175025665",
+              "start": 143,
+              "url": "https://t.co/wTj3wrhbfI"
+            },
+            {
+              "display_url": "pic.x.com/wTj3wrhbfI",
+              "end": 166,
+              "expanded_url": "https://x.com/mario_2333/status/2098806151819276656/photo/1",
+              "media_key": "3_2098805761484984320",
+              "start": 143,
+              "url": "https://t.co/wTj3wrhbfI"
+            },
+            {
+              "display_url": "pic.x.com/wTj3wrhbfI",
+              "end": 166,
+              "expanded_url": "https://x.com/mario_2333/status/2098806151819276656/photo/1",
+              "media_key": "3_2098805851989397514",
+              "start": 143,
+              "url": "https://t.co/wTj3wrhbfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098806151819276656",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098805701175025665"
+          },
+          {
+            "media_key": "3_2098805761484984320"
+          },
+          {
+            "media_key": "3_2098805851989397514"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 608,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说，虽然是一个很古老的东西，但是咱强烈推荐所有大学生阅读《上海交通大学生存手册》，2008年的原版就是最好的了\n\n咱大一看到的时候感觉很震撼，甚至对一些不屑鄙夷，然后随着对大学的了解，渐渐变成认同和敬佩，常读常新相见恨晚，只能感叹作者认知远高常人\n\n于是放一些精彩摘录，一定要看看🥺 https://t.co/wTj3wrhbfI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2098816100071002280",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1788952475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5546,
+          "following_count": 1965,
+          "like_count": 74188,
+          "listed_count": 23,
+          "media_count": 364,
+          "tweet_count": 4866
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "is_identity_verified": false,
+        "location": "UTC+2",
+        "most_recent_tweet_id": "2098810464159310022",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965583779380129792/1778057704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4356,
+          "following_count": 284,
+          "like_count": 62423,
+          "listed_count": 19,
+          "media_count": 1272,
+          "tweet_count": 20552
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

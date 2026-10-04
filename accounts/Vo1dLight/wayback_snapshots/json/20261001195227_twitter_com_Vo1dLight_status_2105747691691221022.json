@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2105619397692080223",
+    "created_at": "2026-10-01T19:52:27.000Z",
+    "display_text_range": [
+      11,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T20:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105747691691221022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914589661928022016",
+          "start": 0,
+          "username": "Pumpkin7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105747691691221022",
+    "in_reply_to_user_id": "1914589661928022016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105641168877060117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pumpkin7i 正如他们不会折腾bot这个产品本身而是就待在chat端"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2105619397692080223",
+        "created_at": "2026-10-01T19:52:27.000Z",
+        "display_text_range": [
+          11,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105747691691221022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914589661928022016",
+              "start": 0,
+              "username": "Pumpkin7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105747691691221022",
+        "in_reply_to_user_id": "1914589661928022016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105641168877060117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pumpkin7i 正如他们不会折腾bot这个产品本身而是就待在chat端"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914589661928022016",
+        "conversation_id": "2105619397692080223",
+        "created_at": "2026-10-01T12:49:10.000Z",
+        "display_text_range": [
+          11,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105641168877060117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657466272240611329",
+              "start": 0,
+              "username": "Vo1dLight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105641168877060117",
+        "in_reply_to_user_id": "1657466272240611329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105619397692080223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vo1dLight 空光有道理，不过普通人图的就是不用自己折腾"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2105747691691221022",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5681,
+          "following_count": 1978,
+          "like_count": 75345,
+          "listed_count": 23,
+          "media_count": 372,
+          "tweet_count": 4985
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-22T07:59:06.000Z",
+        "description": "美股｜宏观经济｜AI 应用",
+        "id": "1914589661928022016",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2105689781120459247",
+        "name": "Pumpkin 南瓜",
+        "pinned_tweet_id": "2105097221838610595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914589661928022016/1789184245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098619121256837120/5HWd02FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1283,
+          "like_count": 849,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1089
+        },
+        "url": "",
+        "username": "Pumpkin7i",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

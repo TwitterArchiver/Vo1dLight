@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2102261306548158708",
+    "created_at": "2026-09-22T05:48:01.000Z",
+    "display_text_range": [
+      29,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102273693875626252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        },
+        {
+          "end": 28,
+          "id": "787936194050994176",
+          "start": 13,
+          "username": "DD_Hibiki_1933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102273693875626252",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102261306548158708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ @DD_Hibiki_1933 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2102261049378721792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSy7SUFb0AAf3Jp.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2102261306548158708",
+        "created_at": "2026-09-22T05:48:01.000Z",
+        "display_text_range": [
+          29,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102273693875626252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            },
+            {
+              "end": 28,
+              "id": "787936194050994176",
+              "start": 13,
+              "username": "DD_Hibiki_1933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102273693875626252",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102261306548158708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ @DD_Hibiki_1933 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102261049378721792"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102261306548158708",
+        "created_at": "2026-09-22T04:58:48.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102261306548158708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FGRPg4PzX",
+              "end": 30,
+              "expanded_url": "https://x.com/kujirarara_/status/2102261306548158708/photo/1",
+              "media_key": "3_2102261049378721792",
+              "start": 7,
+              "url": "https://t.co/8FGRPg4PzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102261306548158708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102261049378721792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 397,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有点创意了（ https://t.co/8FGRPg4PzX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2102273693875626252",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5543,
+          "following_count": 1971,
+          "like_count": 74901,
+          "listed_count": 23,
+          "media_count": 368,
+          "tweet_count": 4925
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 轨道交通/城市规划/历史研究/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "is_identity_verified": false,
+        "location": "すみだ水族館",
+        "most_recent_tweet_id": "2102261306548158708",
+        "name": "くじら",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510601261019631618/1749778162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083164170384769024/D6klotBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3012,
+          "following_count": 638,
+          "like_count": 123964,
+          "listed_count": 18,
+          "media_count": 1520,
+          "tweet_count": 8385
+        },
+        "url": "",
+        "username": "kujirarara_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-17T08:40:02.000Z",
+        "description": "Згинуть наші воріженьки,\nяк роса на сонці.\n@_redstone_17_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "_redstone_17_"
+              }
+            ]
+          }
+        },
+        "id": "787936194050994176",
+        "is_identity_verified": false,
+        "location": "港口鎮駅",
+        "most_recent_tweet_id": "2102262398367457504",
+        "name": "信頼",
+        "pinned_tweet_id": "2018220698012102966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/787936194050994176/1783838521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036127469510754304/_rK856Dd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 415,
+          "like_count": 6235,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "DD_Hibiki_1933",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

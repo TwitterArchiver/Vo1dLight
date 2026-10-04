@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2102335405916029018",
+    "created_at": "2026-09-22T10:04:01.000Z",
+    "display_text_range": [
+      16,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102338116074020867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352281301613568000",
+          "start": 0,
+          "username": "Starlight4You_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102338116074020867",
+    "in_reply_to_user_id": "1352281301613568000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102335405916029018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starlight4You_ 我上次买的时候卡了一天，上午付的款半夜才收到卡密，只能多等等了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2102335392532119552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSz-5p6bwAAlLwT.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2102335405916029018",
+        "created_at": "2026-09-22T10:04:01.000Z",
+        "display_text_range": [
+          16,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102338116074020867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352281301613568000",
+              "start": 0,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102338116074020867",
+        "in_reply_to_user_id": "1352281301613568000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102335405916029018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starlight4You_ 我上次买的时候卡了一天，上午付的款半夜才收到卡密，只能多等等了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102335392532119552"
+          ]
+        },
+        "author_id": "1352281301613568000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2102335405916029018",
+        "created_at": "2026-09-22T09:53:14.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102335405916029018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5VT0PQwx7",
+              "end": 66,
+              "expanded_url": "https://x.com/Starlight4You_/status/2102335405916029018/photo/1",
+              "media_key": "3_2102335392532119552",
+              "start": 43,
+              "url": "https://t.co/V5VT0PQwx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102335405916029018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102335392532119552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美区官网买礼品卡 卡一个半小时了\n会不会和Apple Pay默认账单地址是香港有关系 https://t.co/V5VT0PQwx7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r66k6"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2102338116074020867",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1789553655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5543,
+          "following_count": 1970,
+          "like_count": 74942,
+          "listed_count": 23,
+          "media_count": 368,
+          "tweet_count": 4926
+        },
+        "url": "https://t.co/vjee8r66k6",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-21T15:46:11.000Z",
+        "description": "",
+        "id": "1352281301613568000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102335405916029018",
+        "name": "Starlight✨",
+        "pinned_tweet_id": "1856285866831823171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352281301613568000/1778679406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062319081982992384/1JvQ1VX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5906,
+          "following_count": 358,
+          "like_count": 41696,
+          "listed_count": 20,
+          "media_count": 3197,
+          "tweet_count": 17736
+        },
+        "url": "",
+        "username": "Starlight4You_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

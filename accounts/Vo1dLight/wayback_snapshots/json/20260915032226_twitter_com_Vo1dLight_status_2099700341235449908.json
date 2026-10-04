@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1657466272240611329",
+    "conversation_id": "2099693534827950288",
+    "created_at": "2026-09-15T03:22:26.000Z",
+    "display_text_range": [
+      24,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099700341235449908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        },
+        {
+          "end": 23,
+          "id": "2061845670915629060",
+          "start": 11,
+          "username": "HWatson2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099700341235449908",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099699358837145880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww @HWatson2007 一直都在户外训嘛😢那强度很大了，我当时军训虽然也是早六晚八但只有早七～十，下午三～六是在外面训的其他时候都是教室里坐着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657466272240611329",
+        "conversation_id": "2099693534827950288",
+        "created_at": "2026-09-15T03:22:26.000Z",
+        "display_text_range": [
+          24,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099700341235449908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            },
+            {
+              "end": 23,
+              "id": "2061845670915629060",
+              "start": 11,
+              "username": "HWatson2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099700341235449908",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099699358837145880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww @HWatson2007 一直都在户外训嘛😢那强度很大了，我当时军训虽然也是早六晚八但只有早七～十，下午三～六是在外面训的其他时候都是教室里坐着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "conversation_id": "2099693534827950288",
+        "created_at": "2026-09-15T03:18:32.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099699358837145880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061845670915629060",
+              "start": 0,
+              "username": "HWatson2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099699358837145880",
+        "in_reply_to_user_id": "2061845670915629060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099699074329108843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HWatson2007 早六到晚八"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-13T19:22:20.000Z",
+        "description": "It's too bad she can't live, but then again who does? | alt @Vo1dL1ght",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dL1ght"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vo1dlight",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vo1dlight",
+                "start": 0,
+                "url": "https://t.co/vjee8r5yuy"
+              }
+            ]
+          }
+        },
+        "id": "1657466272240611329",
+        "is_identity_verified": false,
+        "location": "Somewhere in between",
+        "most_recent_tweet_id": "2099700341235449908",
+        "name": "空光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657466272240611329/1788952475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004893014481846272/HOyLl2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 1964,
+          "like_count": 74254,
+          "listed_count": 23,
+          "media_count": 364,
+          "tweet_count": 4872
+        },
+        "url": "https://t.co/vjee8r5yuy",
+        "username": "Vo1dLight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3HDeN\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtA0JC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3HDeN"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtA0JC"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2099700245169091068",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 1155,
+          "like_count": 35606,
+          "listed_count": 5,
+          "media_count": 1382,
+          "tweet_count": 6815
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T16:24:55.000Z",
+        "description": "19 years old. Student.\n\nCTA 量化 | Arbitrage\n\nMachine Learning | AI Agent\n\n台湾是一个独立的国家 | 厌恶小粉红和战狼\n\nhttps://t.co/SBIeDTAw2u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/HWatson2007",
+                "end": 119,
+                "expanded_url": "https://github.com/HWatson2007",
+                "start": 96,
+                "url": "https://t.co/SBIeDTAw2u"
+              }
+            ]
+          }
+        },
+        "id": "2061845670915629060",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099699074329108843",
+        "name": "Helmholtz W.",
+        "pinned_tweet_id": "2071435798751178759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061845670915629060/1782270358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093512278041825280/lu9wdIqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 152,
+          "like_count": 13485,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1884
+        },
+        "url": "",
+        "username": "HWatson2007",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
